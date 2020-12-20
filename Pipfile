@@ -9,6 +9,8 @@ python-dotenv = "*"
 line-bot-sdk = "*"
 transitions = "*"
 graphviz = "*"
+beautifulsoup4 = "*"
+pandas = "*"
 
 [dev-packages]
 
