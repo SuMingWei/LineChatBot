@@ -103,8 +103,14 @@ def webhook_handler():
         print(f"REQUEST BODY: \n{body}")
         response = machine.advance(event)
         if response == False:
-            
-            send_text_message(event.reply_token, "k")
+            if machine.state == "user":
+                send_text_message(event.reply_token, "in user")
+            elif machine.state == "state1":
+                send_text_message(event.reply_token, "in state 1")
+            elif machine.state == "state2":
+                send_text_message(event.reply_token, "in state 2")
+            else:
+                send_text_message(event.reply_token, "fuck")
 
     return "OK"
 
