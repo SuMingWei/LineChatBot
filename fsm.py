@@ -5,7 +5,6 @@ from utils import send_text_message,send_button_message
 from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction
 import pandas as pd
 import random
-
 # global variable
 region = ''
 restaurant_id = -1
