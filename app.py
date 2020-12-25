@@ -104,8 +104,8 @@ def webhook_handler():
         response = machine.advance(event)
         if response == False:
             if event.message.text.lower() == 'fsm':
-                #send_image_message(event.reply_token, 'https://aneater.herokuapp.com/show-fsm')
-                send_image_message(event.reply_token, './fsm.png')
+                send_image_message(event.reply_token, 'https://aneater.herokuapp.com/show-fsm')
+                #send_image_message(event.reply_token, './fsm.png')
             elif machine.state == "user":
                 send_text_message(event.reply_token, "in user")
             elif machine.state == "state1":
