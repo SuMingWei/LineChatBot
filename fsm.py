@@ -36,7 +36,7 @@ class TocMachine(GraphMachine):
         send_text_message(reply_token, "Trigger state2")
         self.go_back()
 
-
+'''
     # start on user
     def is_going_to_choose_region(self,event):
         text = event.message.text
@@ -315,6 +315,7 @@ class TocMachine(GraphMachine):
 
         send_text_message(event.reply_token, text)
 
+'''
         
 
 
