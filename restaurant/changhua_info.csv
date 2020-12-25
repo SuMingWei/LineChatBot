@@ -1,0 +1,301 @@
+id,name,link,pic_url,location,rating,count
+1,洪家雞肉飯,https://www.foodpanda.com.tw/restaurant/n3mr/hong-jia-ji-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/n3mr-listing.jpg,(△)彰化縣彰化市南郭路一段188號,4.5,558
+2,七悅雨,https://www.foodpanda.com.tw/restaurant/c7ph/qi-yue-yu,https://images.deliveryhero.io/image/fd-tw/LH/c7ph-listing.jpg,(△)彰化縣彰化市中正路一段281號,4.8,15
+3,曲肯叔叔美式炸雞店 (永樂店),https://www.foodpanda.com.tw/restaurant/f8qn/qu-ken-shu-shu-mei-shi-zha-ji-dian-yong-le-dian,https://images.deliveryhero.io/image/fd-tw/LH/f8qn-listing.jpg,(△)彰化縣彰化市永樂街227號,4.6,348
+4,九龍廣東粥永安店,https://www.foodpanda.com.tw/restaurant/f9lb/f9lb,https://images.deliveryhero.io/image/fd-tw/LH/f9lb-listing.jpg,(△)彰化縣彰化市民生里永安街157號,4.6,396
+5,老滷仙 (彰化三民店),https://www.foodpanda.com.tw/restaurant/p1ua/lao-lu-xian-zhang-hua-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/p1ua-listing.jpg,(△)彰化縣彰化市三民路60號,4.6,275
+6,圓稼嚼感奶茶,https://www.foodpanda.com.tw/chain/cy4tz/yuan-jia-jiao-gan-nai-cha,https://images.deliveryhero.io/image/fd-tw/LH/m0do-listing.jpg,(O) 台中市南屯區忠勇路80-24號,4.8,437
+7,晨香晨食館,https://www.foodpanda.com.tw/restaurant/z6db/chen-xiang-chen-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/z6db-listing.jpg,(△) 彰化縣彰化市長順街36號,4.7,952
+8,地6攤牛排 (彰化三民店),https://www.foodpanda.com.tw/restaurant/b2ze/-6--1,https://images.deliveryhero.io/image/fd-tw/LH/b2ze-listing.jpg,(△) 彰化縣彰化市三民路347號,4.7,463
+9,悟饕池上飯包 (彰化彰基店),https://www.foodpanda.com.tw/restaurant/q1co/wu-tao-chi-shang-fan-bao-zhang-hua-zhang-ji-dian,https://images.deliveryhero.io/image/fd-tw/LH/q1co-listing.jpg,(△)彰化縣彰化市南校街77號1樓,4.5,119
+10,歐爸小火鍋,https://www.foodpanda.com.tw/restaurant/d9sc/ou-ba-xiao-huo-guo,https://images.deliveryhero.io/image/fd-tw/LH/d9sc-listing.jpg,(△) 彰化縣彰化市民生路53號,4.4,108
+11,炳叔烤玉米 (彰化彰新店),https://www.foodpanda.com.tw/restaurant/b2ta/bing-shu-kao-yu-mi-zhang-hua-zhang-xin-dian,https://images.deliveryhero.io/image/fd-tw/LH/b2ta-listing.jpg,(△) 彰化縣彰化市彰新路一段138巷123號,4.7,215
+12,享司妳碳烤三明治,https://www.foodpanda.com.tw/restaurant/a6zo/xiang-si-nai-tan-kao-san-ming-zhi,https://images.deliveryhero.io/image/fd-tw/LH/a6zo-listing.jpg,(△) 彰化縣彰化市民族路339號,4.7,142
+13,幸福創意三明治,https://www.foodpanda.com.tw/restaurant/i4ea/xing-fu-chuang-yi-san-ming-zhi,https://images.deliveryhero.io/image/fd-tw/LH/i4ea-listing.jpg,(△)彰化縣彰化市永安街187號,4.8,48
+14,耐肯專業炸雞 (彰化長順店),https://www.foodpanda.com.tw/restaurant/j2eb/nai-ken-zhuan-ye-zha-ji-zhang-hua-chang-shun-dian,https://images.deliveryhero.io/image/fd-tw/LH/j2eb-listing.jpg,(△)彰化縣彰化市長順街148號,4.6,66
+15,風船章魚燒,https://www.foodpanda.com.tw/chain/cx5hg/feng-chuan-zhang-yu-shao,https://images.deliveryhero.io/image/fd-tw/LH/o9zg-listing.jpg,(△)台南市新市區華興街85號,4.6,192
+16,滿杯 (彰化彰基店),https://www.foodpanda.com.tw/restaurant/l9tc/man-bei-zhang-hua-zhang-ji-dian,https://images.deliveryhero.io/image/fd-tw/LH/l9tc-listing.jpg,(△)彰化縣彰化市南校街122號,4.8,55
+17,小時候小管麵線,https://www.foodpanda.com.tw/restaurant/e9cu/xiao-shi-hou-xiao-guan-mian-xian,https://images.deliveryhero.io/image/fd-tw/LH/e9cu-listing.jpg,(△) 彰化縣彰化市民權路二四七巷36號,4.7,622
+18,蘇記台南小吃,https://www.foodpanda.com.tw/restaurant/j5do/j5do,https://images.deliveryhero.io/image/fd-tw/LH/j5do-listing.jpg,(△) 彰化縣彰化市中正路一段290號,4.4,286
+19,72度c舒肥健康餐,https://www.foodpanda.com.tw/chain/cd6qp/72du-cshu-fei-jian-kang-can,https://images.deliveryhero.io/image/fd-tw/LH/m4im-listing.jpg,(△) 台中市西區民生路151號,4.8,249
+20,飯最吉糰,https://www.foodpanda.com.tw/restaurant/v3jo/fan-zui-ji-tuan,https://images.deliveryhero.io/image/fd-tw/LH/v3jo-listing.jpg,(△)彰化縣彰化市永樂街167號,4.7,275
+21,Skinny Cafe瘦子咖啡,https://www.foodpanda.com.tw/restaurant/z9vj/skinny-cafeshou-zi-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/z9vj-listing.jpg,(△) 彰化縣彰化市光復路143巷4號 (食安登錄字號:N-200081361-00001-2),4.9,354
+22,彰化木瓜牛乳大王 (中正總店),https://www.foodpanda.com.tw/restaurant/k0rn/zhang-hua-mu-gua-niu-ru-da-wang-zhong-zheng-zong-dian,https://images.deliveryhero.io/image/fd-tw/LH/k0rn-listing.jpg,(△)彰化縣彰化市中正路二段152號,4.7,535
+23,(正)大腸圈担,https://www.foodpanda.com.tw/restaurant/d6tq/zheng-da-chang-quan-dan,https://images.deliveryhero.io/image/fd-tw/LH/d6tq-listing.jpg,(△) 彰化縣彰化市自強路212號,4.4,196
+24,樂果手創烘焙 (彰化曉陽店),https://www.foodpanda.com.tw/restaurant/tqjc/le-guo-shou-chuang-hong-bei-zhang-hua-xiao-yang-dian,https://images.deliveryhero.io/image/fd-tw/LH/tqjc-listing.jpg,(△)彰化縣彰化市曉陽路163號,5,2
+25,必可蜜 (彰化民族店),https://www.foodpanda.com.tw/restaurant/o8zs/bi-ke-mi-zhang-hua-min-zu-dian,https://images.deliveryhero.io/image/fd-tw/LH/o8zs-listing.jpg,(O)彰化縣彰化市民族路292-1號,4.7,235
+26,矮子咖哩カレーライス專門店,https://www.foodpanda.com.tw/restaurant/u8ws/ai-zi-ka-li-kareraisuzhuan-men-dian,https://images.deliveryhero.io/image/fd-tw/LH/u8ws-listing.jpg,(△)彰化縣彰化市自強南路22巷13號,4.8,90
+27,黑頭碗粿中正店,https://www.foodpanda.com.tw/restaurant/f6wr/hei-tou-wan-guo-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/f6wr-listing.jpg,(△)彰化縣彰化市中正路一段393號,4.7,302
+28,滿月茶作 (彰化民族店),https://www.foodpanda.com.tw/restaurant/e1sy/man-yue-cha-zuo-zhang-hua-min-zu-dian,https://images.deliveryhero.io/image/fd-tw/LH/e1sy-listing.jpg,(O) 彰化縣彰化市民族路454號,4.6,181
+29,無辣不食,https://www.foodpanda.com.tw/restaurant/z5ow/wu-la-bu-shi,https://images.deliveryhero.io/image/fd-tw/LH/z5ow-listing.jpg,(△) 彰化縣彰化市華山路144號,3.9,554
+30,自家用料理食堂,https://www.foodpanda.com.tw/restaurant/z8nm/zi-jia-yong-liao-li-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/z8nm-listing.jpg,(△) 彰化縣彰化市長興街140號5號2樓,4.6,208
+31,米樂壽司,https://www.foodpanda.com.tw/restaurant/a7nz/mi-le-shou-si,https://images.deliveryhero.io/image/fd-tw/LH/a7nz-listing.jpg,(△) 彰化縣彰化市民權路114號,4.7,427
+32,咖啡張,https://www.foodpanda.com.tw/restaurant/c6sy/ka-pei-zhang,https://images.deliveryhero.io/image/fd-tw/LH/c6sy-listing.jpg,(△)彰化縣彰化市三民路123號,5,2
+33,小么雞鹹水雞 (三民店),https://www.foodpanda.com.tw/restaurant/p5rj/xiao-yao-ji-xian-shui-ji-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/p5rj-listing.jpg,(△) 彰化縣彰化市三民路59號,4.5,248
+34,永樂麻辣香炸豆腐,https://www.foodpanda.com.tw/restaurant/q8se/yong-le-ma-la-xiang-zha-dou-fu,https://images.deliveryhero.io/image/fd-tw/LH/q8se-listing.jpg,(△) 彰化縣彰化市民生路62號,4.6,110
+35,YOLO MOMENT 新美式烘焙,https://www.foodpanda.com.tw/restaurant/a9qo/yolo-moment-xin-mei-shi-hong-bei,https://images.deliveryhero.io/image/fd-tw/LH/a9qo-listing.jpg,(△) 彰化縣彰化市中正路一段430號,4.8,188
+36,九圓茶行,https://www.foodpanda.com.tw/restaurant/b8fh/jiu-yuan-cha-xing,https://images.deliveryhero.io/image/fd-tw/LH/b8fh-listing.jpg,(△) 彰化縣彰化市成功路74號,4.9,484
+37,鮮茶道,https://www.foodpanda.com.tw/chain/cy1pg/xian-cha-dao,https://images.deliveryhero.io/image/fd-tw/LH/a2vj-listing.jpg,(O)新北市淡水區中正路49號,4.8,577
+38,大鼎鍋,https://www.foodpanda.com.tw/restaurant/z6gf/da-ding-guo,https://images.deliveryhero.io/image/fd-tw/LH/z6gf-listing.jpg,(△) 彰化縣彰化市永興街120號,4.7,1125
+39,太師傅便當專賣店,https://www.foodpanda.com.tw/chain/co2ag/shi-fu-bian-dang-zhuan-mai-dian-gao-xiong-gang-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/e3yp-listing.jpg,(O) 高雄市岡山區民有路73號,4.6,116
+40,虎藏燒肉丼食所,https://www.foodpanda.com.tw/chain/cx3gp/hu-cang-shao-rou-jing-shi-suo,https://images.deliveryhero.io/image/fd-tw/LH/v9lb-listing.jpg,(O) 桃園市中壢區慈惠三街30巷2號1樓,4.6,179
+41,彰化港仔菱角酥.芋沙餅,https://www.foodpanda.com.tw/restaurant/z1ai/zhang-hua-gang-zi-ling-jiao-su-yu-sha-bing,https://images.deliveryhero.io/image/fd-tw/LH/z1ai-listing.jpg,(△) 彰化縣彰化市陳稜路174號,4.7,245
+42,香豪肉粽,https://www.foodpanda.com.tw/restaurant/c7qb/xiang-hao-rou-zong,https://images.deliveryhero.io/image/fd-tw/LH/c7qb-listing.jpg,(△) 彰化縣彰化市中山路二段657號,4.5,177
+43,吐司男,https://www.foodpanda.com.tw/chain/cv8tz/tu-si-nan,https://images.deliveryhero.io/image/fd-tw/LH/r0vu-listing.jpg,(O)台北市中山區南京西路14號1F,4.7,221
+44,cama café,https://www.foodpanda.com.tw/chain/ct8kp/cama-cafe,https://images.deliveryhero.io/image/fd-tw/LH/e2jr-listing.jpg,(O) 台北市大安區大安路一段170號1樓,4.8,287
+45,小豬很忙蔬果滷味 (彰化民族店),https://www.foodpanda.com.tw/restaurant/z6qf/xiao-zhu-hen-mang-shu-guo-lu-wei-zhang-hua-min-zu-dian,https://images.deliveryhero.io/image/fd-tw/LH/z6qf-listing.jpg,(△) 彰化縣彰化市民族路335號,4.5,464
+46,腐頭幫,https://www.foodpanda.com.tw/restaurant/d1qr/fu-tou-bang,https://images.deliveryhero.io/image/fd-tw/LH/d1qr-listing.jpg,(△) 彰化縣彰化市彰新路一段123號,4.8,219
+47,七味燒肉町,https://www.foodpanda.com.tw/restaurant/d5se/qi-wei-shao-rou-ting,https://images.deliveryhero.io/image/fd-tw/LH/d5se-listing.jpg,(△) 彰化縣彰化市辭修路467號 食品業者登錄字號:N-138762817-00001-4,4.7,819
+48,老鄉雞湯燒,https://www.foodpanda.com.tw/restaurant/z2xk/lao-xiang-ji-tang-shao,https://images.deliveryhero.io/image/fd-tw/LH/z2xk-listing.jpg,(△) 彰化縣彰化市中正路二段254號,4.8,1072
+49,秉峯鍋燒麵,https://www.foodpanda.com.tw/restaurant/a3ag/bing-feng-guo-shao-mian,https://images.deliveryhero.io/image/fd-tw/LH/a3ag-listing.jpg,(△) 彰化縣彰化市永福街6號,4.5,1422
+50,汁液型男,https://www.foodpanda.com.tw/restaurant/f1gq/f1gq,https://images.deliveryhero.io/image/fd-tw/LH/f1gq-listing.jpg,(△) 彰化縣彰化市富貴里民權路247巷30號,4.6,195
+51,美村尼克 (彰化辭修店),https://www.foodpanda.com.tw/restaurant/a3hy/mei-cun-ni-ke-zhang-hua-ci-xiu-dian,https://images.deliveryhero.io/image/fd-tw/LH/a3hy-listing.jpg,(△) 彰化縣彰化市辭修路182號,4.6,210
+52,娘娘雞排如意殿,https://www.foodpanda.com.tw/restaurant/f0oc/f0oc,https://images.deliveryhero.io/image/fd-tw/LH/f0oc-listing.jpg,(△)彰化縣彰化市三民路229號,4.7,819
+53,吳家紅茶冰 (彰化中正店),https://www.foodpanda.com.tw/restaurant/z0ng/wu-jia-hong-cha-bing-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/z0ng-listing.jpg,(△) 彰化縣彰化市中正路二段320號,4.8,699
+54,彰化市永安羊肉羹,https://www.foodpanda.com.tw/restaurant/h6wz/zhang-hua-shi-yong-an-yang-rou-geng,https://images.deliveryhero.io/image/fd-tw/LH/h6wz-listing.jpg,(△)彰化縣彰化市永安街326號,4.3,192
+55,吳家紅茶冰 (彰化金馬店),https://www.foodpanda.com.tw/restaurant/z6pd/wu-jia-hong-cha-bing-zhang-hua-jin-ma-dian,https://images.deliveryhero.io/image/fd-tw/LH/z6pd-listing.jpg,(△) 彰化縣彰化市金馬路三段81號,4.8,551
+56,正宗娟(南投意麵),https://www.foodpanda.com.tw/restaurant/a5gp/zheng-zong-juan-nan-tou-yi-mian,https://images.deliveryhero.io/image/fd-tw/LH/a5gp-listing.jpg,(△) 彰化縣彰化市中正路一段467號,4.6,698
+57,小松丼丼,https://www.foodpanda.com.tw/chain/cp2zf/xiao-song-jing-jing,https://images.deliveryhero.io/image/fd-tw/LH/e1cq-listing.jpg,(△) 彰化縣彰化市民權路247巷54號,4.6,796
+58,上水邨,https://www.foodpanda.com.tw/restaurant/u6bu/shang-shui-cun,https://images.deliveryhero.io/image/fd-tw/LH/u6bu-listing.jpg,(△) 彰化縣彰化市中正路二段217號,4.7,181
+59,豫琴經典麵食館,https://www.foodpanda.com.tw/restaurant/f6dg/yu-qin-jing-dian-mian-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/f6dg-listing.jpg,(△)彰化縣彰化市自強南路520號,4.5,246
+60,天仁茗茶/喫茶趣,https://www.foodpanda.com.tw/chain/cp9yf/tian-ren-ming-cha-chi-cha-qu,https://images.deliveryhero.io/image/fd-tw/LH/a5mf-listing.jpg,(O)台北市信義區松高路11號B2F,4.7,1015
+61,湖南鴨香寶滷味,https://www.foodpanda.com.tw/restaurant/r6zp/hu-nan-ya-xiang-bao-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/r6zp-listing.jpg,(△)彰化縣彰化市永安街213-6號,4.8,91
+62,拿坡里炸雞 (Mercuries),https://www.foodpanda.com.tw/chain/cm9on/na-po-li-zha-ji,https://images.deliveryhero.io/image/fd-tw/LH/q1zn-listing.jpg,(X)台北市文山區興隆路三段31號 食品安全登錄字號： F-197301707-00028-2,4.6,188
+63,老吳老滷味,https://www.foodpanda.com.tw/restaurant/s6j6/lao-wu-lao-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/s6j6-listing.jpg,(△)彰化縣彰化市陽明街43號,NA,0
+64,觀世音素食,https://www.foodpanda.com.tw/restaurant/c4ms/guan-shi-yin-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/c4ms-listing.jpg,(△)彰化縣彰化市永樂街194號,4.6,220
+65,云品綠豆沙、豆花專賣店,https://www.foodpanda.com.tw/restaurant/t9tn/yun-pin-lu-dou-sha-dou-hua-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/t9tn-listing.jpg,(△)彰化縣彰化市民生路295號,4.6,44
+66,8度燒,https://www.foodpanda.com.tw/restaurant/o8jr/8du-shao,https://images.deliveryhero.io/image/fd-tw/LH/o8jr-listing.jpg,(△)彰化縣彰化市金馬路三段18號,4.7,38
+67,永安鐵板蓋飯,https://www.foodpanda.com.tw/restaurant/n2xw/yong-an-tie-ban-gai-fan,https://images.deliveryhero.io/image/fd-tw/LH/n2xw-listing.jpg,(△) 彰化縣彰化市永安街213-5號,4.7,384
+68,九龍廣東粥,https://www.foodpanda.com.tw/restaurant/z4pw/jiu-long-guang-dong-zhou,https://images.deliveryhero.io/image/fd-tw/LH/z4pw-listing.jpg,(△) 彰化縣彰化市民生路101號,4.7,1152
+69,拉亞漢堡 (彰化三民店),https://www.foodpanda.com.tw/restaurant/p8du/la-ya-han-bao-zhang-hua-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/p8du-listing.jpg,(△)彰化縣彰化市三民路298號,4.7,239
+70,員林南門四神湯,https://www.foodpanda.com.tw/chain/cx7va/yuan-lin-nan-men-si-shen-tang,https://images.deliveryhero.io/image/fd-tw/LH/p7nr-listing.jpg,(△) 彰化縣員林市中正路274號,4.5,378
+71,絕代双餃 (彰化中正店),https://www.foodpanda.com.tw/restaurant/d0xq/jue-dai-shuang-jiao-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/d0xq-listing.jpg,(△) 彰化縣彰化市中正路二段135號,4.6,2830
+72,手匠拉麵,https://www.foodpanda.com.tw/restaurant/z0hi/shou-jiang-la-mian,https://images.deliveryhero.io/image/fd-tw/LH/z0hi-listing.jpg,(△) 彰化縣彰化市中正路一段367號,4.7,610
+73,甲霸珍饌,https://www.foodpanda.com.tw/restaurant/r0ko/jia-ba-zhen-zhuan,https://images.deliveryhero.io/image/fd-tw/LH/r0ko-listing.jpg,(△)彰化縣彰化市彰草路49號,4.5,109
+74,轉角遇到熱壓吐司,https://www.foodpanda.com.tw/restaurant/a8te/zhuan-jiao-yu-dao-re-ya-tu-si,https://images.deliveryhero.io/image/fd-tw/LH/a8te-listing.jpg,(△) 彰化縣彰化市自強路212號,4.6,42
+75,端倪生活,https://www.foodpanda.com.tw/restaurant/z6pj/duan-ni-sheng-huo,https://images.deliveryhero.io/image/fd-tw/LH/z6pj-listing.jpg,(△) 彰化縣彰化市三民路9號,4.7,17
+76,晨曦早餐店,https://www.foodpanda.com.tw/restaurant/d7vk/chen-xi-zao-can-dian,https://images.deliveryhero.io/image/fd-tw/LH/d7vk-listing.jpg,(△) 彰化縣彰化市中正路2段382號,4.6,402
+77,頂好馨臭臭鍋彰化店,https://www.foodpanda.com.tw/restaurant/e6ve/ding-hao-xin-chou-chou-guo-zhang-hua-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/e6ve-listing.jpg,(△) 彰化縣彰化市三民路63號,4.7,219
+78,原動力早午餐店,https://www.foodpanda.com.tw/restaurant/m0yt/yuan-dong-li-zao-wu-can-dian,https://images.deliveryhero.io/image/fd-tw/LH/m0yt-listing.jpg,(△)彰化縣彰化市自強南路45-7號,4.7,175
+79,皇品牛肉麵,https://www.foodpanda.com.tw/chain/cg1vt/huang-pin-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/f0xb-listing.jpg,(△) 彰化縣彰化市中正路二段307號 (食安登錄字號:N-200044237-00000-2),4.7,862
+80,轟太陽燒烤滷味部落廣場（總店）,https://www.foodpanda.com.tw/restaurant/e9kp/hong-tai-yang-shao-kao-lu-wei-bu-luo-guang-chang-zong-dian,https://images.deliveryhero.io/image/fd-tw/LH/e9kp-listing.jpg,(△) 彰化縣彰化市南郭路一段192號,4.7,97
+81,高記油飯涼麵,https://www.foodpanda.com.tw/restaurant/z8ae/gao-ji-you-fan-liang-mian,https://images.deliveryhero.io/image/fd-tw/LH/z8ae-listing.jpg,(△)彰化縣彰化市永安街213號,4.6,540
+82,脆皮雞排 (彰化店),https://www.foodpanda.com.tw/restaurant/b6aw/cui-pi-ji-pai,https://images.deliveryhero.io/image/fd-tw/LH/b6aw-listing.jpg,(△) 彰化縣彰化市金馬路二段529號,4.7,889
+83,嗑肉石鍋 (彰化中正店),https://www.foodpanda.com.tw/restaurant/l0yu/ke-rou-shi-guo-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/l0yu-listing.jpg,(△)彰化縣彰化市中正路二段475號,4.5,177
+84,Yes熱壓吐司,https://www.foodpanda.com.tw/restaurant/x3dl/yesre-ya-tu-si,https://images.deliveryhero.io/image/fd-tw/LH/x3dl-listing.jpg,(△) 彰化縣彰化市成功路309巷28號,4.6,137
+85,熊老大燒翅,https://www.foodpanda.com.tw/restaurant/z2dm/xiong-lao-da-shao-chi,https://images.deliveryhero.io/image/fd-tw/LH/z2dm-listing.jpg,(△) 彰化縣彰化市中正路二段320號,4.6,214
+86,潮味決,https://www.foodpanda.com.tw/chain/cc3hm/chao-wei-jue,https://images.deliveryhero.io/image/fd-tw/LH/b5zm-listing.jpg,(△) (M) 新北市三重區重新路五段609巷14號之6,4.6,783
+87,YOLO MOMENT 舒食餐館,https://www.foodpanda.com.tw/restaurant/a4cu/yolo-moment-,https://images.deliveryhero.io/image/fd-tw/LH/a4cu-listing.jpg,(△) 彰化縣彰化市中正路一段430號,4.8,197
+88,捲捲麵,https://www.foodpanda.com.tw/restaurant/z6tt/juan-juan-mian,https://images.deliveryhero.io/image/fd-tw/LH/z6tt-listing.jpg,(△) 彰化縣彰化市東民街15號,4.7,332
+89,禾籽八斗鴨肉油飯 (彰化自強店),https://www.foodpanda.com.tw/restaurant/a9ly/he-zi-ba-dou-ya-rou-you-fan-zhang-hua-zi-qiang-dian,https://images.deliveryhero.io/image/fd-tw/LH/a9ly-listing.jpg,(△) 彰化縣彰化市自強路7之3號,4.6,377
+90,吳記大腸蚵仔麵線,https://www.foodpanda.com.tw/restaurant/f2lp/f2lp,https://images.deliveryhero.io/image/fd-tw/LH/f2lp-listing.jpg,(△)彰化縣彰化市南校街144號,4.6,318
+91,永和來來豆漿大王,https://www.foodpanda.com.tw/restaurant/k3jt/k3jt,https://images.deliveryhero.io/image/fd-tw/LH/k3jt-listing.jpg,(△)彰化縣彰化市長順街169號,4.6,242
+92,美而美早餐店,https://www.foodpanda.com.tw/chain/cy4ej/mei-er-mei-zao-can-dian,https://images.deliveryhero.io/image/fd-tw/LH/z0rt-listing.jpg,(△) 彰化縣彰化市長興街158號,4.8,2045
+93,丐幫滷味,https://www.foodpanda.com.tw/chain/cv6ld/gai-bang-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/a4ed-listing.jpg,(O) 彰化縣彰化市中華路47號,4.6,34
+94,阿全爌肉飯,https://www.foodpanda.com.tw/restaurant/g4dz/a-quan-kuang-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/g4dz-listing.jpg,(△) 彰化縣彰化市自強路224號,4.5,231
+95,小松鴨肉羹,https://www.foodpanda.com.tw/restaurant/fyxv/xiao-song-ya-rou-geng,https://images.deliveryhero.io/image/fd-tw/LH/fyxv-listing.jpg,(△) 彰化縣彰化市永安街276-1號,4.7,5
+96,MY HOME 珍紅複合式餐飲,https://www.foodpanda.com.tw/restaurant/z0pk/my-home-,https://images.deliveryhero.io/image/fd-tw/LH/z0pk-listing.jpg,(△) 彰化縣彰化市南郭路一段126號,4.6,965
+97,維也納鍋物,https://www.foodpanda.com.tw/restaurant/e7br/wei-ye-na-guo-wu,https://images.deliveryhero.io/image/fd-tw/LH/e7br-listing.jpg,(△) 彰化縣彰化市華山路35-1號,4.4,90
+98,Wagga炸蛋蔥油餅,https://www.foodpanda.com.tw/restaurant/z2bm/waggazha-dan-cong-you-bing,https://images.deliveryhero.io/image/fd-tw/LH/z2bm-listing.jpg,(△) 彰化縣彰化市東民街23號,4.8,593
+99,Tzemdas kaffa,https://www.foodpanda.com.tw/restaurant/d4ij/tzemdas-kaffa,https://images.deliveryhero.io/image/fd-tw/LH/d4ij-listing.jpg,(△) 彰化縣彰化市自強路248號,4.8,61
+100,大鼎包子饅頭專賣店 (彰化三民店),https://www.foodpanda.com.tw/restaurant/m5ao/da-ding-bao-zi-man-tou-zhuan-mai-dian-zhang-hua-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/m5ao-listing.jpg,(△) 彰化縣彰化市三民路315號,4.7,87
+101,KFC肯德基（無早餐）,https://www.foodpanda.com.tw/chain/ct8ct/kfcken-de-ji-wu-zao-can,https://images.deliveryhero.io/image/fd-tw/LH/a8ek-listing.jpg,(X) 台北市信義區光復南路465號  食品業者登錄字號：A-197161500-00690-2,4.6,962
+102,西門彰化肉圓,https://www.foodpanda.com.tw/restaurant/z0cf/xi-men-zhang-hua-rou-yuan,https://images.deliveryhero.io/image/fd-tw/LH/z0cf-listing.jpg,(△) 彰化縣彰化市中正路二段188號,4.6,276
+103,珍北平豬肉餡餅,https://www.foodpanda.com.tw/chain/cj3tw/zhen-bei-ping-zhu-rou-xian-bing,https://images.deliveryhero.io/image/fd-tw/LH/z9vu-listing.jpg,(△) 彰化縣彰化市南郭路一段139號,4.8,1212
+104,水餃牛肉麵店,https://www.foodpanda.com.tw/restaurant/r1tt/shui-jiao-niu-rou-mian-dian,https://images.deliveryhero.io/image/fd-tw/LH/r1tt-listing.jpg,(△)彰化縣彰化市民生路403號,3.8,92
+105,萬心素食館,https://www.foodpanda.com.tw/restaurant/a5te/wan-xin-su-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/a5te-listing.jpg,(△) 彰化縣彰化市自強路144號,4.6,425
+106,素禎素食,https://www.foodpanda.com.tw/restaurant/a6ez/su-zhen-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/a6ez-listing.jpg,(△) 彰化縣彰化市南校街142號,4.6,407
+107,玉華珍.名產麻糬 (彰化民生店),https://www.foodpanda.com.tw/restaurant/z3ss/yu-hua-zhen-ming-chan-ma-zhang-hua-min-sheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/z3ss-listing.jpg,(△) 彰化縣彰化市民生路223號 (食安登錄字號:N-182417954-00000-1),4.8,233
+108,HELLO手作菇菇燒 (彰化華山店),https://www.foodpanda.com.tw/restaurant/olxx/helloshou-zuo-gu-gu-shao-zhang-hua-hua-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/olxx-listing.jpg,(△) 彰化縣彰化市華山路130號,4.8,44
+109,豆豆喝豆漿,https://www.foodpanda.com.tw/restaurant/b3fj/dou-dou-he-dou-jiang,https://images.deliveryhero.io/image/fd-tw/LH/b3fj-listing.jpg,(△) 彰化縣彰化市金馬路二段436號,4.6,652
+110,八佰號海鮮燒烤/黑白切,https://www.foodpanda.com.tw/restaurant/f1xt/ba-bai-hao-hai-xian-shao-kao-hei-bai-qie,https://images.deliveryhero.io/image/fd-tw/LH/f1xt-listing.jpg,(△)彰化縣彰化市金馬路三段800號,4.6,44
+111,PaPa Pasta (彰化彰女店),https://www.foodpanda.com.tw/restaurant/z9vg/papa-pasta-zhang-hua-zhang-nu-dian,https://images.deliveryhero.io/image/fd-tw/LH/z9vg-listing.jpg,(△) 彰化縣彰化市長興街32號,4.4,673
+112,路易十八 (彰化民生店),https://www.foodpanda.com.tw/restaurant/d6ld/lu-yi-shi-ba-zhang-hua-min-sheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/d6ld-listing.jpg,(△) 彰化縣彰化市民生路100號,4.8,198
+113,王功昌蚵仔炒麵,https://www.foodpanda.com.tw/restaurant/z9je/wang-gong-chang-he-zi-chao-mian,https://images.deliveryhero.io/image/fd-tw/LH/z9je-listing.jpg,(△) 彰化縣彰化市永安街208巷2號,4.6,1197
+114,嘴乾-茶飲黑糖珍珠,https://www.foodpanda.com.tw/restaurant/d6gi/zui-gan-cha-yin-hei-tang-zhen-zhu,https://images.deliveryhero.io/image/fd-tw/LH/d6gi-listing.jpg,(△) 彰化縣彰化市自強路212號,4.4,66
+115,小嶋鳥燒居酒屋,https://www.foodpanda.com.tw/restaurant/f6jj/xiao-dao-niao-shao-ju-jiu-wu,https://images.deliveryhero.io/image/fd-tw/LH/f6jj-listing.jpg,(△)彰化縣彰化市中華路239巷16號,4.7,71
+116,東門食堂,https://www.foodpanda.com.tw/restaurant/t8rr/dong-men-shi-tang-1,https://images.deliveryhero.io/image/fd-tw/LH/t8rr-listing.jpg,(△)彰化縣彰化市民生路331號,3.9,90
+117,一手私藏世界紅茶,https://www.foodpanda.com.tw/chain/cz1em/yi-shou-si-cang-shi-jie-hong-cha,https://images.deliveryhero.io/image/fd-tw/LH/z9ey-listing.jpg,(O) 台北市中山區八德路二段277號1樓,4.8,1574
+118,岐也紅茶,https://www.foodpanda.com.tw/chain/cx2xq/qi-ye-hong-cha,https://images.deliveryhero.io/image/fd-tw/LH/h6aw-listing.jpg,(△)彰化縣彰化市中正路二段131號,4.7,342
+119,雲燒炭烤吐司,https://www.foodpanda.com.tw/restaurant/p29p/yun-shao-tan-kao-tu-si,https://images.deliveryhero.io/image/fd-tw/LH/p29p-listing.jpg,(△)彰化縣彰化市中正路二段424號,4.4,166
+120,福祺周 (傳統美食，快炒),https://www.foodpanda.com.tw/restaurant/d4yu/fu-qi-zhou-chuan-tong-mei-shi-kuai-chao,https://images.deliveryhero.io/image/fd-tw/LH/d4yu-listing.jpg,(△) 彰化縣彰化市永興街70號,4.6,396
+121,港城豆花 (彰化彰美店),https://www.foodpanda.com.tw/restaurant/z5ei/gang-cheng-dou-hua-zhang-hua-zhang-mei-dian,https://images.deliveryhero.io/image/fd-tw/LH/z5ei-listing.jpg,(△) 彰化縣彰化市辭修路102號,4.6,446
+122,La Coma Caf'e＆Brunch,https://www.foodpanda.com.tw/restaurant/z3sy/la-coma-cafe-brunch,https://images.deliveryhero.io/image/fd-tw/LH/z3sy-listing.jpg,(△) 彰化縣彰化市旭光路72號,4.8,82
+123,蕭家紅茶本舖,https://www.foodpanda.com.tw/restaurant/g7bg/xiao-jia-hong-cha-ben-pu,https://images.deliveryhero.io/image/fd-tw/LH/g7bg-listing.jpg,(△)彰化縣彰化市彰美路一段268號,4.8,124
+124,燒等幾勒碳烤,https://www.foodpanda.com.tw/restaurant/z8ve/shao-deng-ji-le-tan-kao,https://images.deliveryhero.io/image/fd-tw/LH/z8ve-listing.jpg,(△) 彰化縣彰化市曉陽路121號,4.3,844
+125,大順當歸鴨肉飯,https://www.foodpanda.com.tw/restaurant/o1hi/da-shun-dang-gui-ya-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/o1hi-listing.jpg,(△)彰化縣彰化市自強路152號,4.6,704
+126,排骨叔叔美食小館,https://www.foodpanda.com.tw/restaurant/he6g/pai-gu-shu-shu-mei-shi-xiao-guan,https://images.deliveryhero.io/image/fd-tw/LH/he6g-listing.jpg,(△) 彰化縣彰化市永福街20號,4.5,41
+127,華圓池上飯包,https://www.foodpanda.com.tw/chain/cz6ga/hua-yuan-chi-shang-fan-bao,https://images.deliveryhero.io/image/fd-tw/LH/z1eo-listing.jpg,(△) 彰化縣彰化市中興路158之4號,4.5,360
+128,饌囍堂臭臭鍋 (彰化南郭店),https://www.foodpanda.com.tw/restaurant/f8ah/f8ah,https://images.deliveryhero.io/image/fd-tw/LH/f8ah-listing.jpg,(△)彰化縣彰化市南郭路一段177號,4.7,236
+129,隨義X義麵,https://www.foodpanda.com.tw/restaurant/z7mz/sui-yi-xyi-mian,https://images.deliveryhero.io/image/fd-tw/LH/z7mz-listing.jpg,(△) 彰化縣彰化市永安街176號,4.6,158
+130,水云茶堂 (彰化彰基店),https://www.foodpanda.com.tw/restaurant/a7hu/shui-yun-cha-tang-zhang-hua-zhang-ji-dian,https://images.deliveryhero.io/image/fd-tw/LH/a7hu-listing.jpg,(△) 彰化縣彰化市博愛街79號,4.7,427
+131,車路口阿義担仔麵,https://www.foodpanda.com.tw/restaurant/s4nb/che-lu-kou-a-yi-dan-zi-mian,https://images.deliveryhero.io/image/fd-tw/LH/s4nb-listing.jpg,(△)彰化縣彰化市中正路一段320號,4.6,287
+132,谷登廚房,https://www.foodpanda.com.tw/restaurant/kyw2/gu-deng-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/kyw2-listing.jpg,(△)彰化縣彰化市自強南路45-3號,4.3,73
+133,JUICY帕尼尼(啾C鮮果汁),https://www.foodpanda.com.tw/restaurant/z2mg/juicypa-ni-ni-jiu-cxian-guo-zhi,https://images.deliveryhero.io/image/fd-tw/LH/z2mg-listing.jpg,(△) 彰化縣彰化市民族路350號,4.6,420
+134,心甜咖啡烘培坊,https://www.foodpanda.com.tw/restaurant/a1cg/xin-tian-ka-pei-hong-pei-fang,https://images.deliveryhero.io/image/fd-tw/LH/a1cg-listing.jpg,(△) 彰化縣彰化市民族路315巷22號,4.7,24
+135,sico料理所,https://www.foodpanda.com.tw/restaurant/a7ht/sicoliao-li-suo,https://images.deliveryhero.io/image/fd-tw/LH/a7ht-listing.jpg,(△) 彰化縣彰化市永安街425號,4.8,652
+136,慶和羊肉,https://www.foodpanda.com.tw/restaurant/yavk/qing-he-yang-rou,https://images.deliveryhero.io/image/fd-tw/LH/yavk-listing.jpg,(△)彰化縣彰化市華山路112號,4.4,43
+137,珍正Q饅頭,https://www.foodpanda.com.tw/restaurant/z9jc/zhen-zheng-qman-tou,https://images.deliveryhero.io/image/fd-tw/LH/z9jc-listing.jpg,(△) 彰化縣彰化市中民街58號,4.6,250
+138,蟹將軍炸物專賣店 (彰化曉陽店),https://www.foodpanda.com.tw/restaurant/z0ew/xie-jiang-jun-zha-wu-zhuan-mai-dian-zhang-hua-xiao-yang-dian,https://images.deliveryhero.io/image/fd-tw/LH/z0ew-listing.jpg,(△) 彰化縣彰化市曉陽路96號,4.7,429
+139,送青茶贊,https://www.foodpanda.com.tw/restaurant/z8xg/song-qing-cha-zan,https://images.deliveryhero.io/image/fd-tw/LH/z8xg-listing.jpg,(△) 彰化縣彰化市永安街180號 (食安登錄字號:N-200144128-00000-2),4.8,821
+140,社頭甘草芭樂 (質優一生美容),https://www.foodpanda.com.tw/restaurant/ja5q/she-tou-xian-qie-gan-cao-ba-le-zhi-you-sheng-mei-rong,https://images.deliveryhero.io/image/fd-tw/LH/ja5q-listing.jpg,(△) 彰化縣彰化市民權路208號,4.8,15
+141,The Planet星球咖啡,https://www.foodpanda.com.tw/restaurant/z3rr/the-planet-,https://images.deliveryhero.io/image/fd-tw/LH/z3rr-listing.jpg,(△) 彰化縣彰化市中華路260號,4.5,2
+142,水煮意鱔魚 鍋燒專賣店,https://www.foodpanda.com.tw/restaurant/m2wn/shui-zhu-yi-shan-yu-guo-shao-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/m2wn-listing.jpg,(△) 彰化縣彰化市永安街326號,4.6,320
+143,松江町鍋物專賣店,https://www.foodpanda.com.tw/restaurant/d6qx/song-jiang-ting-guo-wu-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/d6qx-listing.jpg,(△) 彰化縣彰化市陳稜路173號,4.6,585
+144,三民木瓜牛奶傳統挫冰,https://www.foodpanda.com.tw/restaurant/p2si/san-min-mu-gua-niu-nai-chuan-tong-cuo-bing,https://images.deliveryhero.io/image/fd-tw/LH/p2si-listing.jpg,(△)彰化縣彰化市三民路329號,4.8,68
+145,神奈川丼飯專賣店 (彰化華山店),https://www.foodpanda.com.tw/restaurant/m7gj/shen-nai-chuan-jing-fan-zhuan-mai-dian-zhang-hua-hua-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/m7gj-listing.jpg,(△)彰化縣彰化市華山路35號,4.3,123
+146,siado cafe,https://www.foodpanda.com.tw/restaurant/b5he/siado-cafe,https://images.deliveryhero.io/image/fd-tw/LH/b5he-listing.jpg,(△) 彰化縣彰化市長興街123號,4.6,172
+147,米內瓦之家,https://www.foodpanda.com.tw/restaurant/a4rc/mi-nei-wa-zhi-jia,https://images.deliveryhero.io/image/fd-tw/LH/a4rc-listing.jpg,(△) 彰化縣彰化市三民路135號,4.9,95
+148,八方雲集,https://www.foodpanda.com.tw/chain/cf2ih/ba-fang-yun-ji,https://images.deliveryhero.io/image/fd-tw/LH/e3ce-listing.jpg,(△) (M) 新北市中和區立德街113號1樓,4.7,502
+149,茶聚,https://www.foodpanda.com.tw/chain/cu8ec/cha-ju,https://images.deliveryhero.io/image/fd-tw/LH/a2wp-listing.jpg,(△)新北市板橋區大仁街25號,4.8,358
+150,FAS COFFEE,https://www.foodpanda.com.tw/restaurant/f5jm/fas-coffee,https://images.deliveryhero.io/image/fd-tw/LH/f5jm-listing.jpg,(△) 彰化縣彰化市民族路509號,4.9,36
+151,卜蛋紅油抄手,https://www.foodpanda.com.tw/restaurant/u7ds/bu-dan-hong-you-chao-shou,https://images.deliveryhero.io/image/fd-tw/LH/u7ds-listing.jpg,(△)彰化縣彰化市光復路15號,4.7,155
+152,小米粒手作米飯糰,https://www.foodpanda.com.tw/restaurant/z2cx/xiao-mi-li-shou-zuo-mi-fan-tuan,https://images.deliveryhero.io/image/fd-tw/LH/z2cx-listing.jpg,(△) 彰化縣彰化市永興街27號,4.8,243
+153,新町豆花 (彰化中正店),https://www.foodpanda.com.tw/restaurant/q6yc/xin-ting-dou-hua-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/q6yc-listing.jpg,(△)彰化縣彰化市中正路二段378號,4.2,56
+154,噗哩噗哩,https://www.foodpanda.com.tw/restaurant/mrj8/pu-li-pu-li,https://images.deliveryhero.io/image/fd-tw/LH/mrj8-listing.jpg,(△)彰化縣彰化市民族路479號1樓,4.7,95
+155,双饗鍋 (彰化中正店),https://www.foodpanda.com.tw/restaurant/k9ec/shuang-xiang-guo-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/k9ec-listing.jpg,(△)彰化縣彰化市民權路247巷19號,4.6,229
+156,KFC 肯德基【有早餐】,https://www.foodpanda.com.tw/chain/cl3os/kfc-ken-de-ji-you-zao-can,https://images.deliveryhero.io/image/fd-tw/LH/a9az-listing.jpg,(X) 高雄市鳳山區中山路215號 食品業者登錄字號：E-197161500-00119-2,4.7,553
+157,浮生咖啡,https://www.foodpanda.com.tw/restaurant/vnwn/fu-sheng-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/vnwn-listing.jpg,(△)彰化縣彰化市成功路260號,4.5,13
+158,Tiger Pizza 烘培坊,https://www.foodpanda.com.tw/restaurant/d6hd/tiger-pizza,https://images.deliveryhero.io/image/fd-tw/LH/d6hd-listing.jpg,(△) 彰化縣彰化市和平路131號,4.6,44
+159,Do Nothing day 義大利麵,https://www.foodpanda.com.tw/restaurant/z2io/do-nothing-day-,https://images.deliveryhero.io/image/fd-tw/LH/z2io-listing.jpg,(△) 彰化縣彰化市民生南路25巷6號,4.6,163
+160,職人雙饗丼 (彰化南郭店),https://www.foodpanda.com.tw/restaurant/z6cs/zhi-ren-shuang-xiang-jing-zhang-hua-nan-guo-dian,https://images.deliveryhero.io/image/fd-tw/LH/z6cs-listing.jpg,(△) 彰化縣彰化市南郭路一段125-2號,4.7,1477
+161,COMEBUY,https://www.foodpanda.com.tw/chain/cx7dy/comebuy,https://images.deliveryhero.io/image/fd-tw/LH/a1ix-listing.jpg,(O) (M) 新北市永和區永和路二段30號 (食安登錄字號:F-124483673-00152-8),4.8,887
+162,吉利火雞肉飯,https://www.foodpanda.com.tw/restaurant/z4dk/ji-li-huo-ji-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/z4dk-listing.jpg,(△) 彰化縣彰化市彰美路一段243號,4.5,539
+163,胖老爹美式炸雞 (彰化自強店),https://www.foodpanda.com.tw/restaurant/b3pn/pang-lao-die-mei-shi-zha-ji-zhang-hua-zi-qiang-dian,https://images.deliveryhero.io/image/fd-tw/LH/b3pn-listing.jpg,(△) 彰化縣彰化市自強路29號,4.7,935
+164,薯條哥甘梅薯條 (彰化永安店),https://www.foodpanda.com.tw/restaurant/b5xe/shu-tiao-ge-gan-mei-shu-tiao-zhang-hua-yong-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/b5xe-listing.jpg,(△) 彰化縣彰化市永安街276之4號,4.7,135
+165,洪家牛肉麵,https://www.foodpanda.com.tw/restaurant/i2jr/i2jr,https://images.deliveryhero.io/image/fd-tw/LH/i2jr-listing.jpg,(△)彰化縣彰化市民族路526號,4.6,453
+166,艾糖的店-花蓮炸蛋蔥油餅,https://www.foodpanda.com.tw/restaurant/d5ek/ai-tang-de-dian-hua-lian-zha-dan-cong-you-bing,https://images.deliveryhero.io/image/fd-tw/LH/d5ek-listing.jpg,(△) 彰化縣彰化市自強路7-4號,4.7,739
+167,億品鍋,https://www.foodpanda.com.tw/chain/cq4ek/yi-pin-guo,https://images.deliveryhero.io/image/fd-tw/LH/d9wn-listing.jpg,(O) 台中市大里區成功二路136號,4.5,334
+168,高北牛乳大王 (彰化永樂店),https://www.foodpanda.com.tw/restaurant/a7mc/gao-bei-niu-ru-da-wang-zhang-hua-yong-le-dian,https://images.deliveryhero.io/image/fd-tw/LH/a7mc-listing.jpg,(△) 彰化縣彰化市永樂街143號,4.7,616
+169,定食8 【5-20新版】(爭鮮集團),https://www.foodpanda.com.tw/chain/cg6hv/ding-shi-8-5-20xin-ban-zheng-xian-ji-tuan,https://images.deliveryhero.io/image/fd-tw/LH/c8ew-listing.jpg,(X)高雄市前鎮區中華五路1111號1F,4.4,347
+170,真手工鹽滷豆花.芋圓專賣,https://www.foodpanda.com.tw/restaurant/a0cd/zhen-shou-gong-yan-lu-dou-hua-yu-yuan-zhuan-mai,https://images.deliveryhero.io/image/fd-tw/LH/a0cd-listing.jpg,(△) 彰化縣彰化市三民路342-1號,4.7,408
+171,花枝肉羹大碗,https://www.foodpanda.com.tw/restaurant/a7ho/hua-zhi-rou-geng-da-wan,https://images.deliveryhero.io/image/fd-tw/LH/a7ho-listing.jpg,(△) 彰化縣彰化市成功路42號,4.5,311
+172,豆奶伯中西自助早午餐,https://www.foodpanda.com.tw/restaurant/d9rj/dou-nai-bo-zhong-xi-zi-zhu-zao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/d9rj-listing.jpg,(△) 彰化縣彰化市金馬路三段776號  食品業者登錄字號： N-200137850-00000-6,4.8,401
+173,永樂咖啡 Young Life Caf'e,https://www.foodpanda.com.tw/restaurant/z4as/yong-le-ka-pei-young-life-cafe,https://images.deliveryhero.io/image/fd-tw/LH/z4as-listing.jpg,(△) 彰化縣彰化市南郭路一段87號,4.6,40
+174,鼎珍香菇肉羹,https://www.foodpanda.com.tw/restaurant/m5bn/ding-zhen-xiang-gu-rou-geng,https://images.deliveryhero.io/image/fd-tw/LH/m5bn-listing.jpg,(△)彰化縣彰化市成功路49號,4.6,99
+175,引領茶集,https://www.foodpanda.com.tw/restaurant/e3ic/yin-ling-cha-ji,https://images.deliveryhero.io/image/fd-tw/LH/e3ic-listing.jpg,(△) 彰化縣彰化市永安街151號,4.8,187
+176,巧籠包 (中正店),https://www.foodpanda.com.tw/restaurant/b3pj/qiao-long-bao-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/b3pj-listing.jpg,(△) 彰化縣彰化市中正路一段235-1號,4.8,136
+177,永河傳統豆花湯圓 (彰化永安店),https://www.foodpanda.com.tw/restaurant/b6cu/yong-he-chuan-tong-dou-hua-tang-yuan-zhang-hua-yong-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/b6cu-listing.jpg,(△) 彰化縣彰化市永安街214號,4.7,241
+178,奶熊複合式茶飲,https://www.foodpanda.com.tw/restaurant/dpfi/nai-xiong-fu-he-shi-cha-yin,https://images.deliveryhero.io/image/fd-tw/LH/dpfi-listing.jpg,(△)彰化縣彰化市中正路二段57號,NA,0
+179,日食咖啡小館,https://www.foodpanda.com.tw/restaurant/u8fc/u8fc,https://images.deliveryhero.io/image/fd-tw/LH/u8fc-listing.jpg,(△) 彰化縣彰化市華山路273巷56號,4.4,126
+180,澄糖入室,https://www.foodpanda.com.tw/chain/cb5qd/cheng-tang-ru-shi,https://images.deliveryhero.io/image/fd-tw/LH/a7ky-listing.jpg,(△) 台北市北投區崇仁路一段87號,4.7,768
+181,微笑咖哩 (彰化永安店),https://www.foodpanda.com.tw/restaurant/d9os/wei-xiao-ka-li-zhang-hua-yong-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/d9os-listing.jpg,(△) 彰化縣彰化市永安街346號,4.8,747
+182,龍富專業牛排,https://www.foodpanda.com.tw/restaurant/e1oi/long-fu-zhuan-ye-niu-pai,https://images.deliveryhero.io/image/fd-tw/LH/e1oi-listing.jpg,(△) 彰化縣彰化市永安街196號,4.5,425
+183,啾飽,https://www.foodpanda.com.tw/restaurant/g8wc/jiu-bao,https://images.deliveryhero.io/image/fd-tw/LH/g8wc-listing.jpg,(△)彰化縣彰化市三民路430-1號,4.8,33
+184,義大利披薩屋 (彰化中正店),https://www.foodpanda.com.tw/restaurant/b7bv/yi-da-li-pi-sa-wu-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/b7bv-listing.jpg,(△) 彰化縣彰化市中正路二段173號 (食安登錄字號:N200078149-00000-1),4.7,399
+185,議師食堂,https://www.foodpanda.com.tw/restaurant/r9sn/yi-shi-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/r9sn-listing.jpg,(△) 彰化縣彰化市成功路79號,4.5,91
+186,榕樹下陽春麵,https://www.foodpanda.com.tw/restaurant/m3jd/m3jd,https://images.deliveryhero.io/image/fd-tw/LH/m3jd-listing.jpg,(△)彰化縣彰化市華山路190號,4.4,282
+187,金賀佳快餐,https://www.foodpanda.com.tw/restaurant/n8ja/n8ja,https://images.deliveryhero.io/image/fd-tw/LH/n8ja-listing.jpg,(△) 彰化縣彰化市忠勢街46號,4.4,100
+188,甘老味健康牛肉麵,https://www.foodpanda.com.tw/restaurant/f0sv/gan-lao-wei-jian-kang-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/f0sv-listing.jpg,(△)彰化縣彰化市永安街185號,4.6,682
+189,這裡‧那裡雞蛋糕,https://www.foodpanda.com.tw/restaurant/a6yc/zhe-li-na-li-ji-dan-gao,https://images.deliveryhero.io/image/fd-tw/LH/a6yc-listing.jpg,(△) 彰化縣彰化市中山路二段543號,4.8,231
+190,粥公麵婆,https://www.foodpanda.com.tw/restaurant/s8br/zhou-gong-mian-po,https://images.deliveryhero.io/image/fd-tw/LH/s8br-listing.jpg,(△)彰化縣彰化市民族路257號,4.3,591
+191,三民路排骨酥麵,https://www.foodpanda.com.tw/restaurant/a6gg/san-min-lu-pai-gu-su-mian,https://images.deliveryhero.io/image/fd-tw/LH/a6gg-listing.jpg,(△) 彰化縣彰化市三民路346號,4.4,358
+192,乙豆低卡健康輕食,https://www.foodpanda.com.tw/restaurant/l4zb/yi-dou-di-qia-jian-kang-qing-shi,https://images.deliveryhero.io/image/fd-tw/LH/l4zb-listing.jpg,(△) 彰化縣彰化市自強南路22巷9弄6號,4.4,186
+193,花赤鳥檸,https://www.foodpanda.com.tw/restaurant/z8jl/hua-chi-niao-ning,https://images.deliveryhero.io/image/fd-tw/LH/z8jl-listing.jpg,(△) 彰化縣彰化市民族路413號,4.7,523
+194,握蛋餅早餐店,https://www.foodpanda.com.tw/restaurant/a9sy/wo-dan-bing-zao-can-dian,https://images.deliveryhero.io/image/fd-tw/LH/a9sy-listing.jpg,(△) 彰化縣彰化市中正路一段403號,4.6,1167
+195,John手作蔬食,https://www.foodpanda.com.tw/restaurant/z1do/john-,https://images.deliveryhero.io/image/fd-tw/LH/z1do-listing.jpg,(△) 彰化縣彰化市華山路78號,4.7,54
+196,小順豐義式焗烤 (彰化中正店),https://www.foodpanda.com.tw/restaurant/e4uz/xiao-shun-feng-yi-shi-ju-kao-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/e4uz-listing.jpg,(△) 彰化縣彰化市中正路二段523之2號,4.3,244
+197,歡歡湯包,https://www.foodpanda.com.tw/chain/ci1nj/huan-huan-tang-bao,https://images.deliveryhero.io/image/fd-tw/LH/x1hl-listing.jpg,(△)彰化縣彰化市華山路110號,4.5,410
+198,米撰便當 (彰化曉陽店),https://www.foodpanda.com.tw/restaurant/g3sb/mi-zhuan-bian-dang-zhang-hua-xiao-yang-dian,https://images.deliveryhero.io/image/fd-tw/LH/g3sb-listing.jpg,(△)彰化縣彰化市彰安里曉陽路205號,4.6,242
+199,單車旅人咖啡館,https://www.foodpanda.com.tw/restaurant/a3jc/dan-che-lu-ren-ka-pei-guan,https://images.deliveryhero.io/image/fd-tw/LH/a3jc-listing.jpg,(△) 彰化縣彰化市城中街16號,4.8,49
+200,甲文青 (彰化成功店),https://www.foodpanda.com.tw/restaurant/p2fs/jia-wen-qing-zhang-hua-cheng-gong-dian,https://images.deliveryhero.io/image/fd-tw/LH/p2fs-listing.jpg,(O) 彰化縣彰化市太平街100號,4.8,175
+201,康師傅自助餐館,https://www.foodpanda.com.tw/restaurant/z2xa/kang-shi-fu-zi-zhu-can-guan,https://images.deliveryhero.io/image/fd-tw/LH/z2xa-listing.jpg,(△) 彰化縣彰化市華山路170號,4.6,291
+202,五國真湯,https://www.foodpanda.com.tw/chain/cw4nc/wu-guo-zhen-tang,https://images.deliveryhero.io/image/fd-tw/LH/f6dj-listing.jpg,(△) 新北市淡水區新春街120號,4.6,218
+203,正阪橋茶水坊 (彰化南郭店),https://www.foodpanda.com.tw/restaurant/a4is/zheng-ban-qiao-cha-shui-fang-zhang-hua-nan-guo-dian,https://images.deliveryhero.io/image/fd-tw/LH/a4is-listing.jpg,(△) 彰化縣彰化市南郭路一段163號,4.7,271
+204,好室鍋物,https://www.foodpanda.com.tw/chain/co7id/hao-shi-guo-wu,https://images.deliveryhero.io/image/fd-tw/LH/f8ac-listing.jpg,(O)台中市南屯區永春東七路878-60號,4.2,22
+205,進發家 (彰化曉陽店),https://www.foodpanda.com.tw/restaurant/i4oq/jin-fa-jia-zhang-hua-xiao-yang-dian,https://images.deliveryhero.io/image/fd-tw/LH/i4oq-listing.jpg,(O)彰化縣彰化市曉陽路49號,4.7,66
+206,碳烤地瓜美味餡餅,https://www.foodpanda.com.tw/restaurant/e2fs/tan-kao-di-gua-mei-wei-xian-bing,https://images.deliveryhero.io/image/fd-tw/LH/e2fs-listing.jpg,(△) 彰化縣彰化市自強路7-9號,4.7,273
+207,茶工業 (彰化大佛店),https://www.foodpanda.com.tw/restaurant/f3in/cha-gong-ye-zhang-hua-da-fo-dian,https://images.deliveryhero.io/image/fd-tw/LH/f3in-listing.jpg,(O)彰化縣彰化市孔門路12號,4.6,179
+208,城市漢堡 (彰化民生店),https://www.foodpanda.com.tw/restaurant/a2oq/cheng-shi-han-bao-zhang-hua-min-sheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/a2oq-listing.jpg,(△) 彰化縣彰化市民生路319號,4.7,639
+209,大思鄉臭臭鍋,https://www.foodpanda.com.tw/restaurant/z2lg/da-si-xiang-chou-chou-guo,https://images.deliveryhero.io/image/fd-tw/LH/z2lg-listing.jpg,(△) 彰化縣彰化市南郭路一段157號,4.6,484
+210,默默咖啡 (彰化華山店),https://www.foodpanda.com.tw/restaurant/j4fk/mo-mo-ka-pei-zhang-hua-hua-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/j4fk-listing.jpg,(△)彰化縣彰化市華山路71號,4.8,134
+211,567有肉吃,https://www.foodpanda.com.tw/restaurant/eu1e/567you-rou-chi,https://images.deliveryhero.io/image/fd-tw/LH/eu1e-listing.jpg,(△)彰化縣彰化市博愛街臨72號,4.5,22
+212,大埔鐵板燒 (彰化金馬店),https://www.foodpanda.com.tw/restaurant/e8aw/da-bu-tie-ban-shao-zhang-hua-jin-ma-dian,https://images.deliveryhero.io/image/fd-tw/LH/e8aw-listing.jpg,(△) 彰化縣彰化市金馬路三段150號,4.6,309
+213,聚緣齋素食,https://www.foodpanda.com.tw/restaurant/sm88/ju-yuan-zhai-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/sm88-listing.jpg,(△)彰化縣彰化市自強路121號,4.7,17
+214,寶島一家牛肉麵,https://www.foodpanda.com.tw/restaurant/v2if/bao-dao-jia-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/v2if-listing.jpg,(△)彰化縣彰化市三民路261號,4.3,11
+215,La Chummy 樂茶米,https://www.foodpanda.com.tw/restaurant/b3qd/la-chummy-le-cha-mi,https://images.deliveryhero.io/image/fd-tw/LH/b3qd-listing.jpg,(△) 彰化縣彰化市彰美路一段155號,4.8,135
+216,Miss Energy 低GI 廚房,https://www.foodpanda.com.tw/chain/cd0pb/miss-energy-di-gi-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/k4xz-listing.jpg,(△)台北市大安區復興南路一段378之1號,4.8,388
+217,民生傳統豆花,https://www.foodpanda.com.tw/restaurant/a8kb/min-sheng-chuan-tong-dou-hua,https://images.deliveryhero.io/image/fd-tw/LH/a8kb-listing.jpg,(△) 彰化縣彰化市民生路400號,4.8,630
+218,木米茶飲 (彰化三民站前店),https://www.foodpanda.com.tw/restaurant/z1ui/mu-mi-cha-yin-zhang-hua-san-min-zhan-qian-dian,https://images.deliveryhero.io/image/fd-tw/LH/z1ui-listing.jpg,(△) 彰化縣彰化市三民路7號,4.7,507
+219,就愛鍋燒,https://www.foodpanda.com.tw/chain/cb6gq/jiu-ai-guo-shao,https://images.deliveryhero.io/image/fd-tw/LH/yexo-listing.jpg,(△) 彰化縣彰化市華山路35號,4.3,26
+220,港式鮮肉包 (彰化自強店),https://www.foodpanda.com.tw/restaurant/m0dl/gang-shi-xian-rou-bao-zhang-hua-zi-qiang-dian,https://images.deliveryhero.io/image/fd-tw/LH/m0dl-listing.jpg,(△)彰化縣彰化市自強路112-1號,4.8,62
+221,采茶坊,https://www.foodpanda.com.tw/restaurant/z0fi/cai-cha-fang,https://images.deliveryhero.io/image/fd-tw/LH/z0fi-listing.jpg,(△)彰化縣彰化市永安街213之7號,4.6,522
+222,黃橙子早午餐,https://www.foodpanda.com.tw/restaurant/b7vw/huang-cheng-zi-zao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/b7vw-listing.jpg,(△) 彰化縣彰化市中民街61-3號,4.7,989
+223,大秦麵食館,https://www.foodpanda.com.tw/restaurant/r2nv/r2nv,https://images.deliveryhero.io/image/fd-tw/LH/r2nv-listing.jpg,(△)彰化縣彰化市三民路388號,4.6,259
+224,(粘)香鬆紅豆餅,https://www.foodpanda.com.tw/restaurant/a4db/nian-xiang-song-hong-dou-bing,https://images.deliveryhero.io/image/fd-tw/LH/a4db-listing.jpg,(△) 彰化縣彰化市永安街182號,4.6,154
+225,Morni莫尼早餐 (彰化陽明店),https://www.foodpanda.com.tw/restaurant/a8lw/mornimo-ni-zao-can-zhang-hua-yang-ming-dian,https://images.deliveryhero.io/image/fd-tw/LH/a8lw-listing.jpg,(△) 彰化縣彰化市長順街63號,4.6,464
+226,魚酥羹麵,https://www.foodpanda.com.tw/restaurant/e07j/yu-su-geng-mian,https://images.deliveryhero.io/image/fd-tw/LH/e07j-listing.jpg,(△)彰化縣彰化市菜市街102號,5,8
+227,漢堡大師 (彰化民生店),https://www.foodpanda.com.tw/restaurant/x4zy/han-bao-da-shi-zhang-hua-min-sheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/x4zy-listing.jpg,(△)彰化縣彰化市民生路311號,4.6,377
+228,得百豆全豆漿,https://www.foodpanda.com.tw/restaurant/z4co/de-bai-dou-quan-dou-jiang,https://images.deliveryhero.io/image/fd-tw/LH/z4co-listing.jpg,(△) 彰化縣彰化市彰和路一段53號 (食安登錄字號:N-147374845-00000-3),4.8,332
+229,醬吃醬喝,https://www.foodpanda.com.tw/restaurant/g9eu/g9eu,https://images.deliveryhero.io/image/fd-tw/LH/g9eu-listing.jpg,(△)彰化縣彰化市中正路一段186號,4.5,446
+230,芋桑芋圓豆花飲料店,https://www.foodpanda.com.tw/restaurant/e3om/yu-sang-yu-yuan-dou-hua-yin-liao-dian,https://images.deliveryhero.io/image/fd-tw/LH/e3om-listing.jpg,(△) 彰化縣彰化市民生路80號,4.5,129
+231,古早味豬油拌飯 拉仔麵,https://www.foodpanda.com.tw/restaurant/b0kw/gu-zao-wei-zhu-you-ban-fan-la-zi-mian,https://images.deliveryhero.io/image/fd-tw/LH/b0kw-listing.jpg,(△) 彰化縣彰化市長興街62號,4.6,1029
+232,方濟各牛排屋,https://www.foodpanda.com.tw/restaurant/z7cg/fang-ji-ge-niu-pai-wu,https://images.deliveryhero.io/image/fd-tw/LH/z7cg-listing.jpg,(△) 彰化縣彰化市民族路253巷65號,4.6,591
+233,老二拉仔麵/排骨飯/魚肚湯,https://www.foodpanda.com.tw/restaurant/e7wl/lao-er-la-zi-mian-pai-gu-fan-yu-du-tang,https://images.deliveryhero.io/image/fd-tw/LH/e7wl-listing.jpg,(△) 彰化縣彰化市博愛街104-1號,4.4,232
+234,Origin Cafe,https://www.foodpanda.com.tw/restaurant/z8sb/origin-cafe,https://images.deliveryhero.io/image/fd-tw/LH/z8sb-listing.jpg,(△) 彰化縣彰化市太平街16號,4.7,55
+235,元寶炸雞店 (彰化永安店),https://www.foodpanda.com.tw/restaurant/j1sc/yuan-bao-zha-ji-dian-zhang-hua-yong-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/j1sc-listing.jpg,(△) 彰化縣彰化市永安街222號,4.3,69
+236,滿大碗滷味,https://www.foodpanda.com.tw/chain/ct4ps/man-da-wan-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/zc1b-listing.jpg,(△) 台中市霧峰區四德路4號,4.5,58
+237,sokoso手勾手咖啡館,https://www.foodpanda.com.tw/restaurant/z3yu/sokoso-,https://images.deliveryhero.io/image/fd-tw/LH/z3yu-listing.jpg,(△) 彰化縣彰化市華山路9號,4.7,74
+238,大埔鐵板燒 (彰化光復店),https://www.foodpanda.com.tw/restaurant/d0fd/da-bu-tie-ban-shao-zhang-hua-guang-fu-dian-vendor,https://images.deliveryhero.io/image/fd-tw/LH/d0fd-listing.jpg,(△) 彰化縣彰化市光復路166號,4.7,537
+239,榮赫快炒燒烤,https://www.foodpanda.com.tw/restaurant/z8xd/rong-he-kuai-chao-shao-kao,https://images.deliveryhero.io/image/fd-tw/LH/z8xd-listing.jpg,(△) 彰化縣彰化市永安街219-269號,4.6,435
+240,搖滾披薩,https://www.foodpanda.com.tw/chain/cv2mt/yao-gun-pi-sa,https://images.deliveryhero.io/image/fd-tw/LH/b3zc-listing.jpg,(O)台中市大里區德芳南路202號1樓,4.7,365
+241,藥不然膳品居,https://www.foodpanda.com.tw/restaurant/q5dt/yao-bu-ran-shan-pin-ju,https://images.deliveryhero.io/image/fd-tw/LH/q5dt-listing.jpg,(△) 彰化縣彰化市民權路93號,4.5,216
+242,老聰明沙鍋魚頭,https://www.foodpanda.com.tw/restaurant/kkyn/lao-cong-ming-sha-guo-yu-tou,https://images.deliveryhero.io/image/fd-tw/LH/kkyn-listing.jpg,(△)彰化縣彰化市中正路二段449號,4.4,17
+243,春哥咖哩飯,https://www.foodpanda.com.tw/restaurant/z6uf/chun-ge-ka-li-fan,https://images.deliveryhero.io/image/fd-tw/LH/z6uf-listing.jpg,(△) 彰化縣彰化市成功路86號,4.6,332
+244,ikiwi,https://www.foodpanda.com.tw/chain/cp9qn/ikiwi,https://images.deliveryhero.io/image/fd-tw/LH/a4nc-listing.jpg,(O) 桃園市桃園區成功路一段25號,4.7,502
+245,珍饌美食,https://www.foodpanda.com.tw/restaurant/b0de/zhen-zhuan-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/b0de-listing.jpg,(△) 彰化縣彰化市彰美路一段80號,4.6,849
+246,台南鹹酥雞 (彰化分店),https://www.foodpanda.com.tw/restaurant/a3ug/tai-nan-xian-su-ji-zhang-hua-fen-dian,https://images.deliveryhero.io/image/fd-tw/LH/a3ug-listing.jpg,(△) 彰化縣彰化市中正路一段469號,4.6,737
+247,漢林鐵板燒 (彰化三民店),https://www.foodpanda.com.tw/restaurant/z1lc/han-lin-tie-ban-shao-zhang-hua-san-min-dian,https://images.deliveryhero.io/image/fd-tw/LH/z1lc-listing.jpg,(O) 彰化縣彰化市三民路356號,4.6,1971
+248,彰化木瓜牛乳大王 (創始店),https://www.foodpanda.com.tw/restaurant/z8ig/zhang-hua-mu-gua-niu-ru-da-wang-chuang-shi-dian,https://images.deliveryhero.io/image/fd-tw/LH/z8ig-listing.jpg,(△) 彰化縣彰化市中華路37號,4.8,990
+249,乙奉茶堂,https://www.foodpanda.com.tw/restaurant/a4wz/yi-feng-cha-tang,https://images.deliveryhero.io/image/fd-tw/LH/a4wz-listing.jpg,(△) 彰化縣彰化市三民路138號,4.8,315
+250,裕民牛肉麵,https://www.foodpanda.com.tw/restaurant/z7do/yu-min-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/z7do-listing.jpg,(△) 彰化縣彰化市民權路97號,4.7,500
+251,超神鮮10元壽司,https://www.foodpanda.com.tw/restaurant/d9xk/chao-shen-xian-10yuan-shou-si,https://images.deliveryhero.io/image/fd-tw/LH/d9xk-listing.jpg,(△) 彰化縣彰化市自強路7-2號,4.6,149
+252,歐倪韓式QQ麵 (彰化華山店),https://www.foodpanda.com.tw/restaurant/o0sx/ou-ni-han-shi-qqmian-zhang-hua-hua-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/o0sx-listing.jpg,(△) 彰化縣彰化市華山路39號,4.4,90
+253,洪鹹酥雞,https://www.foodpanda.com.tw/restaurant/a4kz/hong-xian-su-ji,https://images.deliveryhero.io/image/fd-tw/LH/a4kz-listing.jpg,(△) 彰化縣彰化市永安街146號,4.4,548
+254,青秀香菇肉粥 (彰化中正店),https://www.foodpanda.com.tw/restaurant/a2vw/qing-xiu-xiang-gu-rou-zhou-zhang-hua-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/a2vw-listing.jpg,(△) 彰化縣彰化市中正路二段399號,4.5,1209
+255,龍哥雞排,https://www.foodpanda.com.tw/chain/cd7fm/long-ge-ji-pai,https://images.deliveryhero.io/image/fd-tw/LH/p5iw-listing.jpg,(△)台中市西區精誠路168號,4.8,187
+256,阪根日式拉麵店,https://www.foodpanda.com.tw/restaurant/d5jr/ban-gen-ri-shi-la-mian-dian,https://images.deliveryhero.io/image/fd-tw/LH/d5jr-listing.jpg,(△) 彰化縣彰化市光復路121號,4.5,458
+257,三重埔出名蝦仁羹 (彰化永樂店),https://www.foodpanda.com.tw/restaurant/d0oo/san-zhong-bu-chu-ming-xia-ren-geng-zhang-hua-yong-le-dian,https://images.deliveryhero.io/image/fd-tw/LH/d0oo-listing.jpg,(△) 彰化縣彰化市永樂街187號,4.5,323
+258,撸串ㄦ 串燒X燒烤,https://www.foodpanda.com.tw/restaurant/xns0/lu-chuan-er-chuan-shao-xshao-kao,https://images.deliveryhero.io/image/fd-tw/LH/xns0-listing.jpg,(△)彰化縣彰化市博愛街79之1號,5,1
+259,美食咖啡屋,https://www.foodpanda.com.tw/restaurant/p7qt/mei-shi-ka-pei-wu,https://images.deliveryhero.io/image/fd-tw/LH/p7qt-listing.jpg,(△)彰化縣彰化市自強南路22巷8號,4.6,40
+260,WOW炸雞,https://www.foodpanda.com.tw/restaurant/f1cz/wowzha-ji,https://images.deliveryhero.io/image/fd-tw/LH/f1cz-listing.jpg,(△)彰化縣彰化市中山路二段283號,4.7,1086
+261,牛丁次郎坊,https://www.foodpanda.com.tw/chain/cv8xd/niu-ding-ci-lang-fang,https://images.deliveryhero.io/image/fd-tw/LH/z0ke-listing.jpg,(△) 彰化縣彰化市民權路50號,4.6,1103
+262,紅燈籠臭豆腐,https://www.foodpanda.com.tw/restaurant/e0yq/hong-deng-long-chou-dou-fu,https://images.deliveryhero.io/image/fd-tw/LH/e0yq-listing.jpg,(△) 彰化縣彰化市永安街213-2號,4.5,442
+263,春陽茶事,https://www.foodpanda.com.tw/chain/cx6tz/chun-yang-cha-shi,https://images.deliveryhero.io/image/fd-tw/LH/a8nn-listing.jpg,(O) 彰化縣彰化市中正路一段479號,4.7,1265
+264,心緣素食麵,https://www.foodpanda.com.tw/restaurant/u8tm/xin-yuan-su-shi-mian,https://images.deliveryhero.io/image/fd-tw/LH/u8tm-listing.jpg,(△) 彰化縣彰化市永安街356號,4.7,176
+265,老朱阿贊爌肉飯,https://www.foodpanda.com.tw/restaurant/t4ya/lao-zhu-a-zan-kuang-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/t4ya-listing.jpg,(△) 彰化縣彰化市永安街213號之4,4.3,203
+266,美而美早餐 (彰化站前店),https://www.foodpanda.com.tw/restaurant/yka0/mei-er-mei-zao-can-zhang-hua-zhan-qian-dian,https://images.deliveryhero.io/image/fd-tw/LH/yka0-listing.jpg,(△) 彰化縣彰化市光復路162號,4.4,11
+267,紅嬌炸粿,https://www.foodpanda.com.tw/restaurant/t6dx/hong-jiao-zha-guo,https://images.deliveryhero.io/image/fd-tw/LH/t6dx-listing.jpg,(△) 彰化縣彰化市華山路98號,4.5,138
+268,老饕(翊)美食,https://www.foodpanda.com.tw/restaurant/f0kf/lao-tao-yi-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/f0kf-listing.jpg,(△)彰化縣彰化市彰草路49號,4.5,236
+269,啾C鮮果汁,https://www.foodpanda.com.tw/restaurant/z8sr/jiu-cxian-guo-zhi,https://images.deliveryhero.io/image/fd-tw/LH/z8sr-listing.jpg,(△) 彰化縣彰化市民族路350號,4.7,203
+270,喜苑牛排屋,https://www.foodpanda.com.tw/restaurant/et6u/xi-yuan-niu-pai-wu,https://images.deliveryhero.io/image/fd-tw/LH/et6u-listing.jpg,(△)彰化縣彰化市永安街298號,4.8,8
+271,士林生炒花枝 (彰化金馬店),https://www.foodpanda.com.tw/restaurant/d3gk/shi-lin-sheng-chao-hua-zhi-zhang-hua-jin-ma-dian,https://images.deliveryhero.io/image/fd-tw/LH/d3gk-listing.jpg,(△) 彰化縣彰化市彰美路一段318-1號,4.4,531
+272,甲一飯包,https://www.foodpanda.com.tw/chain/cf3kc/jia-yi-fan-bao,https://images.deliveryhero.io/image/fd-tw/LH/b8gh-listing.jpg,(△) 彰化縣彰化市旭光路337號,4.5,243
+273,日船章魚燒 (彰化永安店),https://www.foodpanda.com.tw/restaurant/e5ha/ri-chuan-zhang-yu-shao-zhang-hua-yong-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/e5ha-listing.jpg,(△) 彰化縣彰化市三民路317號(鐵皮屋內),4.7,418
+274,IRON Restaurant,https://www.foodpanda.com.tw/restaurant/z7zo/iron-restaurant,https://images.deliveryhero.io/image/fd-tw/LH/z7zo-listing.jpg,(△) 彰化縣彰化市辭修路438-3號  食品業者登錄字號： N-153716969-00021-0,4.6,614
+275,私房泰 (彰化永福店),https://www.foodpanda.com.tw/restaurant/b0dr/si-fang-tai-zhang-hua-yong-fu-dian,https://images.deliveryhero.io/image/fd-tw/LH/b0dr-listing.jpg,(△) 彰化縣彰化市永福街53號,4.2,79
+276,與你見麵,https://www.foodpanda.com.tw/restaurant/z8cf/yu-ni-jian-mian,https://images.deliveryhero.io/image/fd-tw/LH/z8cf-listing.jpg,(△) 彰化縣彰化市華山路39號,4.6,306
+277,味一軒重慶酸辣粉,https://www.foodpanda.com.tw/restaurant/ojwc/wei-xuan-zhong-qing-suan-la-fen,https://images.deliveryhero.io/image/fd-tw/LH/ojwc-listing.jpg,(△)彰化縣彰化市南郭路一段179號,4.5,5
+278,大眾牛肉麵 (彰化彰美店),https://www.foodpanda.com.tw/restaurant/z5mh/da-zhong-niu-rou-mian-zhang-hua-zhang-mei-dian,https://images.deliveryhero.io/image/fd-tw/LH/z5mh-listing.jpg,(△) 彰化縣彰化市彰美路一段85號 (食安登錄字號:N-200077456-00000-1),4.7,273
+279,和美60年老店蚵嗲炸粿,https://www.foodpanda.com.tw/restaurant/o7ei/he-mei-60nian-lao-dian-he-dia-zha-guo,https://images.deliveryhero.io/image/fd-tw/LH/o7ei-listing.jpg,(△) 彰化縣彰化市長興街108號,4.5,132
+280,17號鄉村廚房,https://www.foodpanda.com.tw/restaurant/a6ft/17-2,https://images.deliveryhero.io/image/fd-tw/LH/a6ft-listing.jpg,(△) 彰化縣彰化市民生南路17號,4.6,119
+281,神鼎臭臭鍋 (彰化民族店),https://www.foodpanda.com.tw/restaurant/o6js/shen-ding-chou-chou-guo-zhang-hua-min-zu-dian,https://images.deliveryhero.io/image/fd-tw/LH/o6js-listing.jpg,(O)彰化縣彰化市民族路394號,4.6,429
+282,唯克咖啡輕食 (彰化辭修店),https://www.foodpanda.com.tw/restaurant/b8sv/wei-ke-ka-pei-qing-shi-zhang-hua-ci-xiu-dian,https://images.deliveryhero.io/image/fd-tw/LH/b8sv-listing.jpg,(△) 彰化縣彰化市辭修路245號,4.7,808
+283,柒貳幸福滷味,https://www.foodpanda.com.tw/restaurant/r9gy/qi-er-xing-fu-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/r9gy-listing.jpg,(△)彰化縣彰化市南郭路一段155號,4.7,122
+284,宥豆食堂-鐵板蓋飯專賣店,https://www.foodpanda.com.tw/restaurant/e9ki/you-dou-shi-tang-tie-ban-gai-fan-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/e9ki-listing.jpg,(△) 彰化縣彰化市自強路275號,4.6,291
+285,惠鴻早點,https://www.foodpanda.com.tw/restaurant/fz3x/hui-hong-zao-dian,https://images.deliveryhero.io/image/fd-tw/LH/fz3x-listing.jpg,(△) 彰化縣彰化市南郭路一段47巷25號,4.9,13
+286,塔加塔創意料理,https://www.foodpanda.com.tw/restaurant/z4wa/ta-jia-ta-chuang-yi-liao-li,https://images.deliveryhero.io/image/fd-tw/LH/z4wa-listing.jpg,(△) 彰化縣彰化市辭修路212號,4.5,446
+287,吳家紅茶冰 (彰化民生店),https://www.foodpanda.com.tw/restaurant/f9db/f9db,https://images.deliveryhero.io/image/fd-tw/LH/f9db-listing.jpg,(△)彰化縣彰化市民生路309號,4.8,494
+288,握茶亭-握便當,https://www.foodpanda.com.tw/restaurant/b6xe/wo-cha-ting-wo-bian-dang,https://images.deliveryhero.io/image/fd-tw/LH/b6xe-listing.jpg,(△) 彰化縣彰化市中正路一段403號,4.6,1709
+289,中國城海鮮廣場,https://www.foodpanda.com.tw/restaurant/i9ox/zhong-guo-cheng-hai-xian-guang-chang,https://images.deliveryhero.io/image/fd-tw/LH/i9ox-listing.jpg,(△)彰化縣彰化市中山路二段290號,4.6,639
+290,大碗公,https://www.foodpanda.com.tw/chain/cv9zi/da-wan-gong,https://images.deliveryhero.io/image/fd-tw/LH/o5el-listing.jpg,(△)台中市東勢區中山路33號,4.5,240
+291,白色方塊咖啡工作室,https://www.foodpanda.com.tw/restaurant/z4re/bai-se-fang-kuai-ka-pei-gong-zuo-shi,https://images.deliveryhero.io/image/fd-tw/LH/z4re-listing.jpg,(△) 彰化縣彰化市公園路一段50號,4.7,25
+292,佳屋手作早午餐,https://www.foodpanda.com.tw/restaurant/v1cd/jia-wu-shou-zuo-zao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/v1cd-listing.jpg,(△)彰化縣彰化市中民街7號,4.7,317
+293,港城豆花 (彰化中華),https://www.foodpanda.com.tw/restaurant/a6nc/gang-cheng-dou-hua-zhang-hua-zhong-hua,https://images.deliveryhero.io/image/fd-tw/LH/a6nc-listing.jpg,(△) 彰化縣彰化市中華路49號,4.6,846
+294,小咕嚕Yummy,https://www.foodpanda.com.tw/restaurant/uuu7/xiao-gu-lu-yummy,https://images.deliveryhero.io/image/fd-tw/LH/uuu7-listing.jpg,(△) 彰化縣彰化市自強南路22巷42號,4,9
+295,摩斯漢堡,https://www.foodpanda.com.tw/chain/ca4mx/mo-si-han-bao,https://images.deliveryhero.io/image/fd-tw/LH/f1xm-listing.jpg,(O) 台北市信義區忠孝東路五段629號1樓,4.7,924
+296,1798辣脆腸 (彰化民族店),https://www.foodpanda.com.tw/restaurant/b3wx/1798la-cui-chang-zhang-hua-min-zu-dian,https://images.deliveryhero.io/image/fd-tw/LH/b3wx-listing.jpg,(△) 彰化縣彰化市三民路132號,4.5,334
+297,三王藥燉支骨,https://www.foodpanda.com.tw/restaurant/a0zo/san-wang-yao-dun-zhi-gu,https://images.deliveryhero.io/image/fd-tw/LH/a0zo-listing.jpg,(△) 彰化縣彰化市華山路144號,4.1,304
+298,豪紀無骨御鮮雞 (彰化太平店),https://www.foodpanda.com.tw/restaurant/p4sn/hao-ji-wu-gu-yu-xian-ji-zhang-hua-tai-ping-dian,https://images.deliveryhero.io/image/fd-tw/LH/p4sn-listing.jpg,(△)彰化縣彰化市太平街128號,4.5,82
+299,聚果堂,https://www.foodpanda.com.tw/restaurant/z8by/ju-guo-tang,https://images.deliveryhero.io/image/fd-tw/LH/z8by-listing.jpg,(△) 彰化縣彰化市中山路二段382巷21之2號,4.8,267
+300,雲之香麵食館,https://www.foodpanda.com.tw/restaurant/b2dt/yun-zhi-xiang-mian-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/b2dt-listing.jpg,(△) 彰化縣彰化市博愛街80號,4.5,238

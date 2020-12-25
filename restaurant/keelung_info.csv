@@ -1,0 +1,300 @@
+id,name,link,pic_url,location,rating,count
+1,微笑Pasta (基隆中山店),https://www.foodpanda.com.tw/restaurant/b7po/wei-xiao-pasta-ji-long-zhong-shan-dian,https://images.deliveryhero.io/image/fd-tw/LH/b7po-listing.jpg,(△) 基隆市中山區中山一路149號,4.4,312
+2,漾漾好時餐廳,https://www.foodpanda.com.tw/restaurant/f9ys/f9ys,https://images.deliveryhero.io/image/fd-tw/LH/f9ys-listing.jpg,(O)基隆市仁愛區南榮路14-1號,4.1,24
+3,鴨肉松,https://www.foodpanda.com.tw/restaurant/z3ok/ya-rou-song,https://images.deliveryhero.io/image/fd-tw/LH/z3ok-listing.jpg,(△) 基隆市仁愛區孝二路82號,4.6,1359
+4,成功鵝肉麵食館,https://www.foodpanda.com.tw/restaurant/e8kx/cheng-gong-e-rou-mian-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/e8kx-listing.jpg,(△) 基隆市仁愛區成功一路136號,4.6,1502
+5,COMEBUY (基隆廟口店),https://www.foodpanda.com.tw/restaurant/a9he/comebuy-ji-long-miao-kou-dian,https://images.deliveryhero.io/image/fd-tw/LH/a9he-listing.jpg,(O) 基隆市仁愛區愛四路20號1樓(食安登錄字號:C-124483673-00113-2),4.8,801
+6,大眾滷味 (基隆總店),https://www.foodpanda.com.tw/restaurant/hlgh/da-zhong-lu-wei-ji-long-zong-dian,https://images.deliveryhero.io/image/fd-tw/LH/hlgh-listing.jpg,(△)基隆市仁愛區忠二路30號,4.7,52
+7,康堡,https://www.foodpanda.com.tw/restaurant/d3vy/kang-bao,https://images.deliveryhero.io/image/fd-tw/LH/d3vy-listing.jpg,(△) 基隆市仁愛區仁二路50號,4.6,232
+8,成功71滷味,https://www.foodpanda.com.tw/restaurant/m0nh/cheng-gong-71lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/m0nh-listing.jpg,(△)基隆市仁愛區成功一路88號2樓71號攤,4.5,5
+9,樂多吐司,https://www.foodpanda.com.tw/restaurant/z4ej/le-duo-tu-si,https://images.deliveryhero.io/image/fd-tw/LH/z4ej-listing.jpg,(△) 基隆市中正區義一路20巷3號,4.6,385
+10,HAMA壽司,https://www.foodpanda.com.tw/chain/cu0ip/hamashou-si,https://images.deliveryhero.io/image/fd-tw/LH/t4zw-listing.jpg,(X)新竹市東區林森路18號2樓(晶品城),4.5,85
+11,基隆古早味 大腸圈，米粉湯,https://www.foodpanda.com.tw/chain/cv9il/ji-long-gu-zao-wei-da-chang-quan-mi-fen-tang,https://images.deliveryhero.io/image/fd-tw/LH/hlsm-listing.jpg,(△)基隆市安樂區安一路118號,4.4,351
+12,箏壽司,https://www.foodpanda.com.tw/restaurant/y7ci/zheng-shou-si1,https://images.deliveryhero.io/image/fd-tw/LH/y7ci-listing.jpg,(△) 基隆市仁愛區孝三路61號 食品業者登錄字號：C-200001894-00000-3,4.7,821
+13,S&D ,https://www.foodpanda.com.tw/chain/cw4so/s,https://images.deliveryhero.io/image/fd-tw/LH/a0oj-listing.jpg,(O) 台北市南港區昆陽街140巷1號,4.7,648
+14,越南美食,https://www.foodpanda.com.tw/restaurant/a6zu/yue-nan-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/a6zu-listing.jpg,(△) 基隆市中山區安一路30號,4.7,68
+15,百勝達披薩店,https://www.foodpanda.com.tw/restaurant/y3aw/bai-sheng-da-pi-sa-dian,https://images.deliveryhero.io/image/fd-tw/LH/y3aw-listing.jpg,(△) 基隆市仁愛區曲水街25號,4.5,596
+16,50嵐,https://www.foodpanda.com.tw/chain/cm2me/50lan,https://images.deliveryhero.io/image/fd-tw/LH/f2zu-listing.jpg,(O)雲林縣西螺鎮中山路111號,4.8,964
+17,巧酥盒子,https://www.foodpanda.com.tw/restaurant/t1ep/qiao-su-he-zi,https://images.deliveryhero.io/image/fd-tw/LH/t1ep-listing.jpg,(△)基隆市仁愛區南新街35號4樓,4.7,53
+18,水牛饌,https://www.foodpanda.com.tw/restaurant/k3wk/shui-niu-zhuan,https://images.deliveryhero.io/image/fd-tw/LH/k3wk-listing.jpg,(△)基隆市中山區成功二路41號,4.4,274
+19,三寶臭臭鍋,https://www.foodpanda.com.tw/restaurant/l7mc/san-bao-chou-chou-guo,https://images.deliveryhero.io/image/fd-tw/LH/l7mc-listing.jpg,(△)基隆市安樂區安一路100巷150號1樓,4.4,213
+20,阿川加熱滷味 (基隆仁愛店),https://www.foodpanda.com.tw/restaurant/f8xd/f8xd,https://images.deliveryhero.io/image/fd-tw/LH/f8xd-listing.jpg,(△)基隆市仁愛區精一路22號,4.5,259
+21,反轉厚奶酥 (基隆仁愛店),https://www.foodpanda.com.tw/restaurant/dxta/fan-zhuan-hou-nai-su-ji-long-ren-ai-dian,https://images.deliveryhero.io/image/fd-tw/LH/dxta-listing.jpg,(△)基隆市仁愛區忠一路15號,4.8,14
+22,義思海苔飯捲,https://www.foodpanda.com.tw/restaurant/z3iv/yi-si-hai-tai-fan-juan,https://images.deliveryhero.io/image/fd-tw/LH/z3iv-listing.jpg,(△) 基隆市仁愛區忠三路34號巷子 (食品業者登錄字號：C-200137741-00000-4),4.7,1278
+23,小豬媽碳烤吐司,https://www.foodpanda.com.tw/restaurant/u4xd/xiao-zhu-ma-tan-kao-tu-si,https://images.deliveryhero.io/image/fd-tw/LH/u4xd-listing.jpg,(△)基隆市中山區中山一路121號,4.7,64
+24,基隆廟口呼拉貓鬆餅小棧,https://www.foodpanda.com.tw/restaurant/z6oz/ji-long-miao-kou-hu-la-mao-song-bing-xiao-zhan,https://images.deliveryhero.io/image/fd-tw/LH/z6oz-listing.jpg,(△) 基隆市仁愛區仁四路2-1號 食品業者登錄字號：F-123420497-00000-4,4.7,183
+25,阿惜仔古早味,https://www.foodpanda.com.tw/restaurant/z0wm/a-xi-zi-gu-zao-wei,https://images.deliveryhero.io/image/fd-tw/LH/z0wm-listing.jpg,(△) 基隆市仁愛區愛三路21號2樓A54,4.6,796
+26,八方雲集 (基隆西定店),https://www.foodpanda.com.tw/restaurant/d2mt/ba-fang-yun-ji-ji-long-xi-ding-dian,https://images.deliveryhero.io/image/fd-tw/LH/d2mt-listing.jpg,(O) 基隆市中山區西定路110巷36號,4.5,845
+27,祝福早餐店,https://www.foodpanda.com.tw/restaurant/y0fp/zhu-fu-zao-can-dian,https://images.deliveryhero.io/image/fd-tw/LH/y0fp-listing.jpg,(△) 基隆市安樂區崇德路6號,4.6,419
+28,手塩居食屋,https://www.foodpanda.com.tw/restaurant/y0op/shou-yan-ju-shi-wu,https://images.deliveryhero.io/image/fd-tw/LH/y0op-listing.jpg,(O) 基隆市中正區義二路2巷9號,4.1,34
+29,仁愛市場肉圓,https://www.foodpanda.com.tw/restaurant/k3mr/ren-ai-shi-chang-rou-yuan,https://images.deliveryhero.io/image/fd-tw/LH/k3mr-listing.jpg,(△)基隆市仁愛區愛三路21號2樓(A27攤位),4.2,96
+30,大俠鍋物-涎垂樓,https://www.foodpanda.com.tw/restaurant/b7rq/da-xia-guo-wu-xian-chui-lou,https://images.deliveryhero.io/image/fd-tw/LH/b7rq-listing.jpg,(O) 基隆市仁愛區愛一路37號,4.5,163
+31,夢幻鹹酥雞 (基隆安樂店),https://www.foodpanda.com.tw/restaurant/g9uc/meng-huan-xian-su-ji-ji-long-an-le-dian,https://images.deliveryhero.io/image/fd-tw/LH/g9uc-listing.jpg,(△)基隆市安樂區安樂路一段176號5樓,4.4,197
+32,大正福州師祖傳老店,https://www.foodpanda.com.tw/restaurant/z5nh/da-zheng-fu-zhou-shi-zu-chuan-lao-dian,https://images.deliveryhero.io/image/fd-tw/LH/z5nh-listing.jpg,(△) 基隆市仁愛區愛七路1號,4.2,101
+33,老味坊,https://www.foodpanda.com.tw/restaurant/y3ie/lao-wei-fang,https://images.deliveryhero.io/image/fd-tw/LH/y3ie-listing.jpg,(△) 基隆市仁愛區孝三路50號 食品業者登錄字號：C-200121915-00000-0,4.6,667
+34,大發早午餐-安安你好,https://www.foodpanda.com.tw/restaurant/b9gy/da-fa-zao-wu-can-an-an-ni-hao,https://images.deliveryhero.io/image/fd-tw/LH/b9gy-listing.jpg,(△) 基隆市中山區成功二路177號,4.3,83
+35,牛餃鏖鋒 (基隆三坑店),https://www.foodpanda.com.tw/restaurant/y9eq/niu-jiao-ao-feng-ji-long-san-keng-dian,https://images.deliveryhero.io/image/fd-tw/LH/y9eq-listing.jpg,(△) 基隆市仁愛區南榮路64巷31號,4.4,504
+36,茶聚,https://www.foodpanda.com.tw/chain/cu8ec/cha-ju,https://images.deliveryhero.io/image/fd-tw/LH/qx3a-listing.jpg,(△)新北市板橋區大仁街25號,4.8,36
+37,月之牛牛排,https://www.foodpanda.com.tw/restaurant/m0su/yue-zhi-niu-niu-pai,https://images.deliveryhero.io/image/fd-tw/LH/m0su-listing.jpg,(O)基隆市仁愛區愛二路55號,4.5,28
+38,餘味食舖,https://www.foodpanda.com.tw/restaurant/z0ga/yu-wei-shi-pu,https://images.deliveryhero.io/image/fd-tw/LH/z0ga-listing.jpg,(△) 基隆市信義區義五路5號,4.6,552
+39,安樂市場營養三明治,https://www.foodpanda.com.tw/restaurant/zeim/an-le-shi-chang-ying-yang-san-ming-zhi,https://images.deliveryhero.io/image/fd-tw/LH/zeim-listing.jpg,(△)基隆市安樂區樂一路2號,4.6,9
+40,富士佳滷味 (基隆仁愛店),https://www.foodpanda.com.tw/restaurant/a1ad/fu-shi-jia-lu-wei-ji-long-ren-ai-dian,https://images.deliveryhero.io/image/fd-tw/LH/a1ad-listing.jpg,(△) 基隆市仁愛區愛四路39-1號,4.5,216
+41,京咖啡 JS Brunch Cafe',https://www.foodpanda.com.tw/restaurant/c9ob/jing-ka-pei-js-brunch-cafe,https://images.deliveryhero.io/image/fd-tw/LH/c9ob-listing.jpg,(△)基隆市中山區安一路67號3樓,4.6,95
+42,佛緣居 麵線糊 熱炒部,https://www.foodpanda.com.tw/chain/cu0oz/fo-yuan-ju,https://images.deliveryhero.io/image/fd-tw/LH/z6bz-listing.jpg,(△) 基隆市中正區義二路161號,4.7,367
+43,DD好食港式煲仔飯,https://www.foodpanda.com.tw/chain/cl2rc/ddhao-shi-gang-shi-bao-zi-fan,https://images.deliveryhero.io/image/fd-tw/LH/lqrw-listing.jpg,(△)新北市中和區員山路327巷29號6樓,4.5,32
+44,鄭媽の滷味,https://www.foodpanda.com.tw/restaurant/z6no/zheng-ma-nolu-wei,https://images.deliveryhero.io/image/fd-tw/LH/z6no-listing.jpg,(△) 基隆市安樂區安一路100巷150號,4.5,446
+45,一芳水果茶,https://www.foodpanda.com.tw/chain/ck8fp/yi-fang-shui-guo-cha,https://images.deliveryhero.io/image/fd-tw/LH/n9dd-listing.jpg,(O) 桃園市中壢區長春路120號,4.7,438
+46,呷蝶 (基隆仁二店),https://www.foodpanda.com.tw/restaurant/a9mg/xia-die-ji-long-ren-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/a9mg-listing.jpg,(△) 基隆市仁愛區仁二路7號,4.8,362
+47,川霸子麻辣燙 (基隆旗艦店),https://www.foodpanda.com.tw/restaurant/z3zj/chuan-ba-zi-ma-la-tang-ji-long-qi-jian-dian,https://images.deliveryhero.io/image/fd-tw/LH/z3zj-listing.jpg,(△) 基隆市安樂區安一路121號,4.7,1167
+48,愛亦軒早午餐,https://www.foodpanda.com.tw/restaurant/y1qn/ai-yi-xuan-zao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/y1qn-listing.jpg,(△) 基隆市中山區西定路46號,4.3,1783
+49,中船牛肉麵,https://www.foodpanda.com.tw/restaurant/z2vs/zhong-chuan-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/z2vs-listing.jpg,(△) 基隆市仁愛區公園街326號,4.3,251
+50,喬義思窯烤手作廚房 (基隆仁二店),https://www.foodpanda.com.tw/restaurant/y4gu/qiao-yi-si-yao-kao-shou-zuo-chu-fang-ji-long-ren-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/y4gu-listing.jpg,(O) 基隆市仁愛區仁二路236號3樓,4.3,134
+51,夏夏叫沙威瑪,https://www.foodpanda.com.tw/restaurant/a3an/xia-xia-jiao-sha-wei-ma,https://images.deliveryhero.io/image/fd-tw/LH/a3an-listing.jpg,(△) 基隆市仁中正區義二路43號,4.4,102
+52,酒燒創意料理,https://www.foodpanda.com.tw/restaurant/k3tw/k3tw,https://images.deliveryhero.io/image/fd-tw/LH/k3tw-listing.jpg,(△)基隆市中正區義一路20巷2號,4.5,44
+53,咪的灶咖,https://www.foodpanda.com.tw/restaurant/e2jd/mi-de-zao-ka,https://images.deliveryhero.io/image/fd-tw/LH/e2jd-listing.jpg,(△) 基隆市仁愛區南榮路34號,4.1,48
+54,越南姊妹美食,https://www.foodpanda.com.tw/restaurant/d0gq/yue-nan-zi-mei-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/d0gq-listing.jpg,(△) 基隆市中正區義二路160號,4.5,698
+55,月見拉麵．丼飯專賣店,https://www.foodpanda.com.tw/restaurant/f9cr/f9cr,https://images.deliveryhero.io/image/fd-tw/LH/f9cr-listing.jpg,(△)基隆市仁愛區仁三路40號2樓,4.5,361
+56,狀元紅牛肉火鍋專家,https://www.foodpanda.com.tw/chain/cg2lq/zhuang-yuan-hong-niu-rou-huo-guo-zhuan-jia,https://images.deliveryhero.io/image/fd-tw/LH/y4fj-listing.jpg,(O) 基隆市仁愛區仁一路293巷2號,4.2,35
+57,吃得巧海苔飯捲 (基隆店),https://www.foodpanda.com.tw/restaurant/i2ax/chi-de-qiao-hai-tai-fan-juan-ji-long-dian,https://images.deliveryhero.io/image/fd-tw/LH/i2ax-listing.jpg,(△)基隆市信義區義三路4巷28號,4.8,156
+58,蛤蜊娘,https://www.foodpanda.com.tw/restaurant/y2lh/ha-li-niang,https://images.deliveryhero.io/image/fd-tw/LH/y2lh-listing.jpg,(△) 基隆市仁愛區愛四路56號,4.5,385
+59,鑫得壽司 (基隆店),https://www.foodpanda.com.tw/restaurant/y9mc/xin-de-shou-si-ji-long-dian,https://images.deliveryhero.io/image/fd-tw/LH/y9mc-listing.jpg,(△) 基隆市中山區中山一路253巷12號1樓,4.4,921
+60,麥味登 (基隆義六店),https://www.foodpanda.com.tw/restaurant/a1wq/mai-wei-deng-ji-long-yi-liu-dian,https://images.deliveryhero.io/image/fd-tw/LH/a1wq-listing.jpg,(△) 基隆市信義區義六路23號,4.7,812
+61,天氣晴便當店,https://www.foodpanda.com.tw/restaurant/q3qd/tian-qi-qing-bian-dang-dian,https://images.deliveryhero.io/image/fd-tw/LH/q3qd-listing.jpg,(△)基隆市仁愛區仁一路257之1號,4.2,25
+62,定食8 【5-20新版】(爭鮮集團),https://www.foodpanda.com.tw/chain/cg6hv/ding-shi-8-5-20xin-ban-zheng-xian-ji-tuan,https://images.deliveryhero.io/image/fd-tw/LH/q1oq-listing.jpg,(X)高雄市前鎮區中華五路1111號1F,4.2,161
+63,銘傳炒飯、麵,https://www.foodpanda.com.tw/restaurant/p5aq/ming-chuan-chao-fan-mian,https://images.deliveryhero.io/image/fd-tw/LH/p5aq-listing.jpg,(△)基隆市仁愛區劉銘傳路2號,4.6,177
+64,七年級 (基隆仁愛店),https://www.foodpanda.com.tw/restaurant/d3ot/qi-nian-ji-ji-long-ren-ai-dian,https://images.deliveryhero.io/image/fd-tw/LH/d3ot-listing.jpg,(△) 基隆市仁愛區仁一路227號,4.4,178
+65,Ｍin nie coffee,https://www.foodpanda.com.tw/restaurant/u3gh/min-nie-coffee,https://images.deliveryhero.io/image/fd-tw/LH/u3gh-listing.jpg,(△)基隆市信義區信一路96巷11號,4.4,21
+66,阿魯地瓜球,https://www.foodpanda.com.tw/restaurant/q7yh/q7yh,https://images.deliveryhero.io/image/fd-tw/LH/q7yh-listing.jpg,(△)基隆市安樂區樂一路五號(鼎記廣東粥旁),4.7,201
+67,三媽臭臭鍋 (基隆仁一店),https://www.foodpanda.com.tw/restaurant/c0wt/san-ma-chou-chou-guo-ji-long-ren-dian,https://images.deliveryhero.io/image/fd-tw/LH/c0wt-listing.jpg,(△)基隆市仁愛區仁一路269號,4.6,520
+68,瑞芳阿勝大腸麵線,https://www.foodpanda.com.tw/chain/cu2dc/rui-fang-a-sheng-da-chang-mian-xian,https://images.deliveryhero.io/image/fd-tw/LH/a8sy-listing.jpg,(△) 基隆市仁愛區仁四路47號,4.7,1059
+69,艋舺雞排 (基隆廟口店),https://www.foodpanda.com.tw/restaurant/y8pl/meng-jia-ji-pai-ji-long-miao-kou-dian,https://images.deliveryhero.io/image/fd-tw/LH/y8pl-listing.jpg,(△) 基隆市仁愛區愛四路6號 食品業者登錄字號：C-142157600-00000-5,4.7,1842
+70,湘善素食,https://www.foodpanda.com.tw/restaurant/n7rz/xiang-shan-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/n7rz-listing.jpg,(△)基隆市仁愛區愛三路21號仁愛市場2樓,4.6,28
+71,順伯三輪車肉圓,https://www.foodpanda.com.tw/restaurant/f3dp/f3dp,https://images.deliveryhero.io/image/fd-tw/LH/f3dp-listing.jpg,(△)基隆市中山區西定路19號,4.7,788
+72,福勝亭 (Mercuries),https://www.foodpanda.com.tw/chain/cx7bc/fu-sheng-ting,https://images.deliveryhero.io/image/fd-tw/LH/s8ts-listing.jpg,(X)桃園市中壢區中山東路二段510號1樓(家樂福量販店),4.5,252
+73,王子神谷,https://www.foodpanda.com.tw/chain/cv4cp/wang-zi-shen-gu,https://images.deliveryhero.io/image/fd-tw/LH/v6to-listing.jpg,(△)基隆市仁愛區愛三路73號,4.7,191
+74,多吃一點,https://www.foodpanda.com.tw/restaurant/d5jz/duo-chi-yi-dian,https://images.deliveryhero.io/image/fd-tw/LH/d5jz-listing.jpg,(△) 基隆市中正區義二路86號,4.6,22
+75,昇美早餐屋 (基隆成功店),https://www.foodpanda.com.tw/restaurant/y8ut/sheng-mei-zao-can-wu-ji-long-cheng-gong-dian,https://images.deliveryhero.io/image/fd-tw/LH/y8ut-listing.jpg,(△) 基隆市仁愛區成功一路118巷1號 食品業者登錄字號：C-126706707-00000-5,4.8,1526
+76,陸地涼麵 (基隆安一店),https://www.foodpanda.com.tw/restaurant/a3fq/lu-di-liang-mian-ji-long-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/a3fq-listing.jpg,(△) 基隆市中山區安一路67號,4.5,94
+77,李阿肥東山鴨頭,https://www.foodpanda.com.tw/restaurant/e7lj/li-a-fei-dong-shan-ya-tou,https://images.deliveryhero.io/image/fd-tw/LH/e7lj-listing.jpg,(△) 基隆市仁愛區愛四路62號,4.5,139
+78,丸亀製麵,https://www.foodpanda.com.tw/chain/cu5lu/wan-gui-zhi-mian1,https://images.deliveryhero.io/image/fd-tw/LH/z9gb-listing.jpg,(O)台北市信義區菸廠路88號B1,4.6,771
+79,車站阿伯,https://www.foodpanda.com.tw/restaurant/z3hz/che-zhan-a-bo,https://images.deliveryhero.io/image/fd-tw/LH/z3hz-listing.jpg,(△) 基隆市仁愛區港西街17號,4.5,302
+80,基隆廟口鴨肉飯 (基隆仁愛分店),https://www.foodpanda.com.tw/restaurant/k6rs/ji-long-miao-kou-ya-rou-fan-ji-long-ren-ai-fen-dian,https://images.deliveryhero.io/image/fd-tw/LH/k6rs-listing.jpg,(△)基隆市仁愛區仁四路55號,4.6,174
+81,江姐料理,https://www.foodpanda.com.tw/restaurant/y6pb/jiang-jie-liao-li,https://images.deliveryhero.io/image/fd-tw/LH/y6pb-listing.jpg,(△) 基隆市仁愛區孝三路59號,4.5,298
+82,沁茶悅,https://www.foodpanda.com.tw/chain/cb1vx/qin-cha-yue,https://images.deliveryhero.io/image/fd-tw/LH/z1os-listing.jpg,(O) 基隆市中正區義二路42號,4.8,1975
+83,麻辣大腸麵線,https://www.foodpanda.com.tw/restaurant/i4kj/ma-la-da-chang-mian-xian-1,https://images.deliveryhero.io/image/fd-tw/LH/i4kj-listing.jpg,(△)基隆市仁愛區忠四路58號,4.6,200
+84,福臨門麵食館,https://www.foodpanda.com.tw/restaurant/d6pd/fu-lin-men-mian-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/d6pd-listing.jpg,(△) 基隆市信義區信一路141巷25號,4.2,114
+85,合家鐵板燒,https://www.foodpanda.com.tw/restaurant/b1qf/he-jia-tie-ban-shao,https://images.deliveryhero.io/image/fd-tw/LH/b1qf-listing.jpg,(△) 基隆市中正區義二路41號 (食品業者登錄字號：C-176665266-00000-4),4.5,653
+86,義塔莉,https://www.foodpanda.com.tw/restaurant/y0ir/yi-ta-li,https://images.deliveryhero.io/image/fd-tw/LH/y0ir-listing.jpg,(△) 基隆市信義區義五路33號,4.8,186
+87,米琪淋食品行,https://www.foodpanda.com.tw/restaurant/d0bp/mi-qi-lin-shi-pin-xing,https://images.deliveryhero.io/image/fd-tw/LH/d0bp-listing.jpg,(△) 基隆市仁愛區孝三路58號,4.7,163
+88,簡家蚵仔煎,https://www.foodpanda.com.tw/restaurant/q1wq/jian-jia-he-zi-jian,https://images.deliveryhero.io/image/fd-tw/LH/q1wq-listing.jpg,(O)基隆市仁愛區孝三路93號,4.7,91
+89,合口味飯麵館,https://www.foodpanda.com.tw/restaurant/y8rz/he-kou-wei-fan-mian-guan,https://images.deliveryhero.io/image/fd-tw/LH/y8rz-listing.jpg,(△) 基隆市安樂區安樂路一段188號 (食安登錄字號:C-200136602-00000-9),4.4,582
+90,初沐Qmilk,https://www.foodpanda.com.tw/restaurant/h3al/chu-mu-qmilk,https://images.deliveryhero.io/image/fd-tw/LH/h3al-listing.jpg,(O)基隆市仁愛區愛三路87號1樓,4.7,277
+91,黃媽媽養生素食,https://www.foodpanda.com.tw/restaurant/f1ao/huang-ma-ma-yang-sheng-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/f1ao-listing.jpg,(△)基隆市仁愛區劉銘傳路11巷6號,4.6,360
+92,無名鍋,https://www.foodpanda.com.tw/restaurant/z9su/wu-ming-guo,https://images.deliveryhero.io/image/fd-tw/LH/z9su-listing.jpg,(O) 基隆市中正區信一路141巷7號,4.7,60
+93,湖南小館,https://www.foodpanda.com.tw/restaurant/m0gn/hu-nan-xiao-guan,https://images.deliveryhero.io/image/fd-tw/LH/m0gn-listing.jpg,(O)基隆市中正區義一路68號,4.5,388
+94,泰站X西八碼頭炸雞,https://www.foodpanda.com.tw/restaurant/b0sf/tai-zhan-xxi-ba-ma-tou-zha-ji,https://images.deliveryhero.io/image/fd-tw/LH/b0sf-listing.jpg,(△) 基隆市中山區中山二路113號,4.7,218
+95,皇家鵝肉莊,https://www.foodpanda.com.tw/restaurant/e1tn/huang-jia-e-rou-zhuang,https://images.deliveryhero.io/image/fd-tw/LH/e1tn-listing.jpg,(△) 基隆市仁愛區忠二路2號,4.2,178
+96,Nini愛吃雞蛋糕,https://www.foodpanda.com.tw/restaurant/z8gz/niniai-chi-ji-dan-gao,https://images.deliveryhero.io/image/fd-tw/LH/z8gz-listing.jpg,(△) 基隆市中山區中山二路36巷5號,4.6,549
+97,莎媚香酥雞排,https://www.foodpanda.com.tw/restaurant/p7yx/sha-mei-xiang-su-ji-pai,https://images.deliveryhero.io/image/fd-tw/LH/p7yx-listing.jpg,(△)基隆市仁愛區孝三路107號,4.5,89
+98,蛋幾咧串烤雞蛋仔,https://www.foodpanda.com.tw/restaurant/t1lu/dan-ji-lie-chuan-kao-ji-dan-zi,https://images.deliveryhero.io/image/fd-tw/LH/t1lu-listing.jpg,(△)基隆市仁愛區愛四路37號,4.4,131
+99,金城燒臘店,https://www.foodpanda.com.tw/chain/ck1yn/jin-cheng-shao-la-dian,https://images.deliveryhero.io/image/fd-tw/LH/s9ec-listing.jpg,(△)基隆市中山區復興路124號,4.5,422
+100,客 原味 麻辣滷味,https://www.foodpanda.com.tw/restaurant/m1ou/m1ou,https://images.deliveryhero.io/image/fd-tw/LH/m1ou-listing.jpg,(△)基隆市中山區中山二路57-1號,4.2,23
+101,銘傳川壽司,https://www.foodpanda.com.tw/restaurant/z2nn/ming-chuan-chuan-shou-si,https://images.deliveryhero.io/image/fd-tw/LH/z2nn-listing.jpg,(△) 基隆市仁愛區仁一路245號 食品業者登錄字號：C-200048476-00000-0,4.5,597
+102,珍糖傳 -基隆廟口店,https://www.foodpanda.com.tw/restaurant/f2bj/zhen-tang-chuan-ji-long-miao-kou-dian-1,https://images.deliveryhero.io/image/fd-tw/LH/f2bj-listing.jpg,(△)基隆市仁愛區仁三路42號(廟口60號攤位),4.6,224
+103,黑三堡,https://www.foodpanda.com.tw/restaurant/d6oh/hei-san-bao,https://images.deliveryhero.io/image/fd-tw/LH/d6oh-listing.jpg,(△) 基隆市中正區義二路30號,4.7,108
+104,一燔炸雞,https://www.foodpanda.com.tw/chain/cc7ha/yi-fan-zha-ji,https://images.deliveryhero.io/image/fd-tw/LH/y7rc-listing.jpg,(△) 台北市內湖區內湖路一段285號2F,4.6,792
+105,麥味登 (基隆孝三店),https://www.foodpanda.com.tw/restaurant/y6ax/mai-wei-deng-ji-long-xiao-san-dian,https://images.deliveryhero.io/image/fd-tw/LH/y6ax-listing.jpg,(△) 基隆市仁愛區孝三路36號 食品業者登錄字號：C-200039297-00000-1,4.6,868
+106,紅橘子,https://www.foodpanda.com.tw/chain/cf8rg/hong-ju-zi,https://images.deliveryhero.io/image/fd-tw/LH/z5po-listing.jpg,(△) (M) 新北市三重區龍門路177號 食品業者登錄字號：F-200138456-00000-1,4.7,611
+107,內湖737 豬血糕,https://www.foodpanda.com.tw/restaurant/d9cv/nei-hu-737-zhu-xie-gao,https://images.deliveryhero.io/image/fd-tw/LH/d9cv-listing.jpg,(△) 基隆市安樂區安一路104號,4.3,249
+108,貓屋茶製所,https://www.foodpanda.com.tw/restaurant/ev6t/mao-wu-cha-zhi-suo,https://images.deliveryhero.io/image/fd-tw/LH/ev6t-listing.jpg,(△)基隆市安樂區安一路176巷23之3號4樓,4.3,16
+109,老司鷄炸全雞專賣店 (基隆仁一店),https://www.foodpanda.com.tw/restaurant/x9dr/lao-si-ji-zha-quan-ji-zhuan-mai-dian-ji-long-ren-dian,https://images.deliveryhero.io/image/fd-tw/LH/x9dr-listing.jpg,(△)基隆市仁愛區南榮路42號,4.4,186
+110,林家阿佑麻油雞,https://www.foodpanda.com.tw/restaurant/l1bo/lin-jia-a-you-ma-you-ji,https://images.deliveryhero.io/image/fd-tw/LH/l1bo-listing.jpg,(△)基隆市仁愛區仁三路63號,4.5,309
+111,天仁茗茶/喫茶趣,https://www.foodpanda.com.tw/chain/cp9yf/tian-ren-ming-cha-chi-cha-qu,https://images.deliveryhero.io/image/fd-tw/LH/z9zg-listing.jpg,(O)台北市信義區松高路11號B2F,4.8,2073
+112,德基水餃,https://www.foodpanda.com.tw/restaurant/y8dv/de-ji-shui-jiao,https://images.deliveryhero.io/image/fd-tw/LH/y8dv-listing.jpg,(△) 基隆市仁愛區愛一路8號2樓,4.2,63
+113,Burger King 漢堡王【有早餐】,https://www.foodpanda.com.tw/chain/ct1ll/burger-king-han-bao-wang-you-zao-can,https://images.deliveryhero.io/image/fd-tw/LH/y6hf-listing.jpg,(X) (M) 台北市中山區中山北路三段24-1號 食品業者登錄字號：A-123309178-00020-3,4.6,1413
+114,戰鬥雞,https://www.foodpanda.com.tw/chain/cl1lq/zhan-dou-ji,https://images.deliveryhero.io/image/fd-tw/LH/d7xg-listing.jpg,(△) 新北市板橋區南雅東路9號,4.7,405
+115,虎爺麵線 (基隆總店),https://www.foodpanda.com.tw/restaurant/f9ra/hu-ye-mian-xian-ji-long-zong-dian,https://images.deliveryhero.io/image/fd-tw/LH/f9ra-listing.jpg,(△)基隆市仁愛區仁二路149號,4.5,253
+116,添飯低卡健康餐盒,https://www.foodpanda.com.tw/restaurant/n0zp/tian-fan-di-qia-jian-kang-can-he,https://images.deliveryhero.io/image/fd-tw/LH/n0zp-listing.jpg,(△)基隆市仁愛區成功一路88號1樓(走樓梯下樓),4.7,195
+117,八方雲集,https://www.foodpanda.com.tw/chain/cf2ih/ba-fang-yun-ji,https://images.deliveryhero.io/image/fd-tw/LH/e5tq-listing.jpg,(△) (M) 新北市中和區立德街113號1樓,4.6,204
+118,玩食堂onefood,https://www.foodpanda.com.tw/restaurant/y3yx/wan-shi-tang-onefood,https://images.deliveryhero.io/image/fd-tw/LH/y3yx-listing.jpg,(△) 基隆市仁愛區龍安街155號,4.7,970
+119,老娘正夯小酒屋,https://www.foodpanda.com.tw/restaurant/a5uz/lao-niang-zheng-hang-xiao-jiu-wu,https://images.deliveryhero.io/image/fd-tw/LH/a5uz-listing.jpg,(△) 基隆市仁愛區成功一路128號,4.6,219
+120,米塔義式廚房,https://www.foodpanda.com.tw/chain/cv3mu/mi-ta-yi-shi-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/b9wx-listing.jpg,(O) 新北市新店區民權路40號,4.5,226
+121,泰機車泰式料理,https://www.foodpanda.com.tw/restaurant/y2ly/tai-ji-che-tai-shi-liao-li,https://images.deliveryhero.io/image/fd-tw/LH/y2ly-listing.jpg,(△) 基隆市仁愛區愛三路21號2樓B7 食品業者登錄字號：C-200138381-00000-5,4.5,1135
+122,哲,https://www.foodpanda.com.tw/restaurant/z3sq/zhe,https://images.deliveryhero.io/image/fd-tw/LH/z3sq-listing.jpg,(△) 基隆市安樂區樂一路15號,4.2,293
+123,雙醬咖哩,https://www.foodpanda.com.tw/chain/cl4qe/shuang-jiang-ka-li,https://images.deliveryhero.io/image/fd-tw/LH/a3za-listing.jpg,(△)新北市新店區中正路687號,4.6,448
+124,江南雞排茶飲專賣店,https://www.foodpanda.com.tw/restaurant/y0nk/jiang-nan-ji-pai-cha-yin-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/y0nk-listing.jpg,(△) 基隆市中山區安一路38號 食品業者登錄字號：C-126140907-00000-9,4.6,774
+125,小劉排骨飯專賣店,https://www.foodpanda.com.tw/restaurant/e1vs/xiao-liu-pai-gu-fan-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/e1vs-listing.jpg,(△) 基隆市中山區安一路2號1樓,4.5,317
+126,呷尚寶Jsp早餐店(基隆西定店),https://www.foodpanda.com.tw/restaurant/z6yf/xia-shang-bao-jsp-ji-long-xi-ding-dian,https://images.deliveryhero.io/image/fd-tw/LH/z6yf-listing.jpg,(△) 基隆市中山區西定路136號,4.5,2835
+127,曾記大腸圈 (廟口夜市),https://www.foodpanda.com.tw/restaurant/z9vh/ceng-ji-da-chang-quan-miao-kou-ye-shi,https://images.deliveryhero.io/image/fd-tw/LH/z9vh-listing.jpg,(△) 基隆市仁愛區仁二路217號,4.3,141
+128,臭到府麻辣火鍋,https://www.foodpanda.com.tw/restaurant/z1yd/chou-dao-fu-ma-la-huo-guo,https://images.deliveryhero.io/image/fd-tw/LH/z1yd-listing.jpg,(△) 基隆市仁愛區南榮路169號,4.7,20
+129,三兄弟豆花,https://www.foodpanda.com.tw/restaurant/z1vj/san-xiong-di-dou-hua,https://images.deliveryhero.io/image/fd-tw/LH/z1vj-listing.jpg,(O) 基隆市仁愛區愛四路26號,4.6,732
+130,小嘟嘟串燒殿,https://www.foodpanda.com.tw/restaurant/m9pu/xiao-du-du-chuan-shao-dian,https://images.deliveryhero.io/image/fd-tw/LH/m9pu-listing.jpg,(△)基隆市中山區成功二路49號,4.4,168
+131,阿微剉冰,https://www.foodpanda.com.tw/restaurant/z8uf/a-wei-cuo-bing,https://images.deliveryhero.io/image/fd-tw/LH/z8uf-listing.jpg,(△) 基隆市仁愛區曲水街1號,4.5,426
+132,義家之煮 (基隆愛二店),https://www.foodpanda.com.tw/restaurant/b1am/yi-jia-zhi-zhu-ji-long-ai-er-dian-vendor,https://images.deliveryhero.io/image/fd-tw/LH/b1am-listing.jpg,(O) 基隆市仁愛區愛二路26號,4.6,249
+133,澤井火鍋店,https://www.foodpanda.com.tw/restaurant/z3hv/ze-jing-huo-guo-dian,https://images.deliveryhero.io/image/fd-tw/LH/z3hv-listing.jpg,(O) 基隆市仁愛區愛二路65號2樓,4.7,67
+134,真香甜碳烤地瓜,https://www.foodpanda.com.tw/chain/cp9yp/zhen-xiang-tian-tan-kao-di-gua,https://images.deliveryhero.io/image/fd-tw/LH/z1jd-listing.jpg,(△) 基隆市仁愛區愛二路76號,4.8,82
+135,陶林歡喜蔬食,https://www.foodpanda.com.tw/restaurant/f3nj/f3nj,https://images.deliveryhero.io/image/fd-tw/LH/f3nj-listing.jpg,(△)基隆市仁愛區愛三路21號2樓(仁愛市場D47),4.8,561
+136,思維麵食館,https://www.foodpanda.com.tw/restaurant/a8og/si-wei-mian-shi-guan,https://images.deliveryhero.io/image/fd-tw/LH/a8og-listing.jpg,(△) 基隆市仁愛區仁四路6號,4.7,909
+137,三坑阿婆麵線羹,https://www.foodpanda.com.tw/restaurant/x9iv/san-keng-a-po-mian-xian-geng,https://images.deliveryhero.io/image/fd-tw/LH/x9iv-listing.jpg,(△)基隆市仁愛區龍安街205號,4.7,122
+138,澧茗號,https://www.foodpanda.com.tw/chain/ca9an/li-ming-hao,https://images.deliveryhero.io/image/fd-tw/LH/d3op-listing.jpg,(O) 基隆市仁愛區仁二路99號,4.8,529
+139,煮火鍋,https://www.foodpanda.com.tw/restaurant/z5hb/zhu-huo-guo,https://images.deliveryhero.io/image/fd-tw/LH/z5hb-listing.jpg,(O) 基隆市仁愛區愛二路66號 食品業者登錄字號：C-200127775-00000-0,4.5,391
+140,漢良茶素食,https://www.foodpanda.com.tw/restaurant/i1py/han-liang-cha-su-shi,https://images.deliveryhero.io/image/fd-tw/LH/i1py-listing.jpg,(△)基隆市仁愛區愛一路8號2樓(仁愛市場2樓D1),4.4,55
+141,貓小路cafe,https://www.foodpanda.com.tw/restaurant/y4lz/mao-xiao-lu-cafe,https://images.deliveryhero.io/image/fd-tw/LH/y4lz-listing.jpg,(△) 基隆市仁愛區孝二路83號,NA,0
+142,隆晴樺食堂,https://www.foodpanda.com.tw/restaurant/ogku/long-qing-hua-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/ogku-listing.jpg,(△)基隆市仁愛區忠三路14號,NA,0
+143,McDonald's 麥當勞,https://www.foodpanda.com.tw/chain/co4jt/mcdonald-mai-dang-lao,https://images.deliveryhero.io/image/fd-tw/LH/a6ub-listing.jpg,(X) 桃園市桃園區中正路50號 (食安登錄字號:H-112411160-00839-1),4.7,3270
+144,一燔咖哩蛋包飯,https://www.foodpanda.com.tw/chain/cx2kn/yi-fan-ka-li-dan-bao-fan,https://images.deliveryhero.io/image/fd-tw/LH/y2cg-listing.jpg,(△) 基隆市仁愛區仁五路59號,4.6,1977
+145,すき家 Sukiya,https://www.foodpanda.com.tw/chain/ck3pb/sukiya,https://images.deliveryhero.io/image/fd-tw/LH/f0fo-listing.jpg,(X) 台北市中山區北安路623號1樓,4.6,2475
+146,清心福全 (基隆仁四店),https://www.foodpanda.com.tw/restaurant/z1jh/qing-xin-fu-quan-ji-long-ren-si-dian,https://images.deliveryhero.io/image/fd-tw/LH/z1jh-listing.jpg,(O) 基隆市仁愛區仁四路58號,4.7,423
+147,謹聖廚房-限量外送專賣店,https://www.foodpanda.com.tw/restaurant/f0lx/jin-sheng-chu-fang-xian-liang-wai-song-zhuan-mai-dian,https://images.deliveryhero.io/image/fd-tw/LH/f0lx-listing.jpg,(△)基隆市仁愛區愛一路8號2樓(仁愛市場2樓D32攤位),4.5,77
+148,IDF與雞同行,https://www.foodpanda.com.tw/restaurant/i6rk/idfyu-ji-tong-xing,https://images.deliveryhero.io/image/fd-tw/LH/i6rk-listing.jpg,(△)基隆市安樂區安一路132號,4.7,475
+149,新豐街鹹水雞 (基隆仁二店),https://www.foodpanda.com.tw/restaurant/n1wa/xin-feng-jie-xian-shui-ji-ji-long-ren-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/n1wa-listing.jpg,(△)基隆市仁愛區仁二路233號,4.5,59
+150,My Way早午餐,https://www.foodpanda.com.tw/restaurant/a0ti/my-wayzao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/a0ti-listing.jpg,(△) 基隆市中山區西定路90號,4.6,830
+151,江家養生素麵線羹,https://www.foodpanda.com.tw/restaurant/t4jr/jiang-jia-yang-sheng-su-mian-xian-geng,https://images.deliveryhero.io/image/fd-tw/LH/t4jr-listing.jpg,(△) 基隆市仁愛區孝四路12號,4.5,77
+152,伍食便當,https://www.foodpanda.com.tw/restaurant/h0oq/wu-shi-bian-dang,https://images.deliveryhero.io/image/fd-tw/LH/h0oq-listing.jpg,(△)基隆市中山區西定路120號,4.3,168
+153,homee CAFE 好饗咖啡 (基隆中正店),https://www.foodpanda.com.tw/restaurant/gmt6/homee-cafe-hao-xiang-ka-pei-ji-long-zhong-zheng-dian,https://images.deliveryhero.io/image/fd-tw/LH/gmt6-listing.jpg,(O)基隆市中正區中正路1號1樓,4.2,9
+154,金仙魯肉飯 (基隆仁二店),https://www.foodpanda.com.tw/restaurant/c2vl/jin-xian-lu-rou-fan-ji-long-ren-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/c2vl-listing.jpg,(△)基隆市仁愛區仁二路146號,4.4,245
+155,TrueWin初韻,https://www.foodpanda.com.tw/chain/cl8xi/truewinchu-yun,https://images.deliveryhero.io/image/fd-tw/LH/z8ch-listing.jpg,(O)新北市三重區三和路2段67號,4.7,1353
+156,牛膳坊,https://www.foodpanda.com.tw/restaurant/b8yv/niu-shan-fang,https://images.deliveryhero.io/image/fd-tw/LH/b8yv-listing.jpg,(△) 基隆市中正區義一路178號,4.6,450
+157,何家當歸,https://www.foodpanda.com.tw/restaurant/d6fl/he-jia-dang-gui,https://images.deliveryhero.io/image/fd-tw/LH/d6fl-listing.jpg,(△) 基隆市仁愛區仁三路75號,4.5,182
+158,好運殿日式炸物,https://www.foodpanda.com.tw/chain/cx0op/hao-yun-dian-ri-shi-zha-wu,https://images.deliveryhero.io/image/fd-tw/LH/y7yp-listing.jpg,(△) 基隆市仁愛區劉銘傳路2號,4.6,750
+159,幸福旗魚麵線羹,https://www.foodpanda.com.tw/restaurant/v5xp/v5xp,https://images.deliveryhero.io/image/fd-tw/LH/v5xp-listing.jpg,(△)基隆市仁愛區孝四路25號,4.4,469
+160,今晨享,https://www.foodpanda.com.tw/restaurant/s2le/jin-chen-xiang,https://images.deliveryhero.io/image/fd-tw/LH/s2le-listing.jpg,(△)基隆市中山區西定路205號,4.6,23
+161,花珈琲雜貨舖Hana cafe,https://www.foodpanda.com.tw/restaurant/y3jx/-hana-cafe,https://images.deliveryhero.io/image/fd-tw/LH/y3jx-listing.jpg,(△) 基隆市仁愛區劉銘傳路16號1樓 食品業者登錄字號：C-200128066-00000-4,4.5,91
+162,鴨香煲,https://www.foodpanda.com.tw/restaurant/d2ru/ya-xiang-bao-vendor,https://images.deliveryhero.io/image/fd-tw/LH/d2ru-listing.jpg,(△) 基隆市中正區義二路83號,4.4,205
+163,聚爐益爆漿胡椒餅,https://www.foodpanda.com.tw/restaurant/c4ur/ju-lu-yi-bao-jiang-hu-jiao-bing,https://images.deliveryhero.io/image/fd-tw/LH/c4ur-listing.jpg,(△)基隆市仁愛區愛四路88號(前方攤位),4.7,152
+164,富貴象泰國小吃,https://www.foodpanda.com.tw/restaurant/t3gh/fu-gui-xiang-tai-guo-xiao-chi,https://images.deliveryhero.io/image/fd-tw/LH/t3gh-listing.jpg,(△)基隆市仁愛區孝三路21號,4.4,66
+165,二十一義,https://www.foodpanda.com.tw/restaurant/t6bu/er-shi-yi,https://images.deliveryhero.io/image/fd-tw/LH/t6bu-listing.jpg,(△)基隆市中正區中正路24號,4.3,13
+166,閣樓麵館,https://www.foodpanda.com.tw/restaurant/z8bp/ge-lou-mian-guan,https://images.deliveryhero.io/image/fd-tw/LH/z8bp-listing.jpg,(△) 基隆市仁愛區南榮路64巷8號,4.6,1641
+167,初沐Qmilk Coffee&JuiceBar(基隆站前店),https://www.foodpanda.com.tw/restaurant/ec9m/chu-mu-qmilk-coffeeandjuicebar-ji-long-zhan-qian-dian,https://images.deliveryhero.io/image/fd-tw/LH/ec9m-listing.jpg,(O)基隆市仁愛區忠二路44號1樓,4.8,21
+168,Domino's 達美樂,https://www.foodpanda.com.tw/chain/cz9me/dominos-da-mei-le,https://images.deliveryhero.io/image/fd-tw/LH/v4zp-listing.jpg,(#) 台北市中山區民生東路二段56號 食品業者登錄字號:A-186385187-00001-5,4.7,349
+169,780廣東粥,https://www.foodpanda.com.tw/restaurant/d9ud/780-,https://images.deliveryhero.io/image/fd-tw/LH/d9ud-listing.jpg,(△) 基隆市中山區成功二路187號,4.6,302
+170,島瓜滷味,https://www.foodpanda.com.tw/chain/ce8ff/dao-gua-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/u0no-listing.jpg,(△)新北市新莊區中港路141號,3.6,9
+171,風車音樂餐廳,https://www.foodpanda.com.tw/restaurant/z8xy/feng-che-yin-le-can-ting,https://images.deliveryhero.io/image/fd-tw/LH/z8xy-listing.jpg,(O) 基隆市仁愛區愛二路50號,NA,0
+172,港仔味,https://www.foodpanda.com.tw/restaurant/e6yw/--283,https://images.deliveryhero.io/image/fd-tw/LH/e6yw-listing.jpg,(△) 基隆市仁愛區愛三路21號(C61攤位),3.9,93
+173,STARBUCKS 星巴克,https://www.foodpanda.com.tw/chain/cf4ah/starbucks-xing-ba-ke,https://images.deliveryhero.io/image/fd-tw/LH/m4hp-listing.jpg,(X) 新北市板橋區文化路一段220號 食品業者登錄字號：F-116097091-00174-8,4.8,256
+174,人魚線,https://www.foodpanda.com.tw/restaurant/b41w/ren-yu-xian,https://images.deliveryhero.io/image/fd-tw/LH/b41w-listing.jpg,(△)基隆市中正區義二路120號,5,4
+175,御膳美食,https://www.foodpanda.com.tw/restaurant/z5ba/yu-shan-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/z5ba-listing.jpg,(△) 基隆市麥金路 783號5樓,4.6,754
+176,微笑Pasta,https://www.foodpanda.com.tw/chain/cr1ui/wei-xiao-pasta,https://images.deliveryhero.io/image/fd-tw/LH/y0ys-listing.jpg,(O) 基隆市仁愛區仁一路303巷13號,4.4,891
+177,黑武藏壽司 (基隆廟口店),https://www.foodpanda.com.tw/restaurant/f0wq/hei-wu-cang-shou-si-ji-long-miao-kou-dian,https://images.deliveryhero.io/image/fd-tw/LH/f0wq-listing.jpg,(△)基隆市仁愛區愛四路39-1號,4.6,375
+178,黑炭燒烤本鋪,https://www.foodpanda.com.tw/restaurant/b2ov/hei-tan-shao-kao-ben-pu,https://images.deliveryhero.io/image/fd-tw/LH/b2ov-listing.jpg,(△) 基隆市中正區信四路18號,4.6,187
+179,一枝草三杯滷味,https://www.foodpanda.com.tw/restaurant/d9se/yi-zhi-cao-san-bei-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/d9se-listing.jpg,(△) 基隆市仁愛區南榮路6號,4.5,199
+180,仨寶雞排,https://www.foodpanda.com.tw/restaurant/r7cm/sa-bao-ji-pai,https://images.deliveryhero.io/image/fd-tw/LH/r7cm-listing.jpg,(△)基隆市仁愛區愛三路6號,4.7,415
+181,鼎記廣東粥,https://www.foodpanda.com.tw/restaurant/z9ej/ding-ji-guang-dong-zhou,https://images.deliveryhero.io/image/fd-tw/LH/z9ej-listing.jpg,(△) 基隆市安樂區樂一路5號,4.5,739
+182,李圓圓飲料店,https://www.foodpanda.com.tw/chain/cs3sn/li-yuan-yuan-yin-liao-dian,https://images.deliveryhero.io/image/fd-tw/LH/z2fu-listing.jpg,(O) 新北市淡水區公明街16號,4.7,1148
+183,雞雞炸炸 (基隆安一店),https://www.foodpanda.com.tw/restaurant/y8uv/ji-ji-zha-zha-ji-long-an-yi-dian,https://images.deliveryhero.io/image/fd-tw/LH/y8uv-listing.jpg,(△) 基隆市安樂區安一路126號,4.6,1822
+184,朋廚烘焙坊,https://www.foodpanda.com.tw/restaurant/z1vr/peng-chu-hong-bei-fang,https://images.deliveryhero.io/image/fd-tw/LH/z1vr-listing.jpg,(O) 基隆市仁愛區仁二路208號,4.7,97
+185,熊熊可麗餅 (基隆仁愛店),https://www.foodpanda.com.tw/restaurant/a4ud/xiong-xiong-ke-li-bing-ji-long-ren-ai-dian,https://images.deliveryhero.io/image/fd-tw/LH/a4ud-listing.jpg,(△) 基隆市仁愛區愛四路60號,4.6,260
+186,久淘起司棒,https://www.foodpanda.com.tw/restaurant/l4qa/jiu-tao-qi-si-bang,https://images.deliveryhero.io/image/fd-tw/LH/l4qa-listing.jpg,(△)基隆市仁愛區愛三路4號一樓,4.6,107
+187,翁阿姨國光鹹水雞,https://www.foodpanda.com.tw/restaurant/a0ve/weng-a-yi-guo-guang-xian-shui-ji,https://images.deliveryhero.io/image/fd-tw/LH/a0ve-listing.jpg,(△) 基隆市仁愛區孝三路73號,4.7,409
+188,遠東泡泡冰,https://www.foodpanda.com.tw/restaurant/f6ze/f6ze,https://images.deliveryhero.io/image/fd-tw/LH/f6ze-listing.jpg,(O)基隆市仁愛區仁三路5號,4.8,422
+189,口味香炸雞(基隆安一店),https://www.foodpanda.com.tw/restaurant/z9js/kou-wei-xiang-zha-ji-ji-long-an-dian,https://images.deliveryhero.io/image/fd-tw/LH/z9js-listing.jpg,(△) 基隆市安樂區安一路104號,4.4,462
+190,九湯屋,https://www.foodpanda.com.tw/chain/cc7wx/jiu-tang-wu,https://images.deliveryhero.io/image/fd-tw/LH/y1yx-listing.jpg,(O)新竹市東區建新路9號,4.5,1034
+191,謝記章魚腳,https://www.foodpanda.com.tw/restaurant/z0am/xie-ji-zhang-yu-jiao,https://images.deliveryhero.io/image/fd-tw/LH/z0am-listing.jpg,(△) 基隆市仁愛區仁三路愛四路交叉路口,4.5,326
+192,好記海鮮粥.腿庫飯,https://www.foodpanda.com.tw/restaurant/z5pq/hao-ji-hai-xian-zhou-tui-ku-fan,https://images.deliveryhero.io/image/fd-tw/LH/z5pq-listing.jpg,(△) 基隆市中山區成功二路28號,4.7,756
+193,好好咖啡,https://www.foodpanda.com.tw/restaurant/y5ll/hao-hao-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/y5ll-listing.jpg,(△) 基隆市信義區信二路254號,4.7,276
+194,中山二路91號魯肉飯,https://www.foodpanda.com.tw/restaurant/s6tl/zhong-shan-er-lu-91hao-lu-rou-fan,https://images.deliveryhero.io/image/fd-tw/LH/s6tl-listing.jpg,(△)基隆市中山區中山二路91號,4.5,95
+195,淓麵線,https://www.foodpanda.com.tw/restaurant/o2jh/fang-mian-xian,https://images.deliveryhero.io/image/fd-tw/LH/o2jh-listing.jpg,(△)基隆市安樂區安一路169號,4.7,216
+196,刈堡BAO,https://www.foodpanda.com.tw/restaurant/z2nk/yi-bao-bao,https://images.deliveryhero.io/image/fd-tw/LH/z2nk-listing.jpg,(△) 基隆市仁愛區孝一路23巷3弄1號,4.6,398
+197,熊石雞蛋仔 (基隆廟口店),https://www.foodpanda.com.tw/restaurant/y3za/xiong-shi-ji-dan-zi-ji-long-miao-kou-dian,https://images.deliveryhero.io/image/fd-tw/LH/y3za-listing.jpg,(△) 基隆市仁愛區仁三路23號 (食安登錄字號：C-200147540-00000-2),4.3,214
+198,基隆廟口明德五香滷味,https://www.foodpanda.com.tw/restaurant/y1wb/ming-de-wu-xiang-lu-wei,https://images.deliveryhero.io/image/fd-tw/LH/y1wb-listing.jpg,(△) 基隆市仁愛區愛二路41號,4.5,106
+199,小么G鹹水雞,https://www.foodpanda.com.tw/restaurant/g0oj/xiao-yao-gxian-shui-ji,https://images.deliveryhero.io/image/fd-tw/LH/g0oj-listing.jpg,(△)基隆市安樂區樂一路19號,4.5,44
+200,阿環雞排,https://www.foodpanda.com.tw/restaurant/z0wi/a-huan-ji-pai,https://images.deliveryhero.io/image/fd-tw/LH/z0wi-listing.jpg,(△) 基隆市仁愛區愛四路60號,4.2,482
+201,錦記美食,https://www.foodpanda.com.tw/restaurant/p8ez/jin-ji-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/p8ez-listing.jpg,(△)基隆市仁愛區忠四路58號,4.4,13
+202,李媽媽家傳涼麵 咖喱飯,https://www.foodpanda.com.tw/restaurant/y5kt/li-ma-ma-jia-chuan-liang-mian-ka-li-fan,https://images.deliveryhero.io/image/fd-tw/LH/y5kt-listing.jpg,(△) 基隆市仁愛區仁一路315號,4.4,729
+203,漾漾咖啡,https://www.foodpanda.com.tw/restaurant/z5gz/yang-yang-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/z5gz-listing.jpg,(△) 基隆市中正區信二路307號 食品業者登錄字號：C-200137402-00000-8,4.6,69
+204,龍門客棧麵店,https://www.foodpanda.com.tw/restaurant/z4ia/long-men-ke-zhan-mian-dian,https://images.deliveryhero.io/image/fd-tw/LH/z4ia-listing.jpg,(△) 基隆市中正區中正路28號,4.3,181
+205,越妃私房越南料理,https://www.foodpanda.com.tw/restaurant/q0nv/yue-fei-si-fang-yue-nan-liao-li,https://images.deliveryhero.io/image/fd-tw/LH/q0nv-listing.jpg,(△)基隆市中正區義二路190號,4.4,24
+206,美香齋滷味 (基隆仁一店),https://www.foodpanda.com.tw/restaurant/z6xm/mei-xiang-zhai-lu-wei-ji-long-ren-yi-dian,https://images.deliveryhero.io/image/fd-tw/LH/z6xm-listing.jpg,(△) 基隆市仁愛區仁一路319號 食品業者登錄字號：C-200104638-00000-3,4.6,1233
+207,胖哥倆串燒店,https://www.foodpanda.com.tw/restaurant/s6kx/pang-ge-lia-chuan-shao-dian,https://images.deliveryhero.io/image/fd-tw/LH/s6kx-listing.jpg,(△)基隆市仁愛區仁二路138號,4.2,11
+208,爭鮮迴轉壽司,https://www.foodpanda.com.tw/chain/cr4kj/zheng-xian-hui-zhuan-shou-si,https://images.deliveryhero.io/image/fd-tw/LH/q7pd-listing.jpg,(X)台南市新營區三民路126-1號(雄獅旅遊旁),4.5,193
+209,小小越南美食,https://www.foodpanda.com.tw/restaurant/q7sd/xiao-xiao-yue-nan-mei-shi,https://images.deliveryhero.io/image/fd-tw/LH/q7sd-listing.jpg,(△)基隆市仁愛區劉銘傳路11巷17號,4.6,62
+210,紅花亭,https://www.foodpanda.com.tw/restaurant/z4zw/hong-hua-ting,https://images.deliveryhero.io/image/fd-tw/LH/z4zw-listing.jpg,(△) 基隆市仁愛區忠一路2-1號,4.2,33
+211,范師傅燒烤便當,https://www.foodpanda.com.tw/restaurant/f9yt/fan-shi-fu-shao-kao-bian-dang,https://images.deliveryhero.io/image/fd-tw/LH/f9yt-listing.jpg,(△)基隆市仁愛區孝三路74號,4.5,723
+212,佳源手工麵疙瘩,https://www.foodpanda.com.tw/chain/ct5vf/jia-yuan-shou-gong-mian-ge-da,https://images.deliveryhero.io/image/fd-tw/LH/q3qw-listing.jpg,(△)基隆市仁愛區忠三路18號,4.4,177
+213,KFC 肯德基【有早餐】,https://www.foodpanda.com.tw/chain/cl3os/kfc-ken-de-ji-you-zao-can,https://images.deliveryhero.io/image/fd-tw/LH/z8hv-listing.jpg,(X) 高雄市鳳山區中山路215號 食品業者登錄字號：E-197161500-00119-2,4.7,1385
+214,黃媽媽炒飯炒麵館,https://www.foodpanda.com.tw/restaurant/b8ed/huang-ma-ma-chao-fan-chao-mian-guan,https://images.deliveryhero.io/image/fd-tw/LH/b8ed-listing.jpg,(△) 基隆市中正區義二路116號,4.5,389
+215,蓋厚茶 ,https://www.foodpanda.com.tw/chain/cj0cv/gai-hou-cha,https://images.deliveryhero.io/image/fd-tw/LH/f4ew-listing.jpg,(O)基隆市仁愛區仁三路52號,4.6,714
+216,紅月港式飲茶,https://www.foodpanda.com.tw/restaurant/j5ez/hong-yue-gang-shi-yin-cha,https://images.deliveryhero.io/image/fd-tw/LH/j5ez-listing.jpg,(△)基隆市仁愛區忠一路14號,4.5,60
+217,小蒙牛,https://www.foodpanda.com.tw/chain/cc4eh/xiao-meng-niu,https://images.deliveryhero.io/image/fd-tw/LH/f8sg-listing.jpg,(O)台北市中正區漢口街一段3號2樓,4.1,155
+218,漢堡工坊,https://www.foodpanda.com.tw/restaurant/y1my/han-bao-gong-fang,https://images.deliveryhero.io/image/fd-tw/LH/y1my-listing.jpg,(△) 基隆市中山區西定路114號 食品業者登錄字號：C-128813605-00582-8,4.7,874
+219,樂食 Pasta house,https://www.foodpanda.com.tw/restaurant/g6av/le-shi-pasta-house,https://images.deliveryhero.io/image/fd-tw/LH/g6av-listing.jpg,(O)基隆市仁愛區仁二路98號,4.5,179
+220,Drink store,https://www.foodpanda.com.tw/chain/cl9ft/drink-store,https://images.deliveryhero.io/image/fd-tw/LH/y7xp-listing.jpg,(O)新北市新店區寶橋路220號,4.7,2852
+221,胖夯肉,https://www.foodpanda.com.tw/restaurant/zhsc/pang-hang-rou,https://images.deliveryhero.io/image/fd-tw/LH/zhsc-listing.jpg,(△)基隆市安樂區安一路203號,5,2
+222,蒸味石磨腸粉,https://www.foodpanda.com.tw/restaurant/e6hk/zheng-wei-shi-mo-chang-fen,https://images.deliveryhero.io/image/fd-tw/LH/e6hk-listing.jpg,(△) 基隆市仁愛區忠三路28號,4.3,113
+223,基隆港食堂,https://www.foodpanda.com.tw/restaurant/b9ox/ji-long-gang-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/b9ox-listing.jpg,(O) 基隆市仁愛區仁二路236號3F,4.4,119
+224,8克咖啡,https://www.foodpanda.com.tw/restaurant/h4nv/8ke-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/h4nv-listing.jpg,(△)基隆市仁愛區仁二路52號,4.5,120
+225,牛丁次郎坊 (基隆廟口支店),https://www.foodpanda.com.tw/restaurant/a9xg/niu-ding-ci-lang-fang-ji-long-miao-kou-zhi-dian,https://images.deliveryhero.io/image/fd-tw/LH/a9xg-listing.jpg,(△) 基隆市仁愛區仁二路182號,4.6,857
+226,SUBWAY,https://www.foodpanda.com.tw/chain/cm1xt/subway,https://images.deliveryhero.io/image/fd-tw/LH/vext-listing.jpg,(O) (M) 台北市大同區區承德路一段一號B2,4.6,230
+227,虎藏燒肉丼食所,https://www.foodpanda.com.tw/chain/cx3gp/hu-cang-shao-rou-jing-shi-suo,https://images.deliveryhero.io/image/fd-tw/LH/z4yz-listing.jpg,(O) 桃園市中壢區慈惠三街30巷2號1樓,4.6,598
+228,40號米粉湯,https://www.foodpanda.com.tw/restaurant/z7hw/40hao-mi-fen-tang,https://images.deliveryhero.io/image/fd-tw/LH/z7hw-listing.jpg,(△) 基隆市仁愛區仁二路40號,4.4,601
+229,安樂帕司達,https://www.foodpanda.com.tw/restaurant/pgjm/an-le-pa-si-da,https://images.deliveryhero.io/image/fd-tw/LH/pgjm-listing.jpg,(△)基隆市安樂區樂一路9號,4.3,38
+230,華星牛排館,https://www.foodpanda.com.tw/restaurant/c0mo/hua-xing-niu-pai-guan,https://images.deliveryhero.io/image/fd-tw/LH/c0mo-listing.jpg,(O)基隆市仁愛區孝一路54號B1,4,11
+231,周師傅便當店 (基隆店),https://www.foodpanda.com.tw/restaurant/b9qg/zhou-shi-fu-bian-dang-dian-ji-long-dian,https://images.deliveryhero.io/image/fd-tw/LH/b9qg-listing.jpg,(△) 基隆市安樂區成功一路144號,4.5,373
+232,Choose One 潛艇堡,https://www.foodpanda.com.tw/restaurant/z8dg/choose-one,https://images.deliveryhero.io/image/fd-tw/LH/z8dg-listing.jpg,(△) 基隆市仁愛區愛二路54巷11號,4.7,542
+233,三坑高記手工粉圓,https://www.foodpanda.com.tw/restaurant/z2pa/san-keng-gao-ji-shou-gong-fen-yuan,https://images.deliveryhero.io/image/fd-tw/LH/z2pa-listing.jpg,(△) 基隆市仁愛區龍安街217號,4.6,319
+234, 歡樂牛排,https://www.foodpanda.com.tw/chain/cp2wo/huan-le-niu-pai,https://images.deliveryhero.io/image/fd-tw/LH/f2me-listing.jpg,(O)雲林縣斗六市明德路80號,4.6,596
+235,頂尚鮮,https://www.foodpanda.com.tw/restaurant/n5hx/n5hx,https://images.deliveryhero.io/image/fd-tw/LH/n5hx-listing.jpg,(O)基隆市中正區義二路26號(側門),4.5,38
+236,Pasta帕士達廚房,https://www.foodpanda.com.tw/chain/cw1mt/pastapa-shi-da-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/y1sr-listing.jpg,(△) 基隆市中山區中山二路21號 食品業者登錄字號：F128571629-00000-3,4.6,664
+237,義家之煮 (基隆信二店),https://www.foodpanda.com.tw/restaurant/b1jn/yi-jia-zhi-zhu-ji-long-xin-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/b1jn-listing.jpg,(O) 基隆市信義區信二路189號,4.7,122
+238,Rita廚房,https://www.foodpanda.com.tw/restaurant/v3ca/ritachu-fang,https://images.deliveryhero.io/image/fd-tw/LH/v3ca-listing.jpg,(△)基隆市中山區西定路230號(A12攤位),4.6,75
+239,軒廚房,https://www.foodpanda.com.tw/restaurant/m7pg/xuan-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/m7pg-listing.jpg,(△)基隆市仁愛區忠四路10號,4.3,66
+240,宜蘭三星蔥餅,https://www.foodpanda.com.tw/restaurant/z1xj/yi-lan-san-xing-cong-bing,https://images.deliveryhero.io/image/fd-tw/LH/z1xj-listing.jpg,(△) 基隆市仁愛區仁二路225號,4.6,109
+241,12ozCafe拾貳盎司咖啡館,https://www.foodpanda.com.tw/restaurant/l2xh/12ozcafeshi-er-ang-si-ka-pei-guan,https://images.deliveryhero.io/image/fd-tw/LH/l2xh-listing.jpg,(△)基隆市仁愛區仁一路217巷1號,4.3,58
+242,上宇林 (基隆站前店),https://www.foodpanda.com.tw/restaurant/a8jz/shang-yu-lin-ji-long-zhan-qian-dian,https://images.deliveryhero.io/image/fd-tw/LH/a8jz-listing.jpg,(O) 基隆市仁愛區港西街15號,4.8,889
+243,瑞麟美而美 (基隆安一店),https://www.foodpanda.com.tw/restaurant/a1mj/rui-lin-mei-er-mei-ji-long-an-yi-dian,https://images.deliveryhero.io/image/fd-tw/LH/a1mj-listing.jpg,(△) 基隆市安樂區安一路190號,4.6,947
+244,有情咖啡,https://www.foodpanda.com.tw/restaurant/q9hw/q9hw,https://images.deliveryhero.io/image/fd-tw/LH/q9hw-listing.jpg,(△)基隆市仁愛區愛一路8號2樓(仁愛市場D29),4.4,45
+245,洪記手工肉圓,https://www.foodpanda.com.tw/restaurant/z1uc/hong-ji-shou-gong-rou-yuan,https://images.deliveryhero.io/image/fd-tw/LH/z1uc-listing.jpg,(△) 基隆市中山區安一路36號,4.5,399
+246,月見山,https://www.foodpanda.com.tw/chain/cz2tu/yue-jian-shan,https://images.deliveryhero.io/image/fd-tw/LH/z8fz-listing.jpg,(△) 台北市北投區新市街4號 食品業者登錄字號：F-142723197-00000-8,4.7,168
+247,清心福全,https://www.foodpanda.com.tw/chain/cw6az/qing-xin-fu-quan,https://images.deliveryhero.io/image/fd-tw/LH/z0jz-listing.jpg,(O) 台北市中山區吉林路423號,4.8,506
+248,今日食堂,https://www.foodpanda.com.tw/restaurant/j2pi/jin-ri-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/j2pi-listing.jpg,(△)基隆市仁愛區仁四路17之3號,4.5,357
+249,春陽茶事,https://www.foodpanda.com.tw/chain/cx6tz/chun-yang-cha-shi,https://images.deliveryhero.io/image/fd-tw/LH/wdgs-listing.jpg,(O) 彰化縣彰化市中正路一段479號,4.7,134
+250,神樂岡,https://www.foodpanda.com.tw/restaurant/y5kw/shen-le-gang,https://images.deliveryhero.io/image/fd-tw/LH/y5kw-listing.jpg,(O) 基隆市仁愛區仁二路211號2樓,4.5,253
+251,港記廣東粥鍋燒麵 (基隆三坑店),https://www.foodpanda.com.tw/restaurant/k5xg/gang-ji-guang-dong-zhou-guo-shao-mian-ji-long-san-keng-dian,https://images.deliveryhero.io/image/fd-tw/LH/k5xg-listing.jpg,(△)基隆市仁愛區龍安街207號,4.4,325
+252,小芬鹹水雞,https://www.foodpanda.com.tw/restaurant/z5ou/xiao-fen-xian-shui-ji,https://images.deliveryhero.io/image/fd-tw/LH/z5ou-listing.jpg,(△) 基隆市仁愛區忠一路15號,4.4,495
+253,三奇壹號咖啡館,https://www.foodpanda.com.tw/restaurant/l8ce/l8ce,https://images.deliveryhero.io/image/fd-tw/LH/l8ce-listing.jpg,(△)基隆市仁愛區愛二路54巷2號,4.8,36
+254,阿爸的雞蛋糕,https://www.foodpanda.com.tw/restaurant/j4oe/a-ba-de-ji-dan-gao,https://images.deliveryhero.io/image/fd-tw/LH/j4oe-listing.jpg,(△)基隆市仁愛區愛三路56號,4.6,36
+255,竹棧涮涮鍋 (基隆愛六店),https://www.foodpanda.com.tw/restaurant/t3ll/t3ll,https://images.deliveryhero.io/image/fd-tw/LH/t3ll-listing.jpg,(△)基隆市仁愛區愛六路9號,4,98
+256,安樂美而美,https://www.foodpanda.com.tw/restaurant/z6nl/an-le-mei-er-mei,https://images.deliveryhero.io/image/fd-tw/LH/z6nl-listing.jpg,(△) 基隆市安樂區安樂路一段192號,4.6,912
+257,大呼過癮,https://www.foodpanda.com.tw/chain/cn0ai/da-hu-guo-yin,https://images.deliveryhero.io/image/fd-tw/LH/h6he-listing.jpg,(△)新北市八里區中華路二段568號,4.7,200
+258,越南河粉 滷味小舖,https://www.foodpanda.com.tw/restaurant/f7fr/yue-nan-he-fen-lu-wei-xiao-pu,https://images.deliveryhero.io/image/fd-tw/LH/f7fr-listing.jpg,(△)基隆市仁愛區孝三路95號,4.5,420
+259,早起找餐,https://www.foodpanda.com.tw/restaurant/dzkh/zao-qi-zhao-can,https://images.deliveryhero.io/image/fd-tw/LH/dzkh-listing.jpg,(△)基隆市仁愛區港西街7號,4.4,88
+260,肥蝸牛早午餐,https://www.foodpanda.com.tw/restaurant/z1ul/fei-gua-niu-zao-wu-can,https://images.deliveryhero.io/image/fd-tw/LH/z1ul-listing.jpg,(△) 基隆市信義區義五路15號,4.6,1464
+261,三坑游媽媽牛肉麵,https://www.foodpanda.com.tw/restaurant/z1dy/san-keng-you-ma-ma-niu-rou-mian,https://images.deliveryhero.io/image/fd-tw/LH/z1dy-listing.jpg,(△) 基隆市仁愛區龍安街197號 食品業者登錄字號：C-200129437-00000-7,4,415
+262,紅豆坊,https://www.foodpanda.com.tw/restaurant/z3kc/hong-dou-fang,https://images.deliveryhero.io/image/fd-tw/LH/z3kc-listing.jpg,(△) 基隆市中山區西定路20號,4.6,1150
+263,鹿兒島鍋物專賣店,https://www.foodpanda.com.tw/restaurant/f6tu/f6tu,https://images.deliveryhero.io/image/fd-tw/LH/f6tu-listing.jpg,(△)基隆市仁愛區仁二路217號2樓,4.3,192
+264,呷尚寶,https://www.foodpanda.com.tw/chain/ch5fo/xia-shang-bao,https://images.deliveryhero.io/image/fd-tw/LH/z5sx-listing.jpg,(△) 新北市汐止區明峰街190號,4.6,588
+265,小樽串燒,https://www.foodpanda.com.tw/restaurant/b9oy/xiao-zun-chuan-shao,https://images.deliveryhero.io/image/fd-tw/LH/b9oy-listing.jpg,(△) 基隆市中正區義三路5號,4.5,110
+266,拿坡里炸雞 (Mercuries),https://www.foodpanda.com.tw/chain/cm9on/na-po-li-zha-ji,https://images.deliveryhero.io/image/fd-tw/LH/tg0j-listing.jpg,(X)台北市文山區興隆路三段31號 食品安全登錄字號： F-197301707-00028-2,5,11
+267,摩斯漢堡,https://www.foodpanda.com.tw/chain/ca4mx/mo-si-han-bao,https://images.deliveryhero.io/image/fd-tw/LH/y2bt-listing.jpg,(O) 台北市信義區忠孝東路五段629號1樓,4.7,1270
+268,健人食堂,https://www.foodpanda.com.tw/restaurant/s0fd/jian-ren-shi-tang,https://images.deliveryhero.io/image/fd-tw/LH/s0fd-listing.jpg,(△)基隆市中正區義二路10號,4.7,265
+269,珍讚滷味孝三總店,https://www.foodpanda.com.tw/restaurant/z4kh/zhen-zan-lu-wei-xiao-san-zong-dian,https://images.deliveryhero.io/image/fd-tw/LH/z4kh-listing.jpg,(△) 基隆市仁愛區孝三路46號 食品業者登錄字號：C-200002624-00001-6,4.7,307
+270,聞香亭,https://www.foodpanda.com.tw/restaurant/z9hl/wen-xiang-ting,https://images.deliveryhero.io/image/fd-tw/LH/z9hl-listing.jpg,(△) 基隆市仁愛區忠一路15號,4.7,83
+271,溫莎堡 (仁愛忠一店),https://www.foodpanda.com.tw/restaurant/f2zl/wen-sha-bao-ren-ai-zhong-dian,https://images.deliveryhero.io/image/fd-tw/LH/f2zl-listing.jpg,(O)基隆市仁愛區忠一路17號,4.6,31
+272,車站美香齋滷味 (基隆創始店),https://www.foodpanda.com.tw/restaurant/t2ll/t2ll,https://images.deliveryhero.io/image/fd-tw/LH/t2ll-listing.jpg,(△)基隆市仁愛區忠一路13號,4.6,924
+273,TKLD炭烤三明治,https://www.foodpanda.com.tw/restaurant/p9cc/tkldtan-kao-san-ming-zhi,https://images.deliveryhero.io/image/fd-tw/LH/p9cc-listing.jpg,(△)基隆市安樂區安一路148號1樓,4.7,243
+274,加屋燒烤店,https://www.foodpanda.com.tw/restaurant/y1dw/jia-wu-shao-kao-dian,https://images.deliveryhero.io/image/fd-tw/LH/y1dw-listing.jpg,(△) 基隆市信義區信一路111號,4.6,1434
+275,超大杯,https://www.foodpanda.com.tw/chain/cs9sg/chao-da-bei,https://images.deliveryhero.io/image/fd-tw/LH/z7zm-listing.jpg,(O) 基隆市中山區復興路146號  (食安登錄字號:C-200139825-00000-9),4.7,976
+276,川崎拉麵,https://www.foodpanda.com.tw/restaurant/z1nx/chuan-qi-la-mian,https://images.deliveryhero.io/image/fd-tw/LH/z1nx-listing.jpg,(O) 基隆市仁愛區愛二路63號,4.6,104
+277,漁人手作壽司,https://www.foodpanda.com.tw/restaurant/f3sf/yu-ren-shou-zuo-shou-si,https://images.deliveryhero.io/image/fd-tw/LH/f3sf-listing.jpg,(△)基隆市仁愛區愛一路8號2樓C76攤位,4.6,56
+278,丸山日式涮涮鍋,https://www.foodpanda.com.tw/chain/cn8pk/wan-shan-ri-shi-shuan-shuan-guo,https://images.deliveryhero.io/image/fd-tw/LH/z9up-listing.jpg,(△) 台北市士林區大北路6號,4.6,88
+279,自由之丘 Peaceville Cafe,https://www.foodpanda.com.tw/restaurant/z7mn/-peaceville-cafe,https://images.deliveryhero.io/image/fd-tw/LH/z7mn-listing.jpg,(△) 基隆市仁愛區仁四路7號,4.4,101
+280,湯家小館,https://www.foodpanda.com.tw/restaurant/n6wt/tang-jia-xiao-guan,https://images.deliveryhero.io/image/fd-tw/LH/n6wt-listing.jpg,(△)基隆市信義區信一路141巷22號,4.4,24
+281,88號豆花,https://www.foodpanda.com.tw/restaurant/d4wj/88--4,https://images.deliveryhero.io/image/fd-tw/LH/d4wj-listing.jpg,(△) 基隆市仁愛區愛一路88號,4.7,144
+282,清心福全 (基隆安一店),https://www.foodpanda.com.tw/restaurant/b2xi/qing-xin-fu-quan-ji-long-an-yi-dian,https://images.deliveryhero.io/image/fd-tw/LH/b2xi-listing.jpg,(O) 基隆市中山區安一路66號,4.8,664
+283,義猶味盡,https://www.foodpanda.com.tw/restaurant/e8lh/yi-you-wei-jin,https://images.deliveryhero.io/image/fd-tw/LH/e8lh-listing.jpg,(△) 基隆市仁愛區劉銘傳路11巷4號,4.5,136
+284,不好意思廚房,https://www.foodpanda.com.tw/restaurant/fldg/bu-hao-yi-si-chu-fang,https://images.deliveryhero.io/image/fd-tw/LH/fldg-listing.jpg,(O)基隆市信義區義三路12巷27號1樓,NA,0
+285,紅廚私房菜,https://www.foodpanda.com.tw/restaurant/f5aq/f5aq,https://images.deliveryhero.io/image/fd-tw/LH/f5aq-listing.jpg,(△)基隆市仁愛區孝一路61號2樓,4.6,466
+286,水中餃龍,https://www.foodpanda.com.tw/restaurant/z1kt/shui-zhong-jiao-long,https://images.deliveryhero.io/image/fd-tw/LH/z1kt-listing.jpg,(△) 基隆市中山區西定路54號,4.6,1671
+287,成功鹹水雞,https://www.foodpanda.com.tw/restaurant/i8sc/cheng-gong-xian-shui-ji,https://images.deliveryhero.io/image/fd-tw/LH/i8sc-listing.jpg,(△)基隆市仁愛區成功一路136之1號,4.5,61
+288,寶媽麵飯館,https://www.foodpanda.com.tw/restaurant/d6ue/bao-ma-mian-fan-guan,https://images.deliveryhero.io/image/fd-tw/LH/d6ue-listing.jpg,(△) 基隆市仁愛區南榮路31號,4.6,1512
+289,橙溫手作甜點咖啡,https://www.foodpanda.com.tw/restaurant/c0wi/cheng-wen-shou-zuo-tian-dian-ka-pei,https://images.deliveryhero.io/image/fd-tw/LH/c0wi-listing.jpg,(△)基隆市信義區信二路234巷2-3號,4.7,39
+290,李津好,https://www.foodpanda.com.tw/restaurant/z6er/li-jin-hao,https://images.deliveryhero.io/image/fd-tw/LH/z6er-listing.jpg,(△) 基隆市中山區成功二路44號,4.5,403
+291,品昶小籠包,https://www.foodpanda.com.tw/restaurant/z0zp/pin-chang-xiao-long-bao,https://images.deliveryhero.io/image/fd-tw/LH/z0zp-listing.jpg,(△) 基隆市中山區西定路187號,4.7,594
+292,基隆香濃永和豆漿 (基隆仁二店),https://www.foodpanda.com.tw/restaurant/k7oy/ji-long-xiang-nong-yong-he-dou-jiang-ji-long-ren-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/k7oy-listing.jpg,(△)基隆市仁愛區仁二路101號,4.6,629
+293,cama café,https://www.foodpanda.com.tw/chain/ct8kp/cama-cafe,https://images.deliveryhero.io/image/fd-tw/LH/q9fe-listing.jpg,(O) 台北市大安區大安路一段170號1樓,4.8,162
+294,全壘打燒鍋麵,https://www.foodpanda.com.tw/restaurant/k6pn/quan-lei-da-shao-guo-mian,https://images.deliveryhero.io/image/fd-tw/LH/k6pn-listing.jpg,(△)基隆市信義區信二路234巷2之5號,4.3,134
+295,麗葉麻辣臭豆腐,https://www.foodpanda.com.tw/restaurant/z6ae/li-xie-ma-la-chou-dou-fu,https://images.deliveryhero.io/image/fd-tw/LH/z6ae-listing.jpg,(△) 基隆市仁愛區愛四路60號,4.4,930
+296,白勺鍋燒烏龍,https://www.foodpanda.com.tw/restaurant/z8ej/bai-shao-guo-shao-wu-long,https://images.deliveryhero.io/image/fd-tw/LH/z8ej-listing.jpg,(△) 基隆市仁愛區忠三路68號,4.3,218
+297,墨爾漢堡 (基隆義二店),https://www.foodpanda.com.tw/restaurant/o5st/mo-er-han-bao-ji-long-yi-er-dian,https://images.deliveryhero.io/image/fd-tw/LH/o5st-listing.jpg,(△)基隆市中正區義二路135號,4.6,38
+298,夢幻鹹酥雞,https://www.foodpanda.com.tw/restaurant/h4ea/meng-huan-xian-su-ji,https://images.deliveryhero.io/image/fd-tw/LH/h4ea-listing.jpg,(△) 基隆市安樂區安樂路一段176號5樓,4.4,121
+299,大嘴巴茶坊,https://www.foodpanda.com.tw/restaurant/y8ah/da-zui-ba-cha-fang,https://images.deliveryhero.io/image/fd-tw/LH/y8ah-listing.jpg,(O) 基隆市仁愛區愛三路57號3樓,4.4,240
