@@ -106,8 +106,6 @@ def webhook_handler():
             if event.message.text.lower() == 'fsm':
                 #send_image_message(event.reply_token, 'https://aneater.herokuapp.com/show-fsm')
                 send_image_message(event.reply_token, './fsm.png')
-            elif machine.state != 'user' or event.message.text.lower() == 'restart':
-                send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
             elif machine.state == "user":
                 send_text_message(event.reply_token, "in user")
             elif machine.state == "state1":
