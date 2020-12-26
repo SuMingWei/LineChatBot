@@ -47,24 +47,24 @@ def send_carousel_button_message(reply_token,title,text,url,btn1,btn2,btn3,btn4,
                     text=text,
                     actions=btn2
                 ),
-                CarouselColumn(
-                    thumbnail_image_url=url,
-                    title=title,
-                    text=text,
-                    actions=btn3
-                ),
-                CarouselColumn(
-                    thumbnail_image_url=url,
-                    title=title,
-                    text=text,
-                    actions=btn4
-                ),
-                CarouselColumn(
-                    thumbnail_image_url=url,
-                    title=title,
-                    text=text,
-                    actions=btn5
-                )
+                # CarouselColumn(
+                #     thumbnail_image_url=url,
+                #     title=title,
+                #     text=text,
+                #     actions=btn3
+                # ),
+                # CarouselColumn(
+                #     thumbnail_image_url=url,
+                #     title=title,
+                #     text=text,
+                #     actions=btn4
+                # ),
+                # CarouselColumn(
+                #     thumbnail_image_url=url,
+                #     title=title,
+                #     text=text,
+                #     actions=btn5
+                # )
             ]
         )
     )
