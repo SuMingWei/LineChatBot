@@ -48,11 +48,12 @@ class TocMachine(GraphMachine):
     def on_enter_choose_region(self,event):
         title = '請先選擇一個地區'
         text = '我們有在您的城市提供送餐服務！'
+        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
         columns=[
             CarouselColumn(
-                thumbnail_image_url='顯示在開頭的大圖片網址',
-                title='this is menu1',
-                text='description1',
+                thumbnail_image_url=url,
+                title=title,
+                text=text,
                 actions=[
                     MessageTemplateAction(
                         label = '台北市',
@@ -73,9 +74,9 @@ class TocMachine(GraphMachine):
                 ]
             ),
             CarouselColumn(
-                thumbnail_image_url='顯示在開頭的大圖片網址',
-                title='this is menu1',
-                text='description1',
+                thumbnail_image_url=url,
+                title=title,
+                text=text,
                 actions=[
                     MessageTemplateAction(
                         label = '新竹市',
@@ -182,7 +183,7 @@ class TocMachine(GraphMachine):
                 text ='金門縣'
             )
         ]
-        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
+        
         send_carousel_button_message(event.reply_token, title, text, url,columns)    
 
     def is_going_to_choose_restaurant(self,event):
