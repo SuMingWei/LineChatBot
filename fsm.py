@@ -46,6 +46,7 @@ class TocMachine(GraphMachine):
         return False
 
     def on_enter_choose_region(self,event):
+        send_text_message(event.reply_token,"請選擇一個地區")
         title = '請先選擇一個地區'
         text = '我們有在您的城市提供送餐服務！'
         btn = [
@@ -126,7 +127,6 @@ class TocMachine(GraphMachine):
                 text ='金門縣'
             )
         ]
-        btn =[{MessageTemplateAction(label='a',text='a'),MessageTemplateAction(label='b',text='b')}]
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg#'
         send_button_message(event.reply_token, title, text, btn, url)    
 '''
