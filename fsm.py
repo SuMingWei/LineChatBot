@@ -297,7 +297,7 @@ class TocMachine(GraphMachine):
     def is_going_to_recommand_restaurant(self,event):
         text = event.message.text
 
-        if text == '推薦餐廳' or ((self.state == 'web_url' or self.state == 'recommand_menu') and text == "其他推薦餐廳"):
+        if text == '推薦餐廳' or (self.state == 'recommand_menu' and text == "其他推薦餐廳"):
             return True
         
         return False
@@ -314,36 +314,26 @@ class TocMachine(GraphMachine):
         text = '評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
         btn = [
             URITemplateAction(
-                label = '餐廳網址',
+                label = '前往訂餐',
                 uri = restaurant_url
             ),
             MessageTemplateAction(
-                label = '推薦菜單',
-                text ='推薦菜單'
+                label = '快速瀏覽菜單',
+                text ='快速瀏覽菜單'
+            ),
+            MessageTemplateAction(
+                label = '其他推薦餐廳',
+                text ='其他推薦餐廳'
             ),
         ]
         url = restaurant_info['pic_url'].values[0]
 
         send_button_message(event.reply_token, title, text, btn, url)  
-        #send_text_message(event.reply_token,url)
-
-    def is_going_to_web_url(self,event):
-        text = event.message.text
-
-        if text == '餐廳網址':
-            return True
-        
-        return False
-
-    def on_enter_web_url(self,event):
-        url = restaurant_url
-
-        send_text_message(event.reply_token, url)
 
     def is_going_to_recommand_menu(self,event):
         text = event.message.text
 
-        if text == '推薦菜單':
+        if text == '快速瀏覽菜單':
             return True
         
         return False

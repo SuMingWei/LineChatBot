@@ -19,7 +19,6 @@ machine = TocMachine(
         "choose_region", 
         "choose_restaurant",
         "recommand_restaurant",
-        "web_url",
         "recommand_menu"
     ],
     transitions=[
@@ -29,9 +28,7 @@ machine = TocMachine(
         {"trigger": "advance","source": "choose_region","dest": "choose_area","conditions": "is_going_to_choose_area"},
         {"trigger": "advance","source": "choose_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {"trigger": "advance","source": "choose_restaurant","dest": "choose_region","conditions": "is_going_to_choose_region"},
-        {"trigger": "advance","source": "recommand_restaurant","dest": "web_url","conditions": "is_going_to_web_url"},
         {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_menu","conditions": "is_going_to_recommand_menu"},
-        {"trigger": "advance","source": "web_url","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {"trigger": "advance","source": "recommand_menu","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {
             "trigger": "go_back",
@@ -40,7 +37,6 @@ machine = TocMachine(
                 "choose_region", 
                 "choose_restaurant",
                 "recommand_restaurant",
-                "web_url",
                 "recommand_menu"
             ], 
             "dest": "user"
@@ -135,13 +131,11 @@ def webhook_handler():
                 text += '若是宜蘭、花蓮、台東地區請輸入『東部』。\n'        
                 send_text_message(event.reply_token, text)
             elif machine.state == "choose_region":
-                send_text_message(event.reply_token, "in choose_region")
+                send_text_message(event.reply_token, '選擇一個城市，或輸入『重新選擇地區』')
             elif machine.state == "choose_restaurant":
-                send_text_message(event.reply_token, "in choose_restaurant")
+                send_text_message(event.reply_token, '選擇『推薦餐廳』或是『重新選擇城市』！')
             elif machine.state == "recommand_restaurant":
-                send_text_message(event.reply_token, '請選擇『餐廳網址』或是『推薦菜單』')
-            elif machine.state == "web_url":
-                send_text_message(event.reply_token, "in web_url")
+                send_text_message(event.reply_token, '請選擇『推薦菜單』或是『其他推薦餐廳』')
             elif machine.state == "recommand_menu":
                 send_text_message(event.reply_token, "in recommand_menu")
             
