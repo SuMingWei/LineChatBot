@@ -139,7 +139,7 @@ def webhook_handler():
             elif machine.state == "choose_restaurant":
                 send_text_message(event.reply_token, "in choose_restaurant")
             elif machine.state == "recommand_restaurant":
-                send_text_message(event.reply_token, "in recommand_restaurant")
+                send_text_message(event.reply_token, '請選擇『餐廳網址』或是『推薦菜單』')
             elif machine.state == "web_url":
                 send_text_message(event.reply_token, "in web_url")
             elif machine.state == "recommand_menu":

@@ -310,8 +310,8 @@ class TocMachine(GraphMachine):
         restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
         restaurant_url = restaurant_info['link'].values[0]
 
-        title = restaurant_info['name'].values[0] + '\n評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
-        text = '選擇『餐廳網址』或是『推薦菜單』'
+        title = restaurant_info['name'].values[0]
+        text = '評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
         btn = [
             MessageTemplateAction(
                 label = '餐廳網址',
@@ -355,10 +355,10 @@ class TocMachine(GraphMachine):
         category = ''
         text = '以下為餐廳菜單：\n\n'
         for index,row in menu.iterrows():
-            if row['category'].values[0] != category:
-                category = row['category'].values[0]
-                text += row['category'].values[0] + '：\n'
-            text += row['name'].values[0] + '\n\tNT$' + str(row['price'].values[0]) + '\n'
+            if row['category'] != category:
+                category = row['category']
+                text += row['category'] + '：\n'
+            text += row['name'] + '\n\tNT$' + str(row['price']) + '\n'
 
         send_text_message(event.reply_token, text)
 
