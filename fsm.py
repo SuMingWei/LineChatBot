@@ -287,9 +287,9 @@ class TocMachine(GraphMachine):
 
         restaurant_id = random.randint(1,len(restaurant_list['id']))
         restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
-        restaurant_url = restaurant_info['id']
+        restaurant_url = restaurant_info['link']
 
-        title = restaurant_info['name'] + '\n'+ '評價： ' + restaurant_info['rating'] + '/5 (' + restaurant_info['count'] + ')\n' + '地址：' + restaurant_info['location']
+        title = restaurant_info['name'] + '\n'+ '評價： ' + str(restaurant_info['rating']) + '/5 (' + str(restaurant_info['count']) + ')\n' + '地址：' + restaurant_info['location']
         text = '選擇『餐廳網址』或是『推薦菜單』'
         btn = [
             MessageTemplateAction(
