@@ -284,11 +284,12 @@ class TocMachine(GraphMachine):
     def on_enter_recommand_restaurant(self,event):
         restaurant_list = pd.read_csv('./restaurant/' + region + '_info.csv')
         
-        restaurant_id = random.randint(1,len(restaurant_list['id']))
-        restaurant_info = restaurant_list[['name','link','pic_url','location','rating','count']][restaurant_id-1]
-        restaurant_url = restaurant_info[1]
 
-        title = restaurant_info[1] + '\n'+ '評價： ' + restaurant_info[4] + '/5 (' + restaurant_info[5] + ')\n' + '地址：' + restaurant_info[3]
+        restaurant_id = random.randint(1,len(restaurant_list['id']))
+        restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
+        restaurant_url = restaurant_info['id']
+
+        title = restaurant_info['name'] + '\n'+ '評價： ' + restaurant_info['rating'] + '/5 (' + restaurant_info['count'] + ')\n' + '地址：' + restaurant_info['location']
         text = '選擇『餐廳網址』或是『推薦菜單』'
         btn = [
             MessageTemplateAction(
@@ -300,7 +301,7 @@ class TocMachine(GraphMachine):
                 text ='推薦菜單'
             ),
         ]
-        url = restaurant_info[2]
+        url = restaurant_info['pic_url']
 
         send_button_message(event.reply_token, title, text, btn, url)  
     
@@ -327,7 +328,7 @@ class TocMachine(GraphMachine):
 
     def on_enter_recommand_menu(self,event):
         menu_list = pd.read_csv('./restaurant/' + region + '_menu.csv')
-        menu = menu_list[menu_list['id'].str.contains(restaurant_id)]
+        menu = menu_list[menu_list['id'].isin(restaurant_id)]
 
         category = ''
         text = '以下為餐廳菜單：\n\n'
@@ -335,7 +336,7 @@ class TocMachine(GraphMachine):
             if row['category'] != category:
                 category = row['category']
                 text += row['category'] + '：\n'
-            text += row['name'] + '\n\tNT$' + row['price'] + '\n'
+            text += row['name'] + '\n\tNT$' + str(row['price']) + '\n'
 
         send_text_message(event.reply_token, text)
 

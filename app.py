@@ -12,22 +12,6 @@ from utils import send_text_message,send_image_message
 
 load_dotenv()
 
-# machine = TocMachine(
-#     states=[
-#         "user", 
-#         "state1", 
-#         "state2"
-#     ],
-#     transitions=[
-#         {"trigger": "advance","source": "user","dest": "state1","conditions": "is_going_to_state1"},
-#         {"trigger": "advance","source": "user","dest": "state2","conditions": "is_going_to_state2"},
-#         {"trigger": "go_back", "source": ["state1", "state2"], "dest": "user"},
-#     ],
-#     initial="user",
-#     auto_transitions=False,
-#     show_conditions=True,
-# )
-
 machine = TocMachine(
     states=[
         "user", 
@@ -137,7 +121,7 @@ def webhook_handler():
         response = machine.advance(event)
         if response == False:
             if event.message.text.lower() == 'fsm':
-                send_image_message(event.reply_token, 'https://i.imgur.com/4DZEBZE.png?')
+                send_image_message(event.reply_token, 'https://i.ibb.co/K0VQ0Q8/fsm.png?')
             elif machine.state != 'user' and event.message.text.lower() == 'restart':
                 send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
                 machine.go_back()
@@ -149,9 +133,13 @@ def webhook_handler():
                 send_text_message(event.reply_token, "in choose_region")
             elif machine.state == "choose_restaurant":
                 send_text_message(event.reply_token, "in choose_restaurant")
+            elif machine.state == "recommand_restaurant":
+                send_text_message(event.reply_token, "in recommand_restaurant")
+            elif machine.state == "web_url":
+                send_text_message(event.reply_token, "in web_url")
+            elif machine.state == "recommand_menu":
+                send_text_message(event.reply_token, "in recommand_menu")
             
-            else:
-                send_text_message(event.reply_token, "fuck")
 
     return "OK"
 
