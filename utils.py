@@ -1,7 +1,7 @@
 import os
 
 from linebot import LineBotApi, WebhookParser
-from linebot.models import MessageEvent, TextMessage, TextSendMessage,TemplateSendMessage,ButtonsTemplate,ImageSendMessage,CarouselTemplate,CarouselColumn,URITemplateAction
+from linebot.models import MessageEvent, TextMessage, TextSendMessage,TemplateSendMessage,ButtonsTemplate,ImageSendMessage,CarouselTemplate,CarouselColumn,URITemplateAction,MessageTemplateAction
 
 
 channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN", None)
@@ -29,12 +29,35 @@ def send_button_message(reply_token, title, text, btn, url):
 
     return "OK"
 
-def send_carousel_button_message(reply_token,title,text,url,column):
+def send_carousel_button_message(reply_token,url):
     line_bot_api = LineBotApi(channel_access_token)
     message = TemplateSendMessage(
         alt_text='Carousel template',
         template=CarouselTemplate(
-            columns=column   
+            columns=[
+            CarouselColumn(
+                thumbnail_image_url=url,
+                title='this is menu1',
+                text='description1',
+                actions=[
+                    MessageTemplateAction(
+                        label='message1',
+                        text='message text1'
+                    )
+                ]
+            ),
+            CarouselColumn(
+                thumbnail_image_url=url,
+                title='this is menu2',
+                text='description2',
+                actions=[
+                    MessageTemplateAction(
+                        label='message2',
+                        text='message text2'
+                    )
+                ]
+            )
+        ]  
         )
     )
     line_bot_api.reply_message(reply_token, message)

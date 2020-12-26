@@ -25,13 +25,15 @@ class TocMachine(GraphMachine):
         return False
 
     def on_enter_choose_area(self,event):
-        text = '請選擇一個區域：\n\n若是台北、新北、桃園、基隆地區請輸入『北部』。\n'
-        text += '若是新竹、苗栗、台中、南投地區請輸入『北中部』。\n'
-        text += '若是彰化、雲林、嘉義、台南地區請輸入『中南部』。\n'
-        text += '若是高雄、屏東、金門、澎湖地區請輸入『南部及外島』。\n'
-        text += '若是宜蘭、花蓮、台東地區請輸入『東部』。\n'
+        # text = '請選擇一個區域：\n\n若是台北、新北、桃園、基隆地區請輸入『北部』。\n'
+        # text += '若是新竹、苗栗、台中、南投地區請輸入『北中部』。\n'
+        # text += '若是彰化、雲林、嘉義、台南地區請輸入『中南部』。\n'
+        # text += '若是高雄、屏東、金門、澎湖地區請輸入『南部及外島』。\n'
+        # text += '若是宜蘭、花蓮、台東地區請輸入『東部』。\n'
         
-        send_text_message(event.reply_token, text)
+        # send_text_message(event.reply_token, text)
+        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
+        send_carousel_button_message(event.reply_token,url)
 
     def is_going_to_choose_region(self,event):
         global area
