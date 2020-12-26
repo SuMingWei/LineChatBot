@@ -2,7 +2,7 @@ from transitions.extensions import GraphMachine
 
 from utils import send_text_message,send_button_message,send_carousel_button_message
 
-from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction
+from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction,CarouselColumn
 import pandas as pd
 import random
 # global variable
@@ -48,6 +48,31 @@ class TocMachine(GraphMachine):
     def on_enter_choose_region(self,event):
         title = '請先選擇一個地區'
         text = '我們有在您的城市提供送餐服務！'
+        columns=[
+            CarouselColumn(
+                thumbnail_image_url='顯示在開頭的大圖片網址',
+                title='this is menu1',
+                text='description1',
+                actions=[
+                    MessageTemplateAction(
+                        label = '台北市',
+                        text ='台北市'
+                    ),
+                    MessageTemplateAction(
+                        label = '新北市',
+                        text = '新北市'
+                    ),
+                    MessageTemplateAction(
+                        label = '台中市',
+                        text ='台中市'
+                    ),
+                    MessageTemplateAction(
+                        label = '高雄市',
+                        text ='高雄市'
+                    )
+                ]
+            )
+        ]
         btn1 = [
             MessageTemplateAction(
                 label = '台北市',
@@ -135,7 +160,7 @@ class TocMachine(GraphMachine):
             )
         ]
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
-        send_carousel_button_message(event.reply_token, title, text, url,btn1,btn2,btn3,btn4,btn5)    
+        send_carousel_button_message(event.reply_token, title, text, url,columns)    
 
     def is_going_to_choose_restaurant(self,event):
         global region

@@ -29,43 +29,12 @@ def send_button_message(reply_token, title, text, btn, url):
 
     return "OK"
 
-def send_carousel_button_message(reply_token,title,text,url,btn1,btn2,btn3,btn4,btn5):
+def send_carousel_button_message(reply_token,title,text,url,column):
     line_bot_api = LineBotApi(channel_access_token)
     message = TemplateSendMessage(
         alt_text='Carousel template',
         template=CarouselTemplate(
-            columns=[
-                CarouselColumn(
-                    thumbnail_image_url=url,
-                    title=title,
-                    text=text,
-                    actions=btn1
-                ),
-                CarouselColumn(
-                    thumbnail_image_url=url,
-                    title=title,
-                    text=text,
-                    actions=btn2
-                ),
-                # CarouselColumn(
-                #     thumbnail_image_url=url,
-                #     title=title,
-                #     text=text,
-                #     actions=btn3
-                # ),
-                # CarouselColumn(
-                #     thumbnail_image_url=url,
-                #     title=title,
-                #     text=text,
-                #     actions=btn4
-                # ),
-                # CarouselColumn(
-                #     thumbnail_image_url=url,
-                #     title=title,
-                #     text=text,
-                #     actions=btn5
-                # )
-            ]
+            columns=column   
         )
     )
     line_bot_api.reply_message(reply_token, message)
