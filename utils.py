@@ -36,7 +36,7 @@ def send_carousel_button_message(reply_token,url):
         template=CarouselTemplate(
             columns=[
                 CarouselColumn(
-                    thumbnail_image_url='',
+                    thumbnail_image_url=url,
                     title='請選擇一個區域',
                     text='包含台北、新北、桃園、基隆地區',
                     actions=[
