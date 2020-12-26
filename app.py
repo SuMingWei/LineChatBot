@@ -138,7 +138,7 @@ def webhook_handler():
                 send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
                 machine.go_back()
             elif machine.state == "user":
-                send_text_message(event.reply_token, "in user")
+                send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
             elif machine.state == "choose_region":
                 send_text_message(event.reply_token, "in choose_region")
             
