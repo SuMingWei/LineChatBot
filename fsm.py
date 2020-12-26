@@ -32,8 +32,8 @@ class TocMachine(GraphMachine):
         # text += '若是宜蘭、花蓮、台東地區請輸入『東部』。\n'
         
         # send_text_message(event.reply_token, text)
-        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
-        send_carousel_button_message(event.reply_token,url)
+
+        send_carousel_button_message(event.reply_token)
 
     def is_going_to_choose_region(self,event):
         global area
