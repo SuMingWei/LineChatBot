@@ -126,7 +126,7 @@ class TocMachine(GraphMachine):
                 text ='金門縣'
             )
         ]
-        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
+        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg?'
         send_button_message(event.reply_token, title, text, btn, url)    
 
     def is_going_to_choose_restaurant(self,event):
