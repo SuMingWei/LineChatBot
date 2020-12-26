@@ -325,7 +325,7 @@ class TocMachine(GraphMachine):
         url = restaurant_info['pic_url']
 
         #send_button_message(event.reply_token, title, text, btn, url)  
-        send_text_message(event.reply_token,)
+        send_text_message(event.reply_token,title)
     
     def is_going_to_web_url(self,event):
         text = event.message.text
