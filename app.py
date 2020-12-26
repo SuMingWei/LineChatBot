@@ -128,7 +128,12 @@ def webhook_handler():
             elif machine.state == "user":
                 send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
             elif machine.state == "choose_area":
-                send_text_message(event.reply_token, "in choose_area")
+                text = '請選擇一個區域：\n\n若是台北、新北、桃園、基隆地區請輸入『北部』。\n'
+                text += '若是新竹、苗栗、台中、南投地區請輸入『北中部』。\n'
+                text += '若是彰化、雲林、嘉義、台南地區請輸入『中南部』。\n'
+                text += '若是高雄、屏東、金門、澎湖地區請輸入『南部及外島』。\n'
+                text += '若是宜蘭、花蓮、台東地區請輸入『東部』。\n'        
+                send_text_message(event.reply_token, text)
             elif machine.state == "choose_region":
                 send_text_message(event.reply_token, "in choose_region")
             elif machine.state == "choose_restaurant":
