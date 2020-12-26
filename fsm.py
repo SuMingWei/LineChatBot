@@ -306,11 +306,10 @@ class TocMachine(GraphMachine):
         restaurant_list = pd.read_csv('./restaurant/' + region + '_info.csv')
         
         restaurant_id = random.randint(1,len(restaurant_list['id']))
-        #restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
-        restaurant_info = restaurant_list[restaurant_list['id'].isin(restaurant_id)]
-        restaurant_url = restaurant_info['link']
+        restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
+        restaurant_url = restaurant_info['link'].values[0]
 
-        title = restaurant_info['name']
+        title = restaurant_info['name'].values[0] + '\n'+ '評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
         text = '選擇『餐廳網址』或是『推薦菜單』'
         btn = [
             MessageTemplateAction(
@@ -322,7 +321,7 @@ class TocMachine(GraphMachine):
                 text ='推薦菜單'
             ),
         ]
-        url = restaurant_info['pic_url']
+        url = restaurant_info['pic_url'].values[0]
 
         #send_button_message(event.reply_token, title, text, btn, url)  
         send_text_message(event.reply_token,title)
@@ -350,15 +349,15 @@ class TocMachine(GraphMachine):
 
     def on_enter_recommand_menu(self,event):
         menu_list = pd.read_csv('./restaurant/' + region + '_menu.csv')
-        menu = menu_list[menu_list['id'].isin(restaurant_id)]
+        menu = menu_list[menu_list['id'].isin([restaurant_id])]
 
         category = ''
         text = '以下為餐廳菜單：\n\n'
         for index,row in menu.iterrows():
-            if row['category'] != category:
-                category = row['category']
-                text += row['category'] + '：\n'
-            text += row['name'] + '\n\tNT$' + str(row['price']) + '\n'
+            if row['category'].values[0] != category:
+                category = row['category'].values[0]
+                text += row['category'].values[0] + '：\n'
+            text += row['name'].values[0] + '\n\tNT$' + str(row['price'].values[0]) + '\n'
 
         send_text_message(event.reply_token, text)
 
