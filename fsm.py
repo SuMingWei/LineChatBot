@@ -4,6 +4,7 @@ from utils import send_text_message,send_button_message,send_carousel_button_mes
 
 from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction,CarouselColumn
 import pandas as pd
+import numpy 
 import random
 # global variable
 area = ''
@@ -304,7 +305,6 @@ class TocMachine(GraphMachine):
     def on_enter_recommand_restaurant(self,event):
         restaurant_list = pd.read_csv('./restaurant/' + region + '_info.csv')
         
-
         restaurant_id = random.randint(1,len(restaurant_list['id']))
         restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
         restaurant_url = restaurant_info['link']
@@ -323,7 +323,8 @@ class TocMachine(GraphMachine):
         ]
         url = restaurant_info['pic_url']
 
-        send_button_message(event.reply_token, title, text, btn, url)  
+        #send_button_message(event.reply_token, title, text, btn, url)  
+        send_text_message(event.reply_token,title)
     
     def is_going_to_web_url(self,event):
         text = event.message.text
