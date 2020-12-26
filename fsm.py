@@ -6,6 +6,7 @@ from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTempla
 import pandas as pd
 import random
 # global variable
+area = ''
 region = ''
 restaurant_id = -1
 restaurant_url = ''
@@ -14,177 +15,145 @@ class TocMachine(GraphMachine):
     def __init__(self, **machine_configs):
         self.machine = GraphMachine(model=self, **machine_configs)
 
-    def is_going_to_state1(self, event):
-        text = event.message.text
-        return text.lower() == "go to state1"
-
-    def is_going_to_state2(self, event):
-        text = event.message.text
-        return text.lower() == "go to state2"
-
-    def on_enter_state1(self, event):
-        print("I'm entering state1")
-
-        reply_token = event.reply_token
-        send_text_message(reply_token, "Trigger state1")
-        self.go_back()
-
-    def on_enter_state2(self, event):
-        print("I'm entering state2")
-
-        reply_token = event.reply_token
-        send_text_message(reply_token, "Trigger state2")
-        self.go_back()
-
-
     # start on user
-    def is_going_to_choose_region(self,event):
+    def is_going_to_choose_area(self,event):
         text = event.message.text
-        if(text.lower() == 'aneater') or (self.state == 'choose_restaurant' and text == '重新選擇地區'):
+        if(text.lower() == 'aneater') or (self.state == 'choose_region' and text == '重新選擇地區'):
+            return True
+
+        return False
+
+    def on_enter_choose_area(self,event):
+        text = '請選擇一個區域：\n\n若是想選擇台北、新北、桃園、基隆地區請輸入『北部』。\n'
+        text += '若是想選擇新竹、苗栗、台中、南投地區請輸入『北中部』。\n'
+        text += '若是想選擇彰化、雲林、嘉義、台南地區請輸入『中南部』。\n'
+        text += '若是想選擇高雄、屏東、金門、澎湖地區請輸入『南部及外島』。\n'
+        text += '若是想選擇宜蘭、花蓮、台東地區請輸入『東部』。\n'
+        
+        send_text_message(event.reply_token, text)
+
+    def is_going_to_choose_region(self,event):
+        global area
+        text = event.message.text
+
+        if text == '北部':
+            area = '北部'
+            return True
+        elif text == '北中部':
+            area = '北中部'
+            return True
+        elif text == '中南部':
+            area = '中南部'
+            return True
+        elif text == '南部及外島':
+            area = '南部及外島'
+            return True
+        elif text == '東部':
+            area = '東部'
+            return True
+        elif (self.state == 'choose_restaurant' and text == '重新選擇城市'):
             return True
 
         return False
 
     def on_enter_choose_region(self,event):
-        title = '請先選擇一個地區'
+        title = '請先選擇一個城市'
         text = '我們有在您的城市提供送餐服務！'
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
-        columns=[
-            CarouselColumn(
-                thumbnail_image_url=url,
-                title=title,
-                text=text,
-                actions=[
-                    MessageTemplateAction(
-                        label = '台北市',
-                        text ='台北市'
-                    ),
-                    MessageTemplateAction(
-                        label = '新北市',
-                        text = '新北市'
-                    ),
-                    MessageTemplateAction(
-                        label = '台中市',
-                        text ='台中市'
-                    ),
-                    MessageTemplateAction(
-                        label = '高雄市',
-                        text ='高雄市'
-                    )
-                ]
-            ),
-            CarouselColumn(
-                thumbnail_image_url=url,
-                title=title,
-                text=text,
-                actions=[
-                    MessageTemplateAction(
-                        label = '新竹市',
-                        text ='新竹市'
-                    ),
-                    MessageTemplateAction(
-                        label = '桃園市',
-                        text ='桃園市'
-                    ),
-                    MessageTemplateAction(
-                        label = '基隆市',
-                        text ='基隆市'
-                    ),
-                    MessageTemplateAction(
-                        label = '台南市',
-                        text ='台南市'
-                    )
-                ]
-            )
-        ]
-        btn1 = [
-            MessageTemplateAction(
-                label = '台北市',
-                text ='台北市'
-            ),
-            MessageTemplateAction(
-                label = '新北市',
-                text = '新北市'
-            ),
-            MessageTemplateAction(
-                label = '台中市',
-                text ='台中市'
-            ),
-            MessageTemplateAction(
-                label = '高雄市',
-                text ='高雄市'
-            )
-        ]
-        btn2 = [
-            MessageTemplateAction(
-                label = '新竹市',
-                text ='新竹市'
-            ),
-            MessageTemplateAction(
-                label = '桃園市',
-                text ='桃園市'
-            ),
-            MessageTemplateAction(
-                label = '基隆市',
-                text ='基隆市'
-            ),
-            MessageTemplateAction(
-                label = '台南市',
-                text ='台南市'
-            )
-        ]
-        btn3 = [
-            MessageTemplateAction(
-                label = '苗栗市',
-                text ='苗栗市'
-            ),
-            MessageTemplateAction(
-                label = '嘉義市',
-                text ='嘉義市'
-            ),
-            MessageTemplateAction(
-                label = '彰化市',
-                text ='彰化市'
-            ),
-            MessageTemplateAction(
-                label = '宜蘭縣',
-                text ='宜蘭縣'
-            )
-        ]
-        btn4 = [
-            MessageTemplateAction(
-                label = '屏東縣',
-                text ='屏東縣'
-            ),
-            MessageTemplateAction(
-                label = '雲林縣',
-                text ='雲林縣'
-            ),
-            MessageTemplateAction(
-                label = '花蓮市',
-                text ='花蓮市'
-            ),
-            MessageTemplateAction(
-                label = '南投市',
-                text ='南投市'
-            )
-        ]  
-        btn5 = [
-            MessageTemplateAction(
-                label = '台東市',
-                text ='台東市'
-            ),
-            MessageTemplateAction(
-                label = '澎湖縣',
-                text ='彭湖縣'
-            ),
-            MessageTemplateAction(
-                label = '金門縣',
-                text ='金門縣'
-            )
-        ]
+        btn = []
+        if area == '北部':
+            btn = [
+                MessageTemplateAction(
+                    label = '台北市',
+                    text ='台北市'
+                ),
+                MessageTemplateAction(
+                    label = '新北市',
+                    text = '新北市'
+                ),
+                MessageTemplateAction(
+                    label = '桃園市',
+                    text ='桃園市'
+                ),
+                MessageTemplateAction(
+                    label = '基隆市',
+                    text ='基隆市'
+                )
+            ]
+        elif area == '北中部':
+            btn = [
+                MessageTemplateAction(
+                    label = '新竹市',
+                    text ='新竹市'
+                ),
+                MessageTemplateAction(
+                    label = '苗栗市',
+                    text ='苗栗市'
+                ),
+                MessageTemplateAction(
+                    label = '台中市',
+                    text ='台中市'
+                ),
+                MessageTemplateAction(
+                    label = '南投市',
+                    text ='南投市'
+                )
+            ]
+        elif area == '中南部':
+            btn = [
+                MessageTemplateAction(
+                    label = '彰化市',
+                    text ='彰化市'
+                ),
+                MessageTemplateAction(
+                    label = '雲林縣',
+                    text ='雲林縣'
+                ),
+                MessageTemplateAction(
+                    label = '嘉義市',
+                    text ='嘉義市'
+                ),
+                MessageTemplateAction(
+                    label = '台南市',
+                    text ='台南市'
+                )
+            ]
+        elif area == '南部及外島':
+            btn = [
+                MessageTemplateAction(
+                    label = '高雄市',
+                    text ='高雄市'
+                ),
+                MessageTemplateAction(
+                    label = '屏東縣',
+                    text ='屏東縣'
+                ),
+                MessageTemplateAction(
+                    label = '金門縣',
+                    text ='金門縣'
+                ),
+                MessageTemplateAction(
+                    label = '澎湖縣',
+                    text ='彭湖縣'
+                )
+            ]  
+        elif area == '東部':
+            btn = [
+                MessageTemplateAction(
+                    label = '花蓮市',
+                    text ='花蓮市'
+                ),
+                MessageTemplateAction(
+                    label = '宜蘭縣',
+                    text ='宜蘭縣'
+                ),
+                MessageTemplateAction(
+                    label = '台東市',
+                    text ='台東市'
+                )
+            ]
         
-        send_carousel_button_message(event.reply_token, title, text, url,columns)    
+        send_button_message(event.reply_token, title, text, btn, url)  
 
     def is_going_to_choose_restaurant(self,event):
         global region
@@ -252,15 +221,15 @@ class TocMachine(GraphMachine):
 
     def on_enter_choose_restaurant(self,event):
         title = '查看推薦的熱門餐廳'
-        text = '選擇『推薦餐廳』或是『重新選擇地區』！'
+        text = '選擇『推薦餐廳』或是『重新選擇城市』！'
         btn = [
             MessageTemplateAction(
                 label = '推薦餐廳',
                 text ='推薦餐廳'
             ),
             MessageTemplateAction(
-                label = '重新選擇地區',
-                text ='重新選擇地區'
+                label = '重新選擇城市',
+                text ='重新選擇城市'
             ),
         ]
         if(region == '台北市'):

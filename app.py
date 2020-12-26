@@ -31,6 +31,7 @@ load_dotenv()
 machine = TocMachine(
     states=[
         "user", 
+        "choose_area",
         "choose_region", 
         "choose_restaurant",
         "recommand_restaurant",
@@ -38,8 +39,10 @@ machine = TocMachine(
         "recommand_menu"
     ],
     transitions=[
-        {"trigger": "advance","source": "user","dest": "choose_region","conditions": "is_going_to_choose_region"},
+        {"trigger": "advance","source": "user","dest": "choose_area","conditions": "is_going_to_choose_area"},
+        {"trigger": "advance","source": "choose_area","dest": "choose_region","conditions": "is_going_to_choose_region"},
         {"trigger": "advance","source": "choose_region","dest": "choose_restaurant","conditions": "is_going_to_choose_restaurant"},
+        {"trigger": "advance","source": "choose_region","dest": "choose_area","conditions": "is_going_to_choose_area"},
         {"trigger": "advance","source": "choose_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {"trigger": "advance","source": "choose_restaurant","dest": "choose_region","conditions": "is_going_to_choose_region"},
         {"trigger": "advance","source": "recommand_restaurant","dest": "web_url","conditions": "is_going_to_web_url"},
@@ -49,6 +52,7 @@ machine = TocMachine(
         {
             "trigger": "go_back",
             "source": [
+                "choose_area"
                 "choose_region", 
                 "choose_restaurant",
                 "recommand_restaurant",
@@ -139,6 +143,8 @@ def webhook_handler():
                 machine.go_back()
             elif machine.state == "user":
                 send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
+            elif machine.state == "choose_area":
+                send_text_message(event.reply_token, "in choose_area")
             elif machine.state == "choose_region":
                 send_text_message(event.reply_token, "in choose_region")
             
