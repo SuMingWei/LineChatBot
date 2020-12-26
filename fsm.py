@@ -303,13 +303,14 @@ class TocMachine(GraphMachine):
         return False
 
     def on_enter_recommand_restaurant(self,event):
+        global restaurant_id,restaurant_url
         restaurant_list = pd.read_csv('./restaurant/' + region + '_info.csv')
         
         restaurant_id = random.randint(1,len(restaurant_list['id']))
         restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
         restaurant_url = restaurant_info['link'].values[0]
 
-        title = restaurant_info['name'].values[0] + '\n'+ '評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
+        title = restaurant_info['name'].values[0] + '\n評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
         text = '選擇『餐廳網址』或是『推薦菜單』'
         btn = [
             MessageTemplateAction(
@@ -323,8 +324,8 @@ class TocMachine(GraphMachine):
         ]
         url = restaurant_info['pic_url'].values[0]
 
-        #send_button_message(event.reply_token, title, text, btn, url)  
-        send_text_message(event.reply_token,url)
+        send_button_message(event.reply_token, title, text, btn, url)  
+        #send_text_message(event.reply_token,url)
 
     def is_going_to_web_url(self,event):
         text = event.message.text
