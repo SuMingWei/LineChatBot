@@ -306,7 +306,8 @@ class TocMachine(GraphMachine):
         restaurant_list = pd.read_csv('./restaurant/' + region + '_info.csv')
         
         restaurant_id = random.randint(1,len(restaurant_list['id']))
-        restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
+        #restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
+        restaurant_info = restaurant_list[restaurant_list['id'].isin(restaurant_id)]
         restaurant_url = restaurant_info['link']
 
         title = restaurant_info['name']
@@ -324,7 +325,7 @@ class TocMachine(GraphMachine):
         url = restaurant_info['pic_url']
 
         #send_button_message(event.reply_token, title, text, btn, url)  
-        send_text_message(event.reply_token,restaurant_id)
+        send_text_message(event.reply_token,)
     
     def is_going_to_web_url(self,event):
         text = event.message.text
