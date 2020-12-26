@@ -35,29 +35,62 @@ def send_carousel_button_message(reply_token,url):
         alt_text='Carousel template',
         template=CarouselTemplate(
             columns=[
-            CarouselColumn(
-                thumbnail_image_url=url,
-                title='this is menu1',
-                text='description1',
-                actions=[
-                    MessageTemplateAction(
-                        label='message1',
-                        text='message text1'
-                    )
-                ]
-            ),
-            CarouselColumn(
-                thumbnail_image_url=url,
-                title='this is menu2',
-                text='description2',
-                actions=[
-                    MessageTemplateAction(
-                        label='message2',
-                        text='message text2'
-                    )
-                ]
-            )
-        ]  
+                CarouselColumn(
+                    thumbnail_image_url='',
+                    title='請選擇一個區域',
+                    text='包含台北、新北、桃園、基隆地區',
+                    actions=[
+                        MessageTemplateAction(
+                            label='北部',
+                            text='北部'
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title='請選擇一個區域',
+                    text='包含新竹、苗栗、台中、南投地區',
+                    actions=[
+                        MessageTemplateAction(
+                            label='北中部',
+                            text='北中部'
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title='請選擇一個區域',
+                    text='包含彰化、雲林、嘉義、台南地區',
+                    actions=[
+                        MessageTemplateAction(
+                            label='中南部',
+                            text='中南部'
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title='請選擇一個區域',
+                    text='包含高雄、屏東、金門、澎湖地區',
+                    actions=[
+                        MessageTemplateAction(
+                            label='南部及外島',
+                            text='南部及外島'
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title='請選擇一個區域',
+                    text='包含宜蘭、花蓮、台東地區',
+                    actions=[
+                        MessageTemplateAction(
+                            label='東部',
+                            text='東部'
+                        )
+                    ]
+                )
+            ]  
         )
     )
     line_bot_api.reply_message(reply_token, message)
