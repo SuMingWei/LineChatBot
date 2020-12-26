@@ -29,7 +29,7 @@ machine = TocMachine(
         {"trigger": "advance","source": "choose_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {"trigger": "advance","source": "choose_restaurant","dest": "choose_region","conditions": "is_going_to_choose_region"},
         {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_menu","conditions": "is_going_to_recommand_menu"},
-        {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_menu"},
+        {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {"trigger": "advance","source": "recommand_menu","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
         {
             "trigger": "go_back",
@@ -118,7 +118,7 @@ def webhook_handler():
         response = machine.advance(event)
         if response == False:
             if event.message.text.lower() == 'fsm':
-                send_image_message(event.reply_token, 'https://i.ibb.co/NZL6fdW/fsm.png?')
+                send_image_message(event.reply_token, 'https://i.ibb.co/YdjDk6w/fsm.png?')
             elif machine.state != 'user' and event.message.text.lower() == 'restart':
                 send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
                 machine.go_back()
