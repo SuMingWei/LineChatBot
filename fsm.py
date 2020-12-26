@@ -135,7 +135,7 @@ class TocMachine(GraphMachine):
             )
         ]
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
-        send_carousel_button_message(event.reply_token, title, text, url,btn1,btn2)    
+        send_carousel_button_message(event.reply_token, title, text, url,btn1,btn2,btn3,btn4,btn5)    
 
     def is_going_to_choose_restaurant(self,event):
         global region
