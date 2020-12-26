@@ -46,90 +46,89 @@ class TocMachine(GraphMachine):
         return False
 
     def on_enter_choose_region(self,event):
-        send_text_message(event.reply_token,"請選擇一個地區")
-        # title = '請先選擇一個地區'
-        # text = '我們有在您的城市提供送餐服務！'
-        # btn = [
-        #     MessageTemplateAction(
-        #         label = '台北市',
-        #         text ='台北市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '新北市',
-        #         text = '新北市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '台中市',
-        #         text ='台中市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '高雄市',
-        #         text ='高雄市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '新竹市',
-        #         text ='新竹市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '桃園市',
-        #         text ='桃園市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '基隆市',
-        #         text ='基隆市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '台南市',
-        #         text ='台南市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '苗栗市',
-        #         text ='苗栗市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '嘉義市',
-        #         text ='嘉義市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '彰化市',
-        #         text ='彰化市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '宜蘭縣',
-        #         text ='宜蘭縣'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '屏東縣',
-        #         text ='屏東縣'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '雲林縣',
-        #         text ='雲林縣'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '花蓮市',
-        #         text ='花蓮市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '南投市',
-        #         text ='南投市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '台東市',
-        #         text ='台東市'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '澎湖縣',
-        #         text ='彭湖縣'
-        #     ),
-        #     MessageTemplateAction(
-        #         label = '金門縣',
-        #         text ='金門縣'
-        #     )
-        # ]
-        # url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg#'
-        # send_button_message(event.reply_token, title, text, btn, url)    
-'''
+        title = '請先選擇一個地區'
+        text = '我們有在您的城市提供送餐服務！'
+        btn = [
+            MessageTemplateAction(
+                label = '台北市',
+                text ='台北市'
+            ),
+            MessageTemplateAction(
+                label = '新北市',
+                text = '新北市'
+            ),
+            MessageTemplateAction(
+                label = '台中市',
+                text ='台中市'
+            ),
+            MessageTemplateAction(
+                label = '高雄市',
+                text ='高雄市'
+            ),
+            # MessageTemplateAction(
+            #     label = '新竹市',
+            #     text ='新竹市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '桃園市',
+            #     text ='桃園市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '基隆市',
+            #     text ='基隆市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '台南市',
+            #     text ='台南市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '苗栗市',
+            #     text ='苗栗市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '嘉義市',
+            #     text ='嘉義市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '彰化市',
+            #     text ='彰化市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '宜蘭縣',
+            #     text ='宜蘭縣'
+            # ),
+            # MessageTemplateAction(
+            #     label = '屏東縣',
+            #     text ='屏東縣'
+            # ),
+            # MessageTemplateAction(
+            #     label = '雲林縣',
+            #     text ='雲林縣'
+            # ),
+            # MessageTemplateAction(
+            #     label = '花蓮市',
+            #     text ='花蓮市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '南投市',
+            #     text ='南投市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '台東市',
+            #     text ='台東市'
+            # ),
+            # MessageTemplateAction(
+            #     label = '澎湖縣',
+            #     text ='彭湖縣'
+            # ),
+            # MessageTemplateAction(
+            #     label = '金門縣',
+            #     text ='金門縣'
+            # )
+        ]
+        url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
+        send_button_message(event.reply_token, title, text, btn, url)    
+
     def is_going_to_choose_restaurant(self,event):
         global region
         text = event.message.text
@@ -317,7 +316,7 @@ class TocMachine(GraphMachine):
 
         
 
-'''
+
     
 
 
