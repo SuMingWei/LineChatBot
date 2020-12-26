@@ -1,6 +1,6 @@
 from transitions.extensions import GraphMachine
 
-from utils import send_text_message,send_button_message
+from utils import send_text_message,send_button_message,send_carousel_button_message
 
 from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction
 import pandas as pd
@@ -48,7 +48,7 @@ class TocMachine(GraphMachine):
     def on_enter_choose_region(self,event):
         title = '請先選擇一個地區'
         text = '我們有在您的城市提供送餐服務！'
-        btn = [
+        btn1 = [
             MessageTemplateAction(
                 label = '台北市',
                 text ='台北市'
@@ -64,70 +64,78 @@ class TocMachine(GraphMachine):
             MessageTemplateAction(
                 label = '高雄市',
                 text ='高雄市'
+            )
+        ]
+        btn2 = [
+            MessageTemplateAction(
+                label = '新竹市',
+                text ='新竹市'
             ),
-            # MessageTemplateAction(
-            #     label = '新竹市',
-            #     text ='新竹市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '桃園市',
-            #     text ='桃園市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '基隆市',
-            #     text ='基隆市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '台南市',
-            #     text ='台南市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '苗栗市',
-            #     text ='苗栗市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '嘉義市',
-            #     text ='嘉義市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '彰化市',
-            #     text ='彰化市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '宜蘭縣',
-            #     text ='宜蘭縣'
-            # ),
-            # MessageTemplateAction(
-            #     label = '屏東縣',
-            #     text ='屏東縣'
-            # ),
-            # MessageTemplateAction(
-            #     label = '雲林縣',
-            #     text ='雲林縣'
-            # ),
-            # MessageTemplateAction(
-            #     label = '花蓮市',
-            #     text ='花蓮市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '南投市',
-            #     text ='南投市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '台東市',
-            #     text ='台東市'
-            # ),
-            # MessageTemplateAction(
-            #     label = '澎湖縣',
-            #     text ='彭湖縣'
-            # ),
-            # MessageTemplateAction(
-            #     label = '金門縣',
-            #     text ='金門縣'
-            # )
+            MessageTemplateAction(
+                label = '桃園市',
+                text ='桃園市'
+            ),
+            MessageTemplateAction(
+                label = '基隆市',
+                text ='基隆市'
+            ),
+            MessageTemplateAction(
+                label = '台南市',
+                text ='台南市'
+            )
+        ]
+        btn3 = [
+            MessageTemplateAction(
+                label = '苗栗市',
+                text ='苗栗市'
+            ),
+            MessageTemplateAction(
+                label = '嘉義市',
+                text ='嘉義市'
+            ),
+            MessageTemplateAction(
+                label = '彰化市',
+                text ='彰化市'
+            ),
+            MessageTemplateAction(
+                label = '宜蘭縣',
+                text ='宜蘭縣'
+            )
+        ]
+        btn4 = [
+            MessageTemplateAction(
+                label = '屏東縣',
+                text ='屏東縣'
+            ),
+            MessageTemplateAction(
+                label = '雲林縣',
+                text ='雲林縣'
+            ),
+            MessageTemplateAction(
+                label = '花蓮市',
+                text ='花蓮市'
+            ),
+            MessageTemplateAction(
+                label = '南投市',
+                text ='南投市'
+            )
+        ]  
+        btn5 = [
+            MessageTemplateAction(
+                label = '台東市',
+                text ='台東市'
+            ),
+            MessageTemplateAction(
+                label = '澎湖縣',
+                text ='彭湖縣'
+            ),
+            MessageTemplateAction(
+                label = '金門縣',
+                text ='金門縣'
+            )
         ]
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg'
-        send_button_message(event.reply_token, title, text, btn, url)    
+        send_carousel_button_message(event.reply_token, title, text, url,btn1,btn2,btn3,btn4,btn5)    
 
     def is_going_to_choose_restaurant(self,event):
         global region

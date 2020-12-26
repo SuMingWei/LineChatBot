@@ -1,7 +1,7 @@
 import os
 
 from linebot import LineBotApi, WebhookParser
-from linebot.models import MessageEvent, TextMessage, TextSendMessage,TemplateSendMessage,ButtonsTemplate,ImageSendMessage
+from linebot.models import MessageEvent, TextMessage, TextSendMessage,TemplateSendMessage,ButtonsTemplate,ImageSendMessage,CarouselTemplate,CarouselColumn
 
 
 channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN", None)
@@ -23,6 +23,49 @@ def send_button_message(reply_token, title, text, btn, url):
             text = text,
             thumbnail_image_url = url,
             actions = btn
+        )
+    )
+    line_bot_api.reply_message(reply_token, message)
+
+    return "OK"
+
+def send_carousel_button_message(reply_token,title,text,url,btn1,btn2,btn3,btn4,btn5):
+    line_bot_api = LineBotApi(channel_access_token)
+    message = TemplateSendMessage(
+        alt_text='Carousel template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title=title,
+                    text=text,
+                    actions=btn1
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title=title,
+                    text=text,
+                    actions=btn2
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title=title,
+                    text=text,
+                    actions=btn3
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title=title,
+                    text=text,
+                    actions=btn4
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=url,
+                    title=title,
+                    text=text,
+                    actions=btn5
+                )
+            ]
         )
     )
     line_bot_api.reply_message(reply_token, message)
