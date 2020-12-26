@@ -297,7 +297,7 @@ class TocMachine(GraphMachine):
     def is_going_to_recommand_restaurant(self,event):
         text = event.message.text
 
-        if text == '推薦餐廳' or (self.state == 'recommand_menu' and text == "其他推薦餐廳"):
+        if text == '推薦餐廳' or ((self.state == 'recommand_menu' or self.state== 'recommand_restaurant') and text == "其他推薦餐廳"):
             return True
         
         return False
