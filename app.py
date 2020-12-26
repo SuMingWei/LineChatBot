@@ -147,6 +147,8 @@ def webhook_handler():
                 send_text_message(event.reply_token, "in choose_area")
             elif machine.state == "choose_region":
                 send_text_message(event.reply_token, "in choose_region")
+            elif machine.state == "choose_restaurant":
+                send_text_message(event.reply_token, "in choose_restaurant")
             
             else:
                 send_text_message(event.reply_token, "fuck")
