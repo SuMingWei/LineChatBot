@@ -126,8 +126,9 @@ class TocMachine(GraphMachine):
                 text ='金門縣'
             )
         ]
+        btn =[{MessageTemplateAction(label='a',text='a'),MessageTemplateAction(label='b',text='b')}]
         url = 'https://images.deliveryhero.io/image/foodpanda/hero-home-tw.jpg#'
-        send_button_message(event.reply_token, title, text, btn)    
+        send_button_message(event.reply_token, title, text, btn, url)    
 '''
     def is_going_to_choose_restaurant(self,event):
         global region
