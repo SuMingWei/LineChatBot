@@ -220,7 +220,7 @@ class TocMachine(GraphMachine):
         return False
 
     def on_enter_choose_restaurant(self,event):
-        title = '查看推薦的熱門餐廳'
+        title = '查看'
         text = '選擇『推薦餐廳』或是『重新選擇城市』！'
         btn = [
             MessageTemplateAction(
@@ -234,43 +234,63 @@ class TocMachine(GraphMachine):
         ]
         if(region == 'taipei'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Tapei.jpg'
+            title += '台北市'
         elif(region == 'new_taipei'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-New_Taipei.jpg'
+            title += '新北市'
         elif(region == 'taichung'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Taichung.jpg'
+            title += '台中市'
         elif(region == 'kaohsiung'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Kaohsiung.jpg'
+            title += '高雄市'
         elif(region == 'hsinchu'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/City-tile-Hsinchu.jpg'
+            title += '新竹市'
         elif(region == 'taoyuan'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/City-tile-taoyuan.jpg'
+            title += '桃園市'
         elif(region == 'keelung'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Keelung.jpg'
+            title += '基隆市'
         elif(region == 'tainan'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Tainan.jpg'
+            title += '台南市'
         elif(region == 'miaoli'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-title-Miaoli.jpg'
+            title += '苗栗市'
         elif(region == 'chiayi'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-chiayi.jpg'
+            title += '嘉義市'
         elif(region == 'changhua'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-changhua.jpg'
+            title += '彰化市'
         elif(region == 'yilan'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Yilan.jpg'
+            title += '宜蘭縣'
         elif(region == 'pingtung'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Pingtung.jpg'
+            title += '屏東縣'
         elif(region == 'yunlin'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Yunlin.jpg'
+            title += '雲林縣'
         elif(region == 'hualien'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Hualien.jpg'
+            title += '花蓮市'
         elif(region == 'nantou'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Nantou.jpg'
+            title += '南投市'
         elif(region == 'taitung'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Taitung.jpg'
+            title += '台東市'
         elif(region == 'penghu'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Penghu.jpg'
+            title += '澎湖縣'
         elif(region == 'kinmen'):
             url = 'https://images.deliveryhero.io/image/fd-tw/city-tile/city-tile-Kinmen.jpg'
+            title += '金門縣'
 
+        title += '的熱門餐廳'
         send_button_message(event.reply_token, title, text, btn, url)    
 
     def is_going_to_recommand_restaurant(self,event):
@@ -289,7 +309,7 @@ class TocMachine(GraphMachine):
         restaurant_info = restaurant_list[restaurant_id-1:restaurant_id]
         restaurant_url = restaurant_info['link']
 
-        title = restaurant_info['name'] + '\n'+ '評價： ' + str(restaurant_info['rating']) + '/5 (' + str(restaurant_info['count']) + ')\n' + '地址：' + restaurant_info['location']
+        title = restaurant_info['name']
         text = '選擇『餐廳網址』或是『推薦菜單』'
         btn = [
             MessageTemplateAction(
