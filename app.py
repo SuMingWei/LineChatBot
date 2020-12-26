@@ -52,7 +52,7 @@ machine = TocMachine(
         {
             "trigger": "go_back",
             "source": [
-                "choose_area"
+                "choose_area",
                 "choose_region", 
                 "choose_restaurant",
                 "recommand_restaurant",
