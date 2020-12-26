@@ -135,7 +135,7 @@ class TocMachine(GraphMachine):
                 ),
                 MessageTemplateAction(
                     label = '澎湖縣',
-                    text ='彭湖縣'
+                    text ='澎湖縣'
                 )
             ]  
         elif area == '東部':

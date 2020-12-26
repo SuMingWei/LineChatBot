@@ -136,7 +136,7 @@ def webhook_handler():
             elif machine.state == "choose_restaurant":
                 send_text_message(event.reply_token, '選擇『推薦餐廳』或是『重新選擇城市』！')
             elif machine.state == "recommand_restaurant":
-                send_text_message(event.reply_token, '選擇『推薦菜單』或是『其他推薦餐廳』')
+                send_text_message(event.reply_token, '選擇『前往訂餐』或是『快速瀏覽菜單』或是『其他推薦餐廳』')
             elif machine.state == "recommand_menu":
                 send_text_message(event.reply_token, "選擇『其他推薦餐廳』或是輸入『restart』重新開始")
             
