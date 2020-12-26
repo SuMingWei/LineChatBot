@@ -297,7 +297,7 @@ class TocMachine(GraphMachine):
     def is_going_to_recommand_restaurant(self,event):
         text = event.message.text
 
-        if text == '推薦餐廳' or ((self.state == 'web_url' or self.state == 'recommand_menu') and text == "返回推薦餐廳"):
+        if text == '推薦餐廳' or ((self.state == 'web_url' or self.state == 'recommand_menu') and text == "其他推薦餐廳"):
             return True
         
         return False
@@ -313,9 +313,9 @@ class TocMachine(GraphMachine):
         title = restaurant_info['name'].values[0]
         text = '評價：' + str(restaurant_info['rating'].values[0]) + '/5 (' + str(restaurant_info['count'].values[0]) + ')\n' + '地址：' + restaurant_info['location'].values[0]
         btn = [
-            MessageTemplateAction(
+            URITemplateAction(
                 label = '餐廳網址',
-                text ='餐廳網址'
+                uri = restaurant_url
             ),
             MessageTemplateAction(
                 label = '推薦菜單',
