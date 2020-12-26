@@ -12,56 +12,56 @@ from utils import send_text_message,send_image_message
 
 load_dotenv()
 
-machine = TocMachine(
-    states=[
-        "user", 
-        "state1", 
-        "state2"
-    ],
-    transitions=[
-        {"trigger": "advance","source": "user","dest": "state1","conditions": "is_going_to_state1"},
-        {"trigger": "advance","source": "user","dest": "state2","conditions": "is_going_to_state2"},
-        {"trigger": "go_back", "source": ["state1", "state2"], "dest": "user"},
-    ],
-    initial="user",
-    auto_transitions=False,
-    show_conditions=True,
-)
-
 # machine = TocMachine(
 #     states=[
 #         "user", 
-#         "choose_region", 
-#         "choose_restaurant",
-#         "recommand_restaurant",
-#         "web_url",
-#         "recommand_menu"
+#         "state1", 
+#         "state2"
 #     ],
 #     transitions=[
-#         {"trigger": "advance","source": "user","dest": "choose_region","conditions": "is_going_to_choose_region"},
-#         {"trigger": "advance","source": "choose_region","dest": "choose_restaurant","conditions": "is_going_to_choose_restaurant"},
-#         {"trigger": "advance","source": "choose_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
-#         {"trigger": "advance","source": "choose_restaurant","dest": "choose_region","conditions": "is_going_to_choose_region"},
-#         {"trigger": "advance","source": "recommand_restaurant","dest": "web_url","conditions": "is_going_to_web_url"},
-#         {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_menu","conditions": "is_going_to_recommand_menu"},
-#         {"trigger": "advance","source": "web_url","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
-#         {"trigger": "advance","source": "recommand_menu","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
-#         {
-#             "trigger": "go_back",
-#             "source": [
-#                 "choose_region", 
-#                 "choose_restaurant",
-#                 "recommand_restaurant",
-#                 "web_url",
-#                 "recommand_menu"
-#             ], 
-#             "dest": "user"
-#         },
+#         {"trigger": "advance","source": "user","dest": "state1","conditions": "is_going_to_state1"},
+#         {"trigger": "advance","source": "user","dest": "state2","conditions": "is_going_to_state2"},
+#         {"trigger": "go_back", "source": ["state1", "state2"], "dest": "user"},
 #     ],
 #     initial="user",
 #     auto_transitions=False,
 #     show_conditions=True,
 # )
+
+machine = TocMachine(
+    states=[
+        "user", 
+        "choose_region", 
+        "choose_restaurant",
+        "recommand_restaurant",
+        "web_url",
+        "recommand_menu"
+    ],
+    transitions=[
+        {"trigger": "advance","source": "user","dest": "choose_region","conditions": "is_going_to_choose_region"},
+        {"trigger": "advance","source": "choose_region","dest": "choose_restaurant","conditions": "is_going_to_choose_restaurant"},
+        {"trigger": "advance","source": "choose_restaurant","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
+        {"trigger": "advance","source": "choose_restaurant","dest": "choose_region","conditions": "is_going_to_choose_region"},
+        {"trigger": "advance","source": "recommand_restaurant","dest": "web_url","conditions": "is_going_to_web_url"},
+        {"trigger": "advance","source": "recommand_restaurant","dest": "recommand_menu","conditions": "is_going_to_recommand_menu"},
+        {"trigger": "advance","source": "web_url","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
+        {"trigger": "advance","source": "recommand_menu","dest": "recommand_restaurant","conditions": "is_going_to_recommand_restaurant"},
+        {
+            "trigger": "go_back",
+            "source": [
+                "choose_region", 
+                "choose_restaurant",
+                "recommand_restaurant",
+                "web_url",
+                "recommand_menu"
+            ], 
+            "dest": "user"
+        },
+    ],
+    initial="user",
+    auto_transitions=False,
+    show_conditions=True,
+)
 
 app = Flask(__name__, static_url_path="")
 
@@ -134,12 +134,14 @@ def webhook_handler():
         if response == False:
             if event.message.text.lower() == 'fsm':
                 send_image_message(event.reply_token, 'https://i.imgur.com/4DZEBZE.png?')
+            elif machine.state != 'user' and event.message.text.lower() == 'restart':
+                send_text_message(event.reply_token, '輸入『aneater』即可開始使用。\n隨時輸入『restart』可以從頭開始。\n隨時輸入『fsm』可以得到當下的狀態圖。')
+                machine.go_back()
             elif machine.state == "user":
                 send_text_message(event.reply_token, "in user")
-            elif machine.state == "state1":
-                send_text_message(event.reply_token, "in state 1")
-            elif machine.state == "state2":
-                send_text_message(event.reply_token, "in state 2")
+            elif machine.state == "choose_region":
+                send_text_message(event.reply_token, "in choose_region")
+            
             else:
                 send_text_message(event.reply_token, "fuck")
 
