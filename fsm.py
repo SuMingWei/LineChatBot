@@ -71,6 +71,29 @@ class TocMachine(GraphMachine):
                         text ='高雄市'
                     )
                 ]
+            ),
+            CarouselColumn(
+                thumbnail_image_url='顯示在開頭的大圖片網址',
+                title='this is menu1',
+                text='description1',
+                actions=[
+                    MessageTemplateAction(
+                        label = '新竹市',
+                        text ='新竹市'
+                    ),
+                    MessageTemplateAction(
+                        label = '桃園市',
+                        text ='桃園市'
+                    ),
+                    MessageTemplateAction(
+                        label = '基隆市',
+                        text ='基隆市'
+                    ),
+                    MessageTemplateAction(
+                        label = '台南市',
+                        text ='台南市'
+                    )
+                ]
             )
         ]
         btn1 = [
