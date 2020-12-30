@@ -19,7 +19,7 @@ class TocMachine(GraphMachine):
     # start on user
     def is_going_to_choose_area(self,event):
         text = event.message.text
-        if(text.lower() == '快速瀏覽') or (self.state == 'choose_region' and text == '重新選擇地區'):
+        if(text.lower() == 'aneater') or (self.state == 'choose_region' and text == '重新選擇地區'):
             return True
 
         return False
