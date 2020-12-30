@@ -15,6 +15,7 @@ load_dotenv()
 machine = TocMachine(
     states=[
         "user", 
+        "web",
         "choose_area",
         "choose_region", 
         "choose_restaurant",
@@ -22,7 +23,8 @@ machine = TocMachine(
         "recommand_menu"
     ],
     transitions=[
-        {"trigger": "advance","source": "user","dest": "choose_area","conditions": "is_going_to_choose_area"},
+        {"trigger": "advance","source": "user","dest": "web","conditions": "is_going_to_web"},
+        {"trigger": "advance","source": "web","dest": "choose_area","conditions": "is_going_to_choose_area"},
         {"trigger": "advance","source": "choose_area","dest": "choose_region","conditions": "is_going_to_choose_region"},
         {"trigger": "advance","source": "choose_region","dest": "choose_restaurant","conditions": "is_going_to_choose_restaurant"},
         {"trigger": "advance","source": "choose_region","dest": "choose_area","conditions": "is_going_to_choose_area"},
@@ -34,6 +36,7 @@ machine = TocMachine(
         {
             "trigger": "go_back",
             "source": [
+                "web"
                 "choose_area",
                 "choose_region", 
                 "choose_restaurant",

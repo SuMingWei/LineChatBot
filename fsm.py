@@ -19,7 +19,7 @@ class TocMachine(GraphMachine):
     # start on user
     def is_going_to_choose_area(self,event):
         text = event.message.text
-        if(text.lower() == 'aneater') or (self.state == 'choose_region' and text == '重新選擇地區'):
+        if(text.lower() == '快速瀏覽') or (self.state == 'choose_region' and text == '重新選擇地區'):
             return True
 
         return False
@@ -348,7 +348,29 @@ class TocMachine(GraphMachine):
 
 
         
+    def is_going_to_web(self,event):
+        text = event.message.text
+        if(text.lower() == 'aneater'):
+            return True
 
+        return False
+
+    def on_enter_web(self,event):
+        title = '開始使用'
+        text = '選擇『前往官網』或是『快速瀏覽』'
+        btn = [
+            URITemplateAction(
+                label = '前往官網',
+                uri = 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=CaxDoNRTsX6XXOIWus8IPsMkBvqu281vF_6vT1gzRv-TpowEIABABILlUKAJgn5mhBqABo__WxAPIAQGpApIsYFdYnbQ-yAPYIKoEQE_QLZXbpvX5yk_PFgoU52hzmShj52Eo6e95p0mqD23OtZxR8IzRvBGLrOj3sUo2qump88C_8kbgOk1xm2KnApPABN7Q3Nj5AYAFkE6gBlGAB_zBizSIBwGQBwGoB6a-G6gH8NkbqAfy2RuoB_PRG6gH7tIbqAfK3BuwCAHSCAUQAiCEAZoJHWh0dHBzOi8vd3d3LmZvb2RwYW5kYS5jb20udHcvsQlrND7dw7-xgLkJazQ-3cO_sYD4CQGYCwGqDAIIAbgMAZgWAQ&ae=2&ved=2ahUKEwjAloq7gPXtAhWxIqYKHeO0DEAQ0Qx6BAgMEAE&dct=1&dblrd=1&sival=AF15MEASMV8VSt6rQ_Dl2o3-f0Hb0NvMydVMz3dLfibFcX8x9i-q7kFoHNawtvHzciAzq-X0ESp0WGjFIfVcjnVoNK4NKDiqVrD4jd6BjMDEGn5ILP2KzhODk6A0F99fSM20fPxOpK5Z-YI1kcj-rSNmiqMX7IVlDg&sig=AOD64_1oYAeLPfa51FceuW0wzqW4zK8LiQ&adurl=https://www.foodpanda.com.tw/'
+            ),
+            MessageTemplateAction(
+                label = '快速瀏覽',
+                text ='快速瀏覽'
+            ),
+        ]
+        url = 'https://assets.foodora.com/f6f5bef/img/favicon/foodpanda/apple-touch-icon-57x57.png?f6f5bef'
+
+        send_button_message(event.reply_token, title, text, btn, url)          
 
     
 
